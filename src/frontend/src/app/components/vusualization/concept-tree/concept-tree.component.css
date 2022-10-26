@@ -1,0 +1,7 @@
+.chart {
+    width: 100%;
+    min-height:600px;
+    overflow-y: scroll;
+    overflow-x: scroll;
+    height:3000px;
+  }

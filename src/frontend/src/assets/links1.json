@@ -1,0 +1,5888 @@
+[
+    {
+        "source": "commission",
+        "target": "agreed campaigns",
+        "connection": "drafted",
+        "value": 0.28321503092622813
+    },
+    {
+        "source": "minutes",
+        "target": "question candidates",
+        "connection": "start",
+        "value": 0.3961171222569673
+    },
+    {
+        "source": "cover issues",
+        "target": "everyone",
+        "connection": "expect",
+        "value": 0.36187532419743185
+    },
+    {
+        "source": "voters",
+        "target": "press specifics",
+        "connection": "going",
+        "value": 0.39482248035201295
+    },
+    {
+        "source": "income inequality",
+        "target": "paycheck paycheck",
+        "connection": "remains",
+        "value": 0.6971631700404308
+    },
+    {
+        "source": "money",
+        "target": "American works",
+        "connection": "create",
+        "value": 0.10478114732196626
+    },
+    {
+        "source": "build",
+        "target": "everyone",
+        "connection": "works",
+        "value": 0.13317380788026936
+    },
+    {
+        "source": "means",
+        "target": "new jobs",
+        "connection": "need",
+        "value": 0.20943704180460174
+    },
+    {
+        "source": "new jobs",
+        "target": "small business",
+        "connection": "means",
+        "value": 0.7100811884653302
+    },
+    {
+        "source": "executives",
+        "target": "them",
+        "connection": "top",
+        "value": 0.31061319234544926
+    },
+    {
+        "source": "support people",
+        "target": "family work",
+        "connection": "want",
+        "value": 0.564488807478123
+    },
+    {
+        "source": "you",
+        "target": "stresses",
+        "connection": "heard",
+        "value": 0.20704271132106056
+    },
+    {
+        "source": "action",
+        "target": "life",
+        "connection": "plans",
+        "value": 0.8532506095661435
+    },
+    {
+        "source": "Mr. Trump",
+        "target": "you",
+        "connection": "question",
+        "value": 0.137720144337366
+    },
+    {
+        "source": "money",
+        "target": "American workers",
+        "connection": "pockets",
+        "value": 0.21034716132631454
+    },
+    {
+        "source": "jobs",
+        "target": "Mexico",
+        "connection": "fleeing",
+        "value": 0.36837584889785535
+    },
+    {
+        "source": "government",
+        "target": "them",
+        "connection": "'s",
+        "value": 0.2206953140850584
+    },
+    {
+        "source": "good fight",
+        "target": "fight",
+        "connection": "winning",
+        "value": 0.46497442682210777
+    },
+    {
+        "source": "piggy bank",
+        "target": "China",
+        "connection": "thing",
+        "value": 0.33428437985212667
+    },
+    {
+        "source": "friend",
+        "target": "wonder world",
+        "connection": "said",
+        "value": 0.6487656167872698
+    },
+    {
+        "source": "Hillary",
+        "target": "that",
+        "connection": "think",
+        "value": 0.15675795096755724
+    },
+    {
+        "source": "That",
+        "target": "Ronald Reagan",
+        "connection": "seen",
+        "value": 0.10879968146059646
+    },
+    {
+        "source": "rewards",
+        "target": "financial transactions",
+        "connection": "need",
+        "value": 0.34138681548411254
+    },
+    {
+        "source": "that",
+        "target": "economy",
+        "connection": "grow",
+        "value": 0.1409208299374827
+    },
+    {
+        "source": "investments",
+        "target": "rising incomes",
+        "connection": "produce",
+        "value": 0.5357521002646461
+    },
+    {
+        "source": "that",
+        "target": "fortunate life",
+        "connection": "'s",
+        "value": 0.15153428850835138
+    },
+    {
+        "source": "dumped paint",
+        "target": "squeegee",
+        "connection": "went",
+        "value": 0.3391201924236972
+    },
+    {
+        "source": "you",
+        "target": "jobs Americans",
+        "connection": "promised",
+        "value": 0.3444178562588887
+    },
+    {
+        "source": "going",
+        "target": "cheaper labor",
+        "connection": "left",
+        "value": 0.17045009520966914
+    },
+    {
+        "source": "thinking country",
+        "target": "loan 1975",
+        "connection": "needs",
+        "value": 0.28689091726235927
+    },
+    {
+        "source": "that",
+        "target": "trade deals",
+        "connection": "renegotiate",
+        "value": 0.07064772183835728
+    },
+    {
+        "source": "that",
+        "target": "things",
+        "connection": "taking",
+        "value": 0.1328057526454962
+    },
+    {
+        "source": "different system",
+        "target": "Mexico",
+        "connection": "'s",
+        "value": 0.30093850007275086
+    },
+    {
+        "source": "Secretary Clinton",
+        "target": "this",
+        "connection": "started",
+        "value": 0.1948610696590927
+    },
+    {
+        "source": "country economy",
+        "target": "question",
+        "connection": "owe",
+        "value": 0.5949148487368946
+    },
+    {
+        "source": "name",
+        "target": "them",
+        "connection": "thousands",
+        "value": 0.1760439636311084
+    },
+    {
+        "source": "you",
+        "target": "country tax",
+        "connection": "think",
+        "value": 0.055620526193504626
+    },
+    {
+        "source": "companies",
+        "target": "cases",
+        "connection": "want",
+        "value": 0.7999274973428746
+    },
+    {
+        "source": "tax policies",
+        "target": "perfect storm",
+        "connection": "slashed",
+        "value": 0.4761069507003207
+    },
+    {
+        "source": "Donald people",
+        "target": "housing crisis",
+        "connection": "rooted",
+        "value": 0.37719376391480103
+    },
+    {
+        "source": "jobs",
+        "target": "people",
+        "connection": "called",
+        "value": 0.7932063848837944
+    },
+    {
+        "source": "people",
+        "target": "homes",
+        "connection": "lost",
+        "value": 0.7791221492072969
+    },
+    {
+        "source": "policies",
+        "target": "place",
+        "connection": "precipice",
+        "value": 0.45710510461341736
+    },
+    {
+        "source": "recession",
+        "target": "they",
+        "connection": "said",
+        "value": 0.2801198929695134
+    },
+    {
+        "source": "investments",
+        "target": "economy",
+        "connection": "looked",
+        "value": 0.39663094869562054
+    },
+    {
+        "source": "climate change",
+        "target": "Chinese",
+        "connection": "thinks",
+        "value": 0.15563635685874072
+    },
+    {
+        "source": "you",
+        "target": "debt",
+        "connection": "looking",
+        "value": 0.26141775361927594
+    },
+    {
+        "source": "You",
+        "target": "years",
+        "connection": "'ve",
+        "value": 0.22945080621275862
+    },
+    {
+        "source": "you",
+        "target": "think solutions",
+        "connection": "starting",
+        "value": 0.2130100152119328
+    },
+    {
+        "source": "lot",
+        "target": "work",
+        "connection": "think",
+        "value": 0.2725479735238546
+    },
+    {
+        "source": "Manufacturing jobs",
+        "target": "look facts",
+        "connection": "went",
+        "value": 0.472184980804028
+    },
+    {
+        "source": "trade deals",
+        "target": "test",
+        "connection": "came",
+        "value": 0.45970001332096994
+    },
+    {
+        "source": "people",
+        "target": "trade deals",
+        "connection": "going",
+        "value": 0.42960067478813346
+    },
+    {
+        "source": "years number",
+        "target": "new jobs",
+        "connection": "work",
+        "value": 0.326421576880015
+    },
+    {
+        "source": "worst things",
+        "target": "manufacturing industry",
+        "connection": "happened",
+        "value": 0.19810431205398993
+    },
+    {
+        "source": "trade deal",
+        "target": "signed country",
+        "connection": "signed",
+        "value": 0.4058973427514016
+    },
+    {
+        "source": "CROSSTALK",
+        "target": "trade deals",
+        "connection": "called",
+        "value": 0.19041805855673222
+    },
+    {
+        "source": "you",
+        "target": "finest deal",
+        "connection": "said",
+        "value": 0.04173415725922759
+    },
+    {
+        "source": "Donald",
+        "target": "facts",
+        "connection": "know",
+        "value": 0.32167124315438067
+    },
+    {
+        "source": "book",
+        "target": "good deal",
+        "connection": "announced",
+        "value": 0.4755844693846656
+    },
+    {
+        "source": "debt",
+        "target": "rising incomes",
+        "connection": "said",
+        "value": 0.39582302171327466
+    },
+    {
+        "source": "families",
+        "target": "responsibilities business",
+        "connection": "help",
+        "value": 0.6360413295455554
+    },
+    {
+        "source": "jobs",
+        "target": "debt recession",
+        "connection": "looked",
+        "value": 0.35938527075810434
+    },
+    {
+        "source": "you",
+        "target": "regulations place",
+        "connection": "going",
+        "value": 0.27256106834890964
+    },
+    {
+        "source": "proud it",
+        "target": "new jobs",
+        "connection": "create",
+        "value": 0.11483052213089123
+    },
+    {
+        "source": "regulations",
+        "target": "businesses existence",
+        "connection": "going",
+        "value": 0.5853216064249315
+    },
+    {
+        "source": "business people",
+        "target": "regulation",
+        "connection": "around",
+        "value": 0.6546680888305169
+    },
+    {
+        "source": "old companies",
+        "target": "business",
+        "connection": "form",
+        "value": 0.2783409995656089
+    },
+    {
+        "source": "you",
+        "target": "taxes",
+        "connection": "going",
+        "value": 0.29194206468422607
+    },
+    {
+        "source": "you",
+        "target": "mine",
+        "connection": "see",
+        "value": 0.5198608163163346
+    },
+    {
+        "source": "plans",
+        "target": "debt",
+        "connection": "add",
+        "value": 0.455392231898671
+    },
+    {
+        "source": "cut regulations",
+        "target": "small businesses",
+        "connection": "streamline",
+        "value": 0.4183582955281593
+    },
+    {
+        "source": "wealthy corporations",
+        "target": "support country",
+        "connection": "think",
+        "value": 0.40652384391387447
+    },
+    {
+        "source": "CROSSTALK",
+        "target": "website",
+        "connection": "going",
+        "value": 0.2263988095325915
+    },
+    {
+        "source": "minute segment",
+        "target": "taxes",
+        "connection": "going",
+        "value": 0.29740408027025667
+    },
+    {
+        "source": "Mr. Trump",
+        "target": "website",
+        "connection": "going",
+        "value": 0.22948067060938987
+    },
+    {
+        "source": "Douglas MacArthur",
+        "target": "much",
+        "connection": "think",
+        "value": 0.12806884799020618
+    },
+    {
+        "source": "plan",
+        "target": "ISIS",
+        "connection": "fight",
+        "value": 0.6342019891801303
+    },
+    {
+        "source": "you",
+        "target": "enemy",
+        "connection": "telling",
+        "value": 0.16855400252078695
+    },
+    {
+        "source": "you",
+        "target": "enemy",
+        "connection": "telling",
+        "value": 0.16855400252078695
+    },
+    {
+        "source": "you",
+        "target": "adult life",
+        "connection": "wonder",
+        "value": 0.1277992767968314
+    },
+    {
+        "source": "issue",
+        "target": "talk taxes",
+        "connection": "want",
+        "value": 0.5544275818538582
+    },
+    {
+        "source": "you",
+        "target": "tax increase",
+        "connection": "calling",
+        "value": 0.171083011590648
+    },
+    {
+        "source": "you",
+        "target": "tax cuts",
+        "connection": "calling",
+        "value": 0.09806535899631665
+    },
+    {
+        "source": "wealthy going",
+        "target": "tremendous jobs",
+        "connection": "create",
+        "value": 0.24209573789241193
+    },
+    {
+        "source": "politicians",
+        "target": "country",
+        "connection": "allow",
+        "value": 0.39272116508687166
+    },
+    {
+        "source": "everybody",
+        "target": "money work",
+        "connection": "agrees",
+        "value": 0.44749456819538536
+    },
+    {
+        "source": "table",
+        "target": "something",
+        "connection": "sit",
+        "value": 0.5432964299426988
+    },
+    {
+        "source": "5 trillion",
+        "target": "country",
+        "connection": "bring",
+        "value": 0.021300390565626486
+    },
+    {
+        "source": "you",
+        "target": "things",
+        "connection": "use",
+        "value": 0.4071867306277841
+    },
+    {
+        "source": "LAUGHTER",
+        "target": "crazy things",
+        "connection": "join",
+        "value": 0.31850394729467213
+    },
+    {
+        "source": "companies",
+        "target": "money country",
+        "connection": "let",
+        "value": 0.30352894082599186
+    },
+    {
+        "source": "money",
+        "target": "that",
+        "connection": "changes",
+        "value": 0.20721912049233077
+    },
+    {
+        "source": "You",
+        "target": "name",
+        "connection": "gave",
+        "value": 0.16659054220056108
+    },
+    {
+        "source": "work",
+        "target": "mess",
+        "connection": "got",
+        "value": 0.4911064965630467
+    },
+    {
+        "source": "Slashing",
+        "target": "taxes",
+        "connection": "worked",
+        "value": 0.14924875419958356
+    },
+    {
+        "source": "wealthy people",
+        "target": "that",
+        "connection": "know",
+        "value": 0.02747810046557596
+    },
+    {
+        "source": "people",
+        "target": "lower rate",
+        "connection": "think",
+        "value": 0.16564805669241536
+    },
+    {
+        "source": "things",
+        "target": "economy",
+        "connection": "boost",
+        "value": 0.471230529492062
+    },
+    {
+        "source": "people",
+        "target": "America",
+        "connection": "advantages",
+        "value": 0.5370907753872186
+    },
+    {
+        "source": "what",
+        "target": "terms",
+        "connection": "jobs",
+        "value": 0.0766625348711304
+    },
+    {
+        "source": "that",
+        "target": "interest rates",
+        "connection": "looks",
+        "value": -0.016812593712347706
+    },
+    {
+        "source": "bad things",
+        "target": "interest rates",
+        "connection": "believe",
+        "value": 0.34353285132444833
+    },
+    {
+        "source": "burden Americans",
+        "target": "tax returns",
+        "connection": "pay",
+        "value": 0.47423189151842304
+    },
+    {
+        "source": "potential president",
+        "target": "business conflicts",
+        "connection": "owes",
+        "value": 0.43067688269268034
+    },
+    {
+        "source": "Americans",
+        "target": "interest",
+        "connection": "know",
+        "value": 0.2434711388274807
+    },
+    {
+        "source": "forms",
+        "target": "statement sorts",
+        "connection": "learn",
+        "value": 0.6277952894964253
+    },
+    {
+        "source": "income",
+        "target": "income",
+        "connection": "shows",
+        "value": 1.0
+    },
+    {
+        "source": "country",
+        "target": "needs",
+        "connection": "thinking",
+        "value": 0.1622458397107395
+    },
+    {
+        "source": "year",
+        "target": "country",
+        "connection": "ripped",
+        "value": 0.6367936253667997
+    },
+    {
+        "source": "who",
+        "target": "trade deals",
+        "connection": "means",
+        "value": -0.08479332521804858
+    },
+    {
+        "source": "question",
+        "target": "personal",
+        "connection": "outweigh",
+        "value": 0.2492983381352944
+    },
+    {
+        "source": "way life",
+        "target": "IRS",
+        "connection": "audited",
+        "value": 0.22975520503480346
+    },
+    {
+        "source": "situation country",
+        "target": "care",
+        "connection": "taken",
+        "value": 0.5281318503937839
+    },
+    {
+        "source": "APPLAUSE",
+        "target": "tax returns",
+        "connection": "release",
+        "value": 0.23591473820884526
+    },
+    {
+        "source": "lawyer",
+        "target": "returns audit",
+        "connection": "says",
+        "value": 0.3396178816233179
+    },
+    {
+        "source": "you",
+        "target": "and- switch",
+        "connection": "think",
+        "value": -0.03014129625249006
+    },
+    {
+        "source": "running president",
+        "target": "tax returns",
+        "connection": "released",
+        "value": 0.387856652617459
+    },
+    {
+        "source": "you",
+        "target": "couple reasons",
+        "connection": "got",
+        "value": 0.18098464966228364
+    },
+    {
+        "source": "income tax",
+        "target": "anybody",
+        "connection": "makes",
+        "value": 0.5634821133813
+    },
+    {
+        "source": "real reasons",
+        "target": "hide",
+        "connection": "think",
+        "value": 0.17047035020563694
+    },
+    {
+        "source": "American people",
+        "target": "see",
+        "connection": "deserve",
+        "value": 0.0422805634284726
+    },
+    {
+        "source": "reason",
+        "target": "tax returns",
+        "connection": "believe",
+        "value": 0.5709255445867457
+    },
+    {
+        "source": "question",
+        "target": "money",
+        "connection": "owe",
+        "value": 0.7386560319292825
+    },
+    {
+        "source": "man",
+        "target": "Fifth",
+        "connection": "think",
+        "value": 0.22278039500925925
+    },
+    {
+        "source": "tax returns",
+        "target": "tax returns",
+        "connection": "learn",
+        "value": 1.0
+    },
+    {
+        "source": "that",
+        "target": "650",
+        "connection": "said",
+        "value": 0.11123146307762286
+    },
+    {
+        "source": "buildings question",
+        "target": "report",
+        "connection": "was",
+        "value": 0.6647210079472469
+    },
+    {
+        "source": "list banks",
+        "target": "banks",
+        "connection": "help",
+        "value": 0.6116634002445406
+    },
+    {
+        "source": "somebody",
+        "target": "idea money",
+        "connection": "running",
+        "value": 0.55901854612624
+    },
+    {
+        "source": "good everything",
+        "target": "debt roads",
+        "connection": "airports",
+        "value": 0.23982317136617223
+    },
+    {
+        "source": "report",
+        "target": "Middle East",
+        "connection": "spent",
+        "value": 0.17992827179753587
+    },
+    {
+        "source": "politicians",
+        "target": "problem",
+        "connection": "caused",
+        "value": 0.23475287363972944
+    },
+    {
+        "source": "country",
+        "target": "new roads",
+        "connection": "needs",
+        "value": 0.26647350068309983
+    },
+    {
+        "source": "money",
+        "target": "ideas",
+        "connection": "squandered",
+        "value": 0.4794974034676825
+    },
+    {
+        "source": "States business",
+        "target": "that",
+        "connection": "think",
+        "value": 0.11642667203043185
+    },
+    {
+        "source": "lot businesses",
+        "target": "little guys",
+        "connection": "said",
+        "value": 0.4603671468626236
+    },
+    {
+        "source": "dad",
+        "target": "finished work",
+        "connection": "met",
+        "value": 0.2392363874619099
+    },
+    {
+        "source": "architect audience",
+        "target": "beautiful facility",
+        "connection": "designed",
+        "value": 0.44138136498358466
+    },
+    {
+        "source": "kind apology",
+        "target": "them",
+        "connection": "stiffed",
+        "value": 0.10849776337368186
+    },
+    {
+        "source": "expected bargain",
+        "target": "sides",
+        "connection": "worked",
+        "value": 0.1714010603652549
+    },
+    {
+        "source": "great businesspeople",
+        "target": "bankruptcy",
+        "connection": "taken",
+        "value": 0.30992854897388483
+    },
+    {
+        "source": "time",
+        "target": "United States",
+        "connection": "suggested",
+        "value": 0.1339314056119764
+    },
+    {
+        "source": "people",
+        "target": "laws nation",
+        "connection": "talks",
+        "value": 0.47757347692853264
+    },
+    {
+        "source": "you",
+        "target": "laws",
+        "connection": "'ve",
+        "value": 0.2895639044414186
+    },
+    {
+        "source": "budget",
+        "target": "tremendous money",
+        "connection": "saved",
+        "value": 0.3780277740458303
+    },
+    {
+        "source": "people",
+        "target": "costs",
+        "connection": "doing",
+        "value": 0.639200434440103
+    },
+    {
+        "source": "people",
+        "target": "large extent",
+        "connection": "buy",
+        "value": 0.21231203792025524
+    },
+    {
+        "source": "Secretary Clinton",
+        "target": "this",
+        "connection": "minutes",
+        "value": 0.1948610696590927
+    },
+    {
+        "source": "public schools",
+        "target": "justice system",
+        "connection": "determines",
+        "value": 0.3620537860231113
+    },
+    {
+        "source": "police officers",
+        "target": "reform",
+        "connection": "want",
+        "value": 0.43546866979199167
+    },
+    {
+        "source": "guns",
+        "target": "them",
+        "connection": "got",
+        "value": 0.1512752650586897
+    },
+    {
+        "source": "communities communities",
+        "target": "them",
+        "connection": "respect",
+        "value": 0.1915477542691715
+    },
+    {
+        "source": "that",
+        "target": "couple words",
+        "connection": "'s",
+        "value": 0.07893079108558931
+    },
+    {
+        "source": "what",
+        "target": "order country",
+        "connection": "look",
+        "value": -0.002627069724860855
+    },
+    {
+        "source": "they",
+        "target": "thousands shootings",
+        "connection": "'ve",
+        "value": 0.27190396626589874
+    },
+    {
+        "source": "shootings",
+        "target": "torn country",
+        "connection": "saying",
+        "value": 0.2378615589547614
+    },
+    {
+        "source": "doing",
+        "target": "violence",
+        "connection": "stop",
+        "value": 0.21417585291673708
+    },
+    {
+        "source": "Chicago",
+        "target": "Obama president",
+        "connection": "killed",
+        "value": 0.39521881296098416
+    },
+    {
+        "source": "Mayor Giuliani",
+        "target": "frisk",
+        "connection": "worked",
+        "value": 0.39417754388971277
+    },
+    {
+        "source": "guns",
+        "target": "people",
+        "connection": "shoot",
+        "value": 0.7376327998776477
+    },
+    {
+        "source": "minutes",
+        "target": "crime",
+        "connection": "decimated",
+        "value": 0.4369534416993049
+    },
+    {
+        "source": "mayor",
+        "target": "forward case",
+        "connection": "refused",
+        "value": 0.4332626419700627
+    },
+    {
+        "source": "argument",
+        "target": "racial profiling",
+        "connection": "form",
+        "value": 0.43608662273887494
+    },
+    {
+        "source": "people",
+        "target": "Chicago guns",
+        "connection": "killed",
+        "value": 0.4416287065621566
+    },
+    {
+        "source": "what",
+        "target": "Chicago",
+        "connection": "terrible",
+        "value": -0.05400983567200611
+    },
+    {
+        "source": "police officers",
+        "target": "night",
+        "connection": "killed",
+        "value": 0.2112468386184875
+    },
+    {
+        "source": "need",
+        "target": "law order",
+        "connection": "need",
+        "value": 0.40353188360077474
+    },
+    {
+        "source": "what",
+        "target": "Hispanic people",
+        "connection": "affected",
+        "value": 0.053270405916465875
+    },
+    {
+        "source": "opportunities families",
+        "target": "kids",
+        "connection": "employ",
+        "value": 0.5820146212462824
+    },
+    {
+        "source": "Property crime",
+        "target": "creep",
+        "connection": "want",
+        "value": 0.4295911095074632
+    },
+    {
+        "source": "Latino men",
+        "target": "nonviolent offenses",
+        "connection": "ended",
+        "value": 0.6909584595619866
+    },
+    {
+        "source": "motivation",
+        "target": "young Americans",
+        "connection": "profit",
+        "value": 0.25833606453288105
+    },
+    {
+        "source": "positive ways",
+        "target": "this",
+        "connection": "work",
+        "value": 0.12682088877048336
+    },
+    {
+        "source": "guns",
+        "target": "harm",
+        "connection": "need",
+        "value": 0.37486398192789044
+    },
+    {
+        "source": "who",
+        "target": "gun country",
+        "connection": "need",
+        "value": -0.031027223840677094
+    },
+    {
+        "source": "police",
+        "target": "black people",
+        "connection": "believe",
+        "value": 0.5030984997024239
+    },
+    {
+        "source": "great country",
+        "target": "conclusions",
+        "connection": "think",
+        "value": 0.3544440404046034
+    },
+    {
+        "source": "budget help",
+        "target": "police officers",
+        "connection": "comes",
+        "value": 0.5231128093557744
+    },
+    {
+        "source": "They",
+        "target": "lot concerns",
+        "connection": "got",
+        "value": 0.2188759516617371
+    },
+    {
+        "source": "police",
+        "target": "assistance",
+        "connection": "want",
+        "value": 0.5810508887722461
+    },
+    {
+        "source": "position offer",
+        "target": "that",
+        "connection": "think",
+        "value": 0.10324725148828488
+    },
+    {
+        "source": "no-",
+        "target": "lists",
+        "connection": "want",
+        "value": 0.18527712629102888
+    },
+    {
+        "source": "fly lists",
+        "target": "lists",
+        "connection": "think",
+        "value": 0.6292941414375781
+    },
+    {
+        "source": "you",
+        "target": "guns",
+        "connection": "comes",
+        "value": 0.2578445104000813
+    },
+    {
+        "source": "people",
+        "target": "truth",
+        "connection": "think",
+        "value": 0.475471179918349
+    },
+    {
+        "source": "hard believe",
+        "target": "supposed good",
+        "connection": "went",
+        "value": 0.29677006078908436
+    },
+    {
+        "source": "fair say",
+        "target": "murders",
+        "connection": "is",
+        "value": 0.12960536111877158
+    },
+    {
+        "source": "credit board",
+        "target": "mayors",
+        "connection": "going",
+        "value": 0.25215116171304763
+    },
+    {
+        "source": "communities",
+        "target": "work",
+        "connection": "come",
+        "value": 0.47252126280558954
+    },
+    {
+        "source": "young men",
+        "target": "neighborhoods",
+        "connection": "let",
+        "value": 0.5929049382713728
+    },
+    {
+        "source": "police",
+        "target": "deal problem",
+        "connection": "need",
+        "value": 0.4319673078304789
+    },
+    {
+        "source": "that",
+        "target": "Democrat politicians",
+        "connection": "is",
+        "value": 0.02831674853346172
+    },
+    {
+        "source": "They",
+        "target": "communities",
+        "connection": "controlled",
+        "value": 0.3487530756711698
+    },
+    {
+        "source": "Donald",
+        "target": "debate",
+        "connection": "think",
+        "value": 0.37844968829303893
+    },
+    {
+        "source": "Mr. Trump",
+        "target": "legitimacy",
+        "connection": "questioned",
+        "value": 0.19545619722991917
+    },
+    {
+        "source": "president",
+        "target": "United States",
+        "connection": "born",
+        "value": 0.21969454485890055
+    },
+    {
+        "source": "things",
+        "target": "strong border",
+        "connection": "was",
+        "value": 0.17583175152070737
+    },
+    {
+        "source": "you",
+        "target": "question",
+        "connection": "figured",
+        "value": 0.2213167246603639
+    },
+    {
+        "source": "Sidney Blumenthal",
+        "target": "reporter",
+        "connection": "sent",
+        "value": 0.151924787954166
+    },
+    {
+        "source": "Lester Holt",
+        "target": "lie bed",
+        "connection": "going",
+        "value": 0.2782040872417904
+    },
+    {
+        "source": "people",
+        "target": "Justice Department",
+        "connection": "understood",
+        "value": 0.25178533375617135
+    },
+    {
+        "source": "Michelle Obama",
+        "target": "amazing speech",
+        "connection": "remember",
+        "value": 0.09787124197670356
+    },
+    {
+        "source": "Mr. Trump",
+        "target": "going segment",
+        "connection": "respond",
+        "value": 0.008032161259912428
+    },
+    {
+        "source": "him",
+        "target": "campaign",
+        "connection": "sent",
+        "value": 0.16846448927123112
+    },
+    {
+        "source": "notice",
+        "target": "lot",
+        "connection": "bring",
+        "value": 0.35710942872133633
+    },
+    {
+        "source": "lawsuit",
+        "target": "estate firms",
+        "connection": "settled",
+        "value": 0.4244700343020896
+    },
+    {
+        "source": "segment",
+        "target": "day country",
+        "connection": "want",
+        "value": 0.6701029760811035
+    },
+    {
+        "source": "institutions",
+        "target": "attack",
+        "connection": "cyber",
+        "value": 0.5142068632497988
+    },
+    {
+        "source": "commercial reasons",
+        "target": "money",
+        "connection": "try",
+        "value": 0.36541478959450535
+    },
+    {
+        "source": "cyber attacks",
+        "target": "states",
+        "connection": "organs",
+        "value": 0.6289438568366966
+    },
+    {
+        "source": "Russia cyber",
+        "target": "this",
+        "connection": "'s",
+        "value": 0.09356283451353284
+    },
+    {
+        "source": "Putin",
+        "target": "Vladimir Putin",
+        "connection": "know",
+        "value": 0.6733992015353408
+    },
+    {
+        "source": "preferred methods",
+        "target": "information",
+        "connection": "let",
+        "value": 0.3207903746261497
+    },
+    {
+        "source": "going",
+        "target": "kinds tools",
+        "connection": "want",
+        "value": -0.009179183882148398
+    },
+    {
+        "source": "Russians",
+        "target": "that",
+        "connection": "understand",
+        "value": 0.15807933683401712
+    },
+    {
+        "source": "they",
+        "target": "probing",
+        "connection": "think",
+        "value": -0.039399124735801205
+    },
+    {
+        "source": "Donald",
+        "target": "hack Americans",
+        "connection": "shocked",
+        "value": 0.5148294131879406
+    },
+    {
+        "source": "minutes",
+        "target": "Republican information",
+        "connection": "served",
+        "value": 0.1825297940141444
+    },
+    {
+        "source": "Donald",
+        "target": "chief",
+        "connection": "said",
+        "value": 0.5155105716093418
+    },
+    {
+        "source": "admirals generals",
+        "target": "lead country",
+        "connection": "endorsed",
+        "value": 0.3354152033740422
+    },
+    {
+        "source": "addition",
+        "target": "ICE",
+        "connection": "endorsed",
+        "value": 0.4185415089010498
+    },
+    {
+        "source": "They",
+        "target": "anybody immigration",
+        "connection": "endorsed",
+        "value": 0.305211884573097
+    },
+    {
+        "source": "political hacks",
+        "target": "years knowledge",
+        "connection": "led",
+        "value": 0.36185776886717425
+    },
+    {
+        "source": "Russia",
+        "target": "Russia",
+        "connection": "think",
+        "value": 1.0
+    },
+    {
+        "source": "somebody",
+        "target": "pounds",
+        "connection": "weighs",
+        "value": 0.1419890227094686
+    },
+    {
+        "source": "Bernie Sanders",
+        "target": "advantage people",
+        "connection": "learned",
+        "value": 0.3145971821228358
+    },
+    {
+        "source": "Bernie Sanders",
+        "target": "advantage",
+        "connection": "taken",
+        "value": 0.20187620215269167
+    },
+    {
+        "source": "Secretary Clinton",
+        "target": "game",
+        "connection": "think",
+        "value": 0.4459721135794215
+    },
+    {
+        "source": "tech companies",
+        "target": "Europe",
+        "connection": "think",
+        "value": 0.37348270908648823
+    },
+    {
+        "source": "strikes ISIS",
+        "target": "progress",
+        "connection": "making",
+        "value": 0.481476674740158
+    },
+    {
+        "source": "foreign fighters",
+        "target": "possible leadership",
+        "connection": "fact",
+        "value": 0.42786852836384764
+    },
+    {
+        "source": "bombings",
+        "target": "Bernardino Orlando",
+        "connection": "think",
+        "value": 0.1863184177077107
+    },
+    {
+        "source": "Secretary Clinton",
+        "target": "ISIS",
+        "connection": "talking",
+        "value": 0.5429840216754553
+    },
+    {
+        "source": "Iraq",
+        "target": "disaster",
+        "connection": "created",
+        "value": 0.4431160961163665
+    },
+    {
+        "source": "you",
+        "target": "able form",
+        "connection": "saying",
+        "value": 0.16706876179341215
+    },
+    {
+        "source": "Donald",
+        "target": "invasion Iraq",
+        "connection": "supported",
+        "value": 0.6034027505152221
+    },
+    {
+        "source": "Gadhafi",
+        "target": "business time",
+        "connection": "took",
+        "value": 0.33165089542403914
+    },
+    {
+        "source": "American troops",
+        "target": "Iraq",
+        "connection": "says",
+        "value": 0.300747959020441
+    },
+    {
+        "source": "Iraqi government",
+        "target": "that",
+        "connection": "stayed",
+        "value": 0.08976832182501746
+    },
+    {
+        "source": "prevent attacks",
+        "target": "people",
+        "connection": "protect",
+        "value": 0.506381162661331
+    },
+    {
+        "source": "attacks",
+        "target": "Rahami",
+        "connection": "responded",
+        "value": 0.35490495012169454
+    },
+    {
+        "source": "that",
+        "target": "closely allies",
+        "connection": "means",
+        "value": 0.05675607322996356
+    },
+    {
+        "source": "Muslims",
+        "target": "Muslim community",
+        "connection": "insulted",
+        "value": 0.2140185346080302
+    },
+    {
+        "source": "lines",
+        "target": "information",
+        "connection": "provide",
+        "value": 0.5089497172442324
+    },
+    {
+        "source": "working years",
+        "target": "anyone",
+        "connection": "said",
+        "value": 0.23746421603400084
+    },
+    {
+        "source": "that",
+        "target": "deal",
+        "connection": "'s",
+        "value": 0.037388520573345504
+    },
+    {
+        "source": "NATO",
+        "target": "businessperson",
+        "connection": "think",
+        "value": 0.5149354536433469
+    },
+    {
+        "source": "countries",
+        "target": "fair share",
+        "connection": "paying",
+        "value": 0.24387839961127375
+    },
+    {
+        "source": "number",
+        "target": "terror",
+        "connection": "said",
+        "value": 0.7148471489960311
+    },
+    {
+        "source": "Journal NATO",
+        "target": "terror division",
+        "connection": "read",
+        "value": 0.42851332092904826
+    },
+    {
+        "source": "lot money",
+        "target": "people",
+        "connection": "protect",
+        "value": 0.3299854182465676
+    },
+    {
+        "source": "NATO",
+        "target": "focus terror",
+        "connection": "said",
+        "value": 0.32693377633221005
+    },
+    {
+        "source": "vacuum",
+        "target": "Secretary Clinton",
+        "connection": "think",
+        "value": 0.4504608341762403
+    },
+    {
+        "source": "ones",
+        "target": "troops",
+        "connection": "took",
+        "value": 0.8240180602460572
+    },
+    {
+        "source": "you",
+        "target": "ISIS",
+        "connection": "talking",
+        "value": 0.27378288885274454
+    },
+    {
+        "source": "you",
+        "target": "them",
+        "connection": "going",
+        "value": 0.7482221058241749
+    },
+    {
+        "source": "Mr. Trump",
+        "target": "Iraq invasion",
+        "connection": "supported",
+        "value": 0.4770267828999364
+    },
+    {
+        "source": "support",
+        "target": "Iraq",
+        "connection": "makes",
+        "value": 0.3936978100014842
+    },
+    {
+        "source": "best person",
+        "target": "mainstream media",
+        "connection": "think",
+        "value": 0.5151272082740378
+    },
+    {
+        "source": "record shows",
+        "target": "that",
+        "connection": "was",
+        "value": 0.044376600875630355
+    },
+    {
+        "source": "Neil Cavuto",
+        "target": "economy",
+        "connection": "talked",
+        "value": 0.38302871842605135
+    },
+    {
+        "source": "everybody",
+        "target": "Sean Hannity",
+        "connection": "refuses",
+        "value": 0.4082057543008046
+    },
+    {
+        "source": "Sean Hannity",
+        "target": "war",
+        "connection": "said",
+        "value": 0.49950863323734623
+    },
+    {
+        "source": "Sean Hannity",
+        "target": "him",
+        "connection": "said",
+        "value": 0.15050490630607125
+    },
+    {
+        "source": "war",
+        "target": "favor war",
+        "connection": "fights",
+        "value": 0.7473345537280579
+    },
+    {
+        "source": "article",
+        "target": "Iraq",
+        "connection": "war",
+        "value": 0.31238620212171114
+    },
+    {
+        "source": "compatriots",
+        "target": "read article",
+        "connection": "said",
+        "value": 0.3284808037593017
+    },
+    {
+        "source": "war",
+        "target": "Sean Hannity",
+        "connection": "started",
+        "value": 0.49950863323734623
+    },
+    {
+        "source": "arguments war",
+        "target": "stupid thing",
+        "connection": "said",
+        "value": 0.32889026726345255
+    },
+    {
+        "source": "problem",
+        "target": "that",
+        "connection": "said",
+        "value": 0.12905995017368335
+    },
+    {
+        "source": "military alliance",
+        "target": "this",
+        "connection": "called",
+        "value": 0.12221222277188912
+    },
+    {
+        "source": "Afghanistan",
+        "target": "terrorism",
+        "connection": "said",
+        "value": 0.43315082999960125
+    },
+    {
+        "source": "Russia China",
+        "target": "toughest sanctions",
+        "connection": "spent",
+        "value": 0.1695483873958801
+    },
+    {
+        "source": "President Obama",
+        "target": "deal",
+        "connection": "got",
+        "value": 0.28127688886610286
+    },
+    {
+        "source": "sailors ship",
+        "target": "American sailors",
+        "connection": "saw",
+        "value": 0.3792000151209485
+    },
+    {
+        "source": "water",
+        "target": "war",
+        "connection": "said",
+        "value": 0.820331753327029
+    },
+    {
+        "source": "worst part",
+        "target": "nuclear weapons",
+        "connection": "heard",
+        "value": 0.3662970917240908
+    },
+    {
+        "source": "nations",
+        "target": "nuclear weapons",
+        "connection": "said",
+        "value": 0.4661383616782648
+    },
+    {
+        "source": "United States",
+        "target": "nuclear weapons",
+        "connection": "reduce",
+        "value": 0.16070375607117174
+    },
+    {
+        "source": "threatening",
+        "target": "nuclear material",
+        "connection": "hands",
+        "value": 0.3273470294705102
+    },
+    {
+        "source": "man",
+        "target": "nuclear codes",
+        "connection": "provoked",
+        "value": 0.23433395341783203
+    },
+    {
+        "source": "greatest threat",
+        "target": "countries",
+        "connection": "defend",
+        "value": 0.2879597228154493
+    },
+    {
+        "source": "That",
+        "target": "everything",
+        "connection": "losing",
+        "value": 0.12697782090457344
+    },
+    {
+        "source": "country",
+        "target": "20 trillion",
+        "connection": "owes",
+        "value": 0.01264143446309883
+    },
+    {
+        "source": "threat country",
+        "target": "America",
+        "connection": "leads",
+        "value": 0.3477634524228045
+    },
+    {
+        "source": "President Obama",
+        "target": "policy use",
+        "connection": "considered",
+        "value": 0.39518505315839414
+    },
+    {
+        "source": "Secretary Clinton",
+        "target": "nuclear Russia",
+        "connection": "saying",
+        "value": 0.5522533166931817
+    },
+    {
+        "source": "Russia",
+        "target": "capability do",
+        "connection": "expanding",
+        "value": 0.25759887866459014
+    },
+    {
+        "source": "updating",
+        "target": "new standpoint",
+        "connection": "looked",
+        "value": 0.2765829823740993
+    },
+    {
+        "source": "nuclear alternative",
+        "target": "table",
+        "connection": "think",
+        "value": 0.39741598331337363
+    },
+    {
+        "source": "horrible deal",
+        "target": "North Korea",
+        "connection": "included",
+        "value": 0.22329686237635812
+    },
+    {
+        "source": "that",
+        "target": "Secretary Kerry",
+        "connection": "asked",
+        "value": 0.03247257537298455
+    },
+    {
+        "source": "cash",
+        "target": "hostages",
+        "connection": "guess",
+        "value": 0.4123723138820375
+    },
+    {
+        "source": "Iran",
+        "target": "nuclear problems",
+        "connection": "deal",
+        "value": 0.3732734151202538
+    },
+    {
+        "source": "Words matter",
+        "target": "president",
+        "connection": "run",
+        "value": 0.2397526899494651
+    },
+    {
+        "source": "defense treaties",
+        "target": "them",
+        "connection": "want",
+        "value": 0.21532949724635622
+    },
+    {
+        "source": "nuclear program",
+        "target": "that",
+        "connection": "deal",
+        "value": 0.04527854530558929
+    },
+    {
+        "source": "Donald",
+        "target": "war",
+        "connection": "started",
+        "value": 0.3254741132544728
+    },
+    {
+        "source": "plan",
+        "target": "ISIS",
+        "connection": "defeat",
+        "value": 0.6342019891801303
+    },
+    {
+        "source": "hints",
+        "target": "presidential campaigns",
+        "connection": "follow",
+        "value": 0.39267406028067675
+    },
+    {
+        "source": "country people",
+        "target": "bullies",
+        "connection": "intend",
+        "value": 0.2704984423252284
+    },
+    {
+        "source": "minutes",
+        "target": "opportunities",
+        "connection": "expired",
+        "value": 0.5811339524985569
+    },
+    {
+        "source": "Hillary",
+        "target": "place",
+        "connection": "tell",
+        "value": 0.3566012645183371
+    },
+    {
+        "source": "getting",
+        "target": "them",
+        "connection": "defeat",
+        "value": -0.12998614178877094
+    },
+    {
+        "source": "Japan",
+        "target": "billions dollars",
+        "connection": "want",
+        "value": 0.20000039336964856
+    },
+    {
+        "source": "that",
+        "target": "business ability",
+        "connection": "got",
+        "value": 0.11664071428231271
+    },
+    {
+        "source": "Clinton woman",
+        "target": "major party",
+        "connection": "nominated",
+        "value": 0.5946132247841801
+    },
+    {
+        "source": "president country",
+        "target": "tremendous stamina",
+        "connection": "need",
+        "value": 0.5326351577817563
+    },
+    {
+        "source": "defending",
+        "target": "them",
+        "connection": "speak",
+        "value": -0.11375862311815484
+    },
+    {
+        "source": "different things",
+        "target": "Hillary stamina",
+        "connection": "believe",
+        "value": 0.29356792482357563
+    },
+    {
+        "source": "world",
+        "target": "you",
+        "connection": "tell",
+        "value": 0.3541228127435201
+    },
+    {
+        "source": "bad deals",
+        "target": "experience",
+        "connection": "agree",
+        "value": 0.25412703397691006
+    },
+    {
+        "source": "Iran",
+        "target": "150 billion",
+        "connection": "deal",
+        "value": 0.10995625639952292
+    },
+    {
+        "source": "country",
+        "target": "experience",
+        "connection": "afford",
+        "value": 0.7008847342678898
+    },
+    {
+        "source": "women",
+        "target": "job men",
+        "connection": "deserve",
+        "value": 0.6039598795337001
+    },
+    {
+        "source": "worst things",
+        "target": "them",
+        "connection": "said",
+        "value": 0.1776260908742314
+    },
+    {
+        "source": "name",
+        "target": "this",
+        "connection": "find",
+        "value": 0.21638919457411862
+    },
+    {
+        "source": "Alicia Machado",
+        "target": "this",
+        "connection": "find",
+        "value": 0.13983664359098838
+    },
+    {
+        "source": "Hillary",
+        "target": "tremendous commercials",
+        "connection": "ask",
+        "value": 0.13594160729452817
+    },
+    {
+        "source": "everybody",
+        "target": "her",
+        "connection": "said",
+        "value": 0.19880822814924387
+    },
+    {
+        "source": "APPLAUSE",
+        "target": "election",
+        "connection": "win",
+        "value": 0.4217852785649518
+    },
+    {
+        "source": "final question",
+        "target": "outcome voters",
+        "connection": "accept",
+        "value": 0.28508605376302576
+    },
+    {
+        "source": "future",
+        "target": "country",
+        "connection": "kind",
+        "value": 0.5333901972222014
+    },
+    {
+        "source": "People",
+        "target": "country",
+        "connection": "pouring",
+        "value": 0.2926562951440014
+    },
+    {
+        "source": "people",
+        "target": "citizens",
+        "connection": "passed",
+        "value": 0.8764940297511484
+    },
+    {
+        "source": "answer",
+        "target": "her",
+        "connection": "believe",
+        "value": 0.11688935872948307
+    },
+    {
+        "source": "going",
+        "target": "lot ground",
+        "connection": "concludes",
+        "value": 0.10236121339907195
+    },
+    {
+        "source": "minutes",
+        "target": "question",
+        "connection": "respond",
+        "value": 0.12720099709848984
+    },
+    {
+        "source": "Secretary Clinton",
+        "target": "coin toss",
+        "connection": "won",
+        "value": 0.3561598509601603
+    },
+    {
+        "source": "you",
+        "target": "youth",
+        "connection": "assign",
+        "value": 0.30032156879541344
+    },
+    {
+        "source": "things",
+        "target": "campaign",
+        "connection": "think",
+        "value": 0.36632562399686325
+    },
+    {
+        "source": "going",
+        "target": "behalf country",
+        "connection": "celebrate",
+        "value": 0.1855548889776827
+    },
+    {
+        "source": "education system",
+        "target": "college",
+        "connection": "set",
+        "value": 0.7152502064437258
+    },
+    {
+        "source": "set goals",
+        "target": "them",
+        "connection": "achieve",
+        "value": 0.24740990111838027
+    },
+    {
+        "source": "political beliefs",
+        "target": "religion",
+        "connection": "want",
+        "value": 0.4970719943301064
+    },
+    {
+        "source": "children grandchildren",
+        "target": "that",
+        "connection": "want",
+        "value": 0.08406594697163287
+    },
+    {
+        "source": "foolish things",
+        "target": "country",
+        "connection": "began",
+        "value": 0.30556250985709377
+    },
+    {
+        "source": "who",
+        "target": "deals",
+        "connection": "making",
+        "value": 0.03418890541640438
+    },
+    {
+        "source": "policemen",
+        "target": "weekly basis",
+        "connection": "shot",
+        "value": 0.2594322582530626
+    },
+    {
+        "source": "Mr. Trump",
+        "target": "lot questions",
+        "connection": "imagine",
+        "value": 0.2964969997880213
+    },
+    {
+        "source": "bad things",
+        "target": "this",
+        "connection": "seen",
+        "value": 0.23105129430931812
+    },
+    {
+        "source": "vacuum",
+        "target": "bad judgment",
+        "connection": "happened",
+        "value": 0.27135139877937436
+    },
+    {
+        "source": "women",
+        "target": "respect women",
+        "connection": "kiss",
+        "value": 0.6618155155022034
+    },
+    {
+        "source": "you",
+        "target": "that",
+        "connection": "saying",
+        "value": 0.21744004264495714
+    },
+    {
+        "source": "things",
+        "target": "things",
+        "connection": "said",
+        "value": 1.0
+    },
+    {
+        "source": "they",
+        "target": "East places",
+        "connection": "coming",
+        "value": 0.07985276566093429
+    },
+    {
+        "source": "that",
+        "target": "wealth nation",
+        "connection": "going",
+        "value": 0.06515465136636536
+    },
+    {
+        "source": "they",
+        "target": "wealth",
+        "connection": "taking",
+        "value": 0.2801781739514804
+    },
+    {
+        "source": "that",
+        "target": "talk",
+        "connection": "want",
+        "value": 0.10279991680562671
+    },
+    {
+        "source": "Secretary Clinton",
+        "target": "respond",
+        "connection": "want",
+        "value": -0.0025701106307249493
+    },
+    {
+        "source": "Republicans independents",
+        "target": "thing",
+        "connection": "said",
+        "value": 0.24538814108863594
+    },
+    {
+        "source": "Friday Donald",
+        "target": "women",
+        "connection": "saw",
+        "value": 0.24345898611758893
+    },
+    {
+        "source": "debate",
+        "target": "personal terms",
+        "connection": "saw",
+        "value": 0.28853792239617143
+    },
+    {
+        "source": "video",
+        "target": "fitness president",
+        "connection": "\u2019s",
+        "value": 0.5525299896627166
+    },
+    {
+        "source": "question",
+        "target": "diversity",
+        "connection": "want",
+        "value": 0.7878311178380848
+    },
+    {
+        "source": "America",
+        "target": "love",
+        "connection": "values",
+        "value": 0.5427296924499805
+    },
+    {
+        "source": "that",
+        "target": "questions",
+        "connection": "want",
+        "value": 0.18746408111398766
+    },
+    {
+        "source": "New York",
+        "target": "jobs",
+        "connection": "heard",
+        "value": 0.09628182572171883
+    },
+    {
+        "source": "Hillary",
+        "target": "cities country",
+        "connection": "heard",
+        "value": 0.4116987101700397
+    },
+    {
+        "source": "nothing",
+        "target": "vote",
+        "connection": "wants",
+        "value": 0.43558110972376807
+    },
+    {
+        "source": "audience",
+        "target": "online questions",
+        "connection": "want",
+        "value": 0.37273973984564807
+    },
+    {
+        "source": "voters",
+        "target": "topic",
+        "connection": "want",
+        "value": 0.45370673422889424
+    },
+    {
+        "source": "campaign",
+        "target": "him",
+        "connection": "asks",
+        "value": 0.16846448927123112
+    },
+    {
+        "source": "Mr. Trump",
+        "target": "that",
+        "connection": "let",
+        "value": -0.025078702372936523
+    },
+    {
+        "source": "room talk",
+        "target": "you",
+        "connection": "told",
+        "value": 0.027785310465885404
+    },
+    {
+        "source": "Hillary Clinton",
+        "target": "women",
+        "connection": "attacked",
+        "value": 0.2839375693511452
+    },
+    {
+        "source": "separate occasions",
+        "target": "laughing girl",
+        "connection": "seen",
+        "value": 0.43404676488791033
+    },
+    {
+        "source": "President Clinton",
+        "target": "practice law",
+        "connection": "impeached",
+        "value": 0.3562474998643936
+    },
+    {
+        "source": "gets",
+        "target": "talk",
+        "connection": "wants",
+        "value": 0.04868912261447495
+    },
+    {
+        "source": "that",
+        "target": "better country",
+        "connection": "answering",
+        "value": 0.050442163694754405
+    },
+    {
+        "source": "reminded friend",
+        "target": "that",
+        "connection": "hear",
+        "value": 0.060257736649389444
+    },
+    {
+        "source": "man stage",
+        "target": "women",
+        "connection": "saying",
+        "value": 0.2781923255135034
+    },
+    {
+        "source": "Mrs. Khan",
+        "target": "duty Iraq",
+        "connection": "apologized",
+        "value": 0.5624332254746456
+    },
+    {
+        "source": "Donald",
+        "target": "weeks religion",
+        "connection": "attacked",
+        "value": 0.3540847039640171
+    },
+    {
+        "source": "apologized reporter",
+        "target": "television children",
+        "connection": "mimicked",
+        "value": 0.34780008172622096
+    },
+    {
+        "source": "President Obama",
+        "target": "States America",
+        "connection": "apologized",
+        "value": 0.8003044844252626
+    },
+    {
+        "source": "pictures",
+        "target": "You",
+        "connection": "sent",
+        "value": 0.2642844006512563
+    },
+    {
+        "source": "Michelle Obama",
+        "target": "you",
+        "connection": "gotten",
+        "value": 0.37087716549754113
+    },
+    {
+        "source": "race",
+        "target": "Sanders race",
+        "connection": "lost",
+        "value": 0.6227834753751319
+    },
+    {
+        "source": "office",
+        "target": "missing",
+        "connection": "boxes",
+        "value": 0.27061299067720573
+    },
+    {
+        "source": "mails",
+        "target": "expensive process",
+        "connection": "delete",
+        "value": 0.21691778881328774
+    },
+    {
+        "source": "Secretary Clinton",
+        "target": "that",
+        "connection": "want",
+        "value": 0.05285031036359336
+    },
+    {
+        "source": "audience",
+        "target": "Donald time",
+        "connection": "told",
+        "value": 0.5299893035807746
+    },
+    {
+        "source": "fact",
+        "target": "real time",
+        "connection": "check",
+        "value": 0.4298075079892575
+    },
+    {
+        "source": "Secretary Clinton",
+        "target": "audience talk",
+        "connection": "want",
+        "value": 0.43010615526867557
+    },
+    {
+        "source": "You",
+        "target": "time",
+        "connection": "wasting",
+        "value": 0.23749899328972826
+    },
+    {
+        "source": "Secretary Clinton",
+        "target": "e- mails",
+        "connection": "want",
+        "value": 0.17762658683497784
+    },
+    {
+        "source": "You",
+        "target": "mails mistake",
+        "connection": "said",
+        "value": 0.1802125094277119
+    },
+    {
+        "source": "hostile actors",
+        "target": "mails",
+        "connection": "said",
+        "value": 0.4147022275272
+    },
+    {
+        "source": "classified material",
+        "target": "wrong hands",
+        "connection": "says",
+        "value": 0.4864791045023332
+    },
+    {
+        "source": "secretary state",
+        "target": "bin Laden",
+        "connection": "possess",
+        "value": 0.4537665795170055
+    },
+    {
+        "source": "classified information",
+        "target": "wrong hands",
+        "connection": "ended",
+        "value": 0.5487079633976191
+    },
+    {
+        "source": "letter",
+        "target": "word",
+        "connection": "meant",
+        "value": 0.8061833290475826
+    },
+    {
+        "source": "getting",
+        "target": "subpoena",
+        "connection": "was",
+        "value": 0.07794171100657896
+    },
+    {
+        "source": "husband",
+        "target": "going case",
+        "connection": "goes",
+        "value": 0.472438621271532
+    },
+    {
+        "source": "15,000",
+        "target": "respond",
+        "connection": "allow",
+        "value": 0.24084241767389772
+    },
+    {
+        "source": "people",
+        "target": "talk",
+        "connection": "debate",
+        "value": 0.24765314063055616
+    },
+    {
+        "source": "Republicans",
+        "target": "you",
+        "connection": "avoid",
+        "value": 0.3264108479193059
+    },
+    {
+        "source": "Secretary Clinton",
+        "target": "audience",
+        "connection": "started",
+        "value": 0.39293297169228264
+    },
+    {
+        "source": "series actions",
+        "target": "costs",
+        "connection": "laid",
+        "value": 0.5895312606886252
+    },
+    {
+        "source": "insurance",
+        "target": "families",
+        "connection": "meet",
+        "value": 0.5423645537217316
+    },
+    {
+        "source": "insurance employees",
+        "target": "big benefits",
+        "connection": "got",
+        "value": 0.5723455992961143
+    },
+    {
+        "source": "insurance companies",
+        "target": "existing condition",
+        "connection": "deny",
+        "value": 0.47459781142628166
+    },
+    {
+        "source": "women",
+        "target": "health insurance",
+        "connection": "charged",
+        "value": 0.3044830392829448
+    },
+    {
+        "source": "save",
+        "target": "Care Act",
+        "connection": "want",
+        "value": 0.2191517904988815
+    },
+    {
+        "source": "small businesses",
+        "target": "health insurance",
+        "connection": "got",
+        "value": 0.4596446784534407
+    },
+    {
+        "source": "Donald",
+        "target": "lost everybody",
+        "connection": "repeal",
+        "value": 0.10403621982182462
+    },
+    {
+        "source": "numbers",
+        "target": "nobody",
+        "connection": "going",
+        "value": 0.33379628290848107
+    },
+    {
+        "source": "Nobody",
+        "target": "health care",
+        "connection": "seen",
+        "value": 0.42761242551688805
+    },
+    {
+        "source": "repeal",
+        "target": "expensive works",
+        "connection": "replace",
+        "value": 0.3068233026111435
+    },
+    {
+        "source": "President Obama",
+        "target": "monopolies",
+        "connection": "rid",
+        "value": 0.3572003288329091
+    },
+    {
+        "source": "United States",
+        "target": "system",
+        "connection": "wants",
+        "value": 0.17296491392214763
+    },
+    {
+        "source": "government",
+        "target": "everything",
+        "connection": "wants",
+        "value": 0.5116426143079896
+    },
+    {
+        "source": "Secretary Clinton",
+        "target": "you",
+        "connection": "let",
+        "value": 0.2664334763094177
+    },
+    {
+        "source": "coverage",
+        "target": "half",
+        "connection": "cut",
+        "value": 0.3502971870202492
+    },
+    {
+        "source": "mistaken mistake",
+        "target": "truth",
+        "connection": "telling",
+        "value": 0.5099361308148598
+    },
+    {
+        "source": "situation country",
+        "target": "different system",
+        "connection": "start",
+        "value": 0.5628125018210623
+    },
+    {
+        "source": "resources",
+        "target": "health care",
+        "connection": "meant",
+        "value": 0.2793247177714762
+    },
+    {
+        "source": "people",
+        "target": "them",
+        "connection": "takes",
+        "value": 0.3902977819494751
+    },
+    {
+        "source": "insurance companies",
+        "target": "insurance companies",
+        "connection": "means",
+        "value": 1.0
+    },
+    {
+        "source": "you",
+        "target": "diabetes",
+        "connection": "got",
+        "value": 0.3244155670279018
+    },
+    {
+        "source": "That",
+        "target": "work",
+        "connection": "going",
+        "value": 0.08207093771019765
+    },
+    {
+        "source": "Mr. Trump",
+        "target": "this",
+        "connection": "let",
+        "value": 0.11775876526824437
+    },
+    {
+        "source": "You",
+        "target": "end",
+        "connection": "said",
+        "value": 0.18219294580195958
+    },
+    {
+        "source": "You",
+        "target": "end",
+        "connection": "said",
+        "value": 0.18219294580195958
+    },
+    {
+        "source": "You",
+        "target": "existing conditions",
+        "connection": "said",
+        "value": 0.029145764745459025
+    },
+    {
+        "source": "you",
+        "target": "American insurance",
+        "connection": "companies",
+        "value": 0.078546146185898
+    },
+    {
+        "source": "You",
+        "target": "plans",
+        "connection": "going",
+        "value": 0.25418815598027666
+    },
+    {
+        "source": "come",
+        "target": "health insurance",
+        "connection": "allow",
+        "value": -0.022608561159856048
+    },
+    {
+        "source": "passage Obamacare",
+        "target": "lines",
+        "connection": "gone",
+        "value": 0.3647321490092597
+    },
+    {
+        "source": "President Obama",
+        "target": "plan",
+        "connection": "said",
+        "value": 0.3298120001340074
+    },
+    {
+        "source": "people",
+        "target": "people",
+        "connection": "money",
+        "value": 1.0
+    },
+    {
+        "source": "necessary funds",
+        "target": "themselves",
+        "connection": "care",
+        "value": 0.09106708315186819
+    },
+    {
+        "source": "Gorbah",
+        "target": "question candidates",
+        "connection": "Hamed",
+        "value": 0.4284369150761895
+    },
+    {
+        "source": "people",
+        "target": "country election",
+        "connection": "mentioned",
+        "value": 0.2617597747053945
+    },
+    {
+        "source": "Muslims",
+        "target": "them",
+        "connection": "report",
+        "value": 0.053298589953340275
+    },
+    {
+        "source": "Look",
+        "target": "Islamic terrorism",
+        "connection": "mention",
+        "value": 0.2401297674331987
+    },
+    {
+        "source": "dark things",
+        "target": "States Army",
+        "connection": "heard",
+        "value": 0.27181793286228245
+    },
+    {
+        "source": "you",
+        "target": "community",
+        "connection": "\u2019re",
+        "value": 0.27849978846254575
+    },
+    {
+        "source": "Muslims eyes",
+        "target": "lines",
+        "connection": "need",
+        "value": 0.5558634468179032
+    },
+    {
+        "source": "that",
+        "target": "country",
+        "connection": "see",
+        "value": 0.0008696719067613578
+    },
+    {
+        "source": "important intend",
+        "target": "ISIS",
+        "connection": "\u2019s",
+        "value": 0.32531590466045646
+    },
+    {
+        "source": "lot nations",
+        "target": "ISIS terrorists",
+        "connection": "says",
+        "value": 0.6167906771978507
+    },
+    {
+        "source": "act",
+        "target": "hands",
+        "connection": "are",
+        "value": 0.07383476587783734
+    },
+    {
+        "source": "country citizens",
+        "target": "family",
+        "connection": "want",
+        "value": 0.5866466137717214
+    },
+    {
+        "source": "Mr. Trump",
+        "target": "this",
+        "connection": "said",
+        "value": 0.11775876526824437
+    },
+    {
+        "source": "hell",
+        "target": "representatives",
+        "connection": "figure",
+        "value": 0.21252204066936473
+    },
+    {
+        "source": "running mate",
+        "target": "longer position",
+        "connection": "said",
+        "value": 0.39381899938689574
+    },
+    {
+        "source": "all",
+        "target": "war",
+        "connection": "voted",
+        "value": 0.21248190750987175
+    },
+    {
+        "source": "ban form",
+        "target": "areas world",
+        "connection": "morphed",
+        "value": 0.4820638698753524
+    },
+    {
+        "source": "they",
+        "target": "Syria",
+        "connection": "areas",
+        "value": 0.4568150483706938
+    },
+    {
+        "source": "percent",
+        "target": "Obama",
+        "connection": "wants",
+        "value": 0.5328605101679111
+    },
+    {
+        "source": "feelings country",
+        "target": "idea",
+        "connection": "is",
+        "value": 0.40621334383743146
+    },
+    {
+        "source": "people",
+        "target": "people",
+        "connection": "believe",
+        "value": 1.0
+    },
+    {
+        "source": "people",
+        "target": "them",
+        "connection": "problems",
+        "value": 0.3902977819494751
+    },
+    {
+        "source": "values",
+        "target": "love country",
+        "connection": "know",
+        "value": 0.36486783711225446
+    },
+    {
+        "source": "Secretary Clinton",
+        "target": "Syrian refugees",
+        "connection": "let",
+        "value": 0.30124709254201976
+    },
+    {
+        "source": "children",
+        "target": "catastrophic war",
+        "connection": "aggression",
+        "value": 0.1973454164016017
+    },
+    {
+        "source": "Europe",
+        "target": "load",
+        "connection": "means",
+        "value": 0.39309078508050616
+    },
+    {
+        "source": "country",
+        "target": "freedom liberty",
+        "connection": "founded",
+        "value": 0.6228517723349788
+    },
+    {
+        "source": "people",
+        "target": "country",
+        "connection": "fly",
+        "value": 0.500340105759644
+    },
+    {
+        "source": "country",
+        "target": "them",
+        "connection": "says",
+        "value": 0.20098393222240465
+    },
+    {
+        "source": "that",
+        "target": "country",
+        "connection": "said",
+        "value": 0.0008696719067613578
+    },
+    {
+        "source": "you",
+        "target": "bad judgment",
+        "connection": "said",
+        "value": 0.05097861259798982
+    },
+    {
+        "source": "drugs",
+        "target": "happen",
+        "connection": "letting",
+        "value": -0.0800158156623451
+    },
+    {
+        "source": "They",
+        "target": "presidential candidate",
+        "connection": "endorsed",
+        "value": 0.035388862716786595
+    },
+    {
+        "source": "Patrol agents",
+        "target": "understand border",
+        "connection": "endorsed",
+        "value": 0.24208244683177738
+    },
+    {
+        "source": "She",
+        "target": "bad judgment",
+        "connection": "got",
+        "value": 0.014283714190542168
+    },
+    {
+        "source": "Americans",
+        "target": "millions votes",
+        "connection": "submitted",
+        "value": 0.4563760573348694
+    },
+    {
+        "source": "Secretary Clinton",
+        "target": "certain issues",
+        "connection": "involves",
+        "value": 0.09671890803483889
+    },
+    {
+        "source": "Virginia",
+        "target": "stance issues",
+        "connection": "asks",
+        "value": 0.25851045011869517
+    },
+    {
+        "source": "President Lincoln",
+        "target": "arguments",
+        "connection": "trying",
+        "value": 0.23072666089971483
+    },
+    {
+        "source": "what",
+        "target": "influence election",
+        "connection": "let",
+        "value": -0.06815132516199242
+    },
+    {
+        "source": "They",
+        "target": "Donald Trump",
+        "connection": "try",
+        "value": 0.22048872795069
+    },
+    {
+        "source": "Putin",
+        "target": "reasons",
+        "connection": "says",
+        "value": 0.26501151353583374
+    },
+    {
+        "source": "Donald",
+        "target": "financial relationships",
+        "connection": "demand",
+        "value": 0.13359937180200224
+    },
+    {
+        "source": "she",
+        "target": "total lie",
+        "connection": "blaming",
+        "value": 0.07163679149341923
+    },
+    {
+        "source": "she",
+        "target": "Abraham Lincoln",
+        "connection": "blaming",
+        "value": 0.186512198181144
+    },
+    {
+        "source": "Abraham",
+        "target": "you",
+        "connection": "\u2019s",
+        "value": 0.5528008852827155
+    },
+    {
+        "source": "Russia",
+        "target": "ISIS",
+        "connection": "think",
+        "value": 0.7357603607013562
+    },
+    {
+        "source": "Russians",
+        "target": "Russians",
+        "connection": "know",
+        "value": 1.0
+    },
+    {
+        "source": "they",
+        "target": "tarnish Russia",
+        "connection": "blame",
+        "value": 0.2121886270926546
+    },
+    {
+        "source": "balance sheet",
+        "target": "Post Office",
+        "connection": "chose",
+        "value": 0.5065134705273981
+    },
+    {
+        "source": "friends",
+        "target": "bigger deductions",
+        "connection": "took",
+        "value": 0.4594564273918931
+    },
+    {
+        "source": "Warren Buffett",
+        "target": "massive deduction",
+        "connection": "took",
+        "value": 0.17501560051299958
+    },
+    {
+        "source": "who",
+        "target": "massive deduction",
+        "connection": "took",
+        "value": 0.038121079907489454
+    },
+    {
+        "source": "people",
+        "target": "massive deductions",
+        "connection": "took",
+        "value": 0.5194994812786102
+    },
+    {
+        "source": "wealthiest Americans",
+        "target": "share taxes",
+        "connection": "is",
+        "value": 0.1918701642707498
+    },
+    {
+        "source": "people",
+        "target": "tax code",
+        "connection": "knock",
+        "value": 0.2565265772932786
+    },
+    {
+        "source": "Donald Trump",
+        "target": "tax code",
+        "connection": "complains",
+        "value": 0.47376012269061224
+    },
+    {
+        "source": "friends advantage",
+        "target": "reason",
+        "connection": "change",
+        "value": 0.48002824711289416
+    },
+    {
+        "source": "people",
+        "target": "negative ads",
+        "connection": "gave",
+        "value": 0.5424644473247008
+    },
+    {
+        "source": "Hillary",
+        "target": "things years",
+        "connection": "heard",
+        "value": 0.2572375752156377
+    },
+    {
+        "source": "corporations",
+        "target": "taxes",
+        "connection": "think",
+        "value": 0.818549745376753
+    },
+    {
+        "source": "Hillary Clinton",
+        "target": "taxes",
+        "connection": "tell",
+        "value": 0.2693832755588384
+    },
+    {
+        "source": "She",
+        "target": "taxes",
+        "connection": "raising",
+        "value": 0.22747462830313703
+    },
+    {
+        "source": "that",
+        "target": "disaster country",
+        "connection": "going",
+        "value": -0.014045233354066303
+    },
+    {
+        "source": "that",
+        "target": "growth",
+        "connection": "\u2019s",
+        "value": 0.14751476842222513
+    },
+    {
+        "source": "wealthiest Americans",
+        "target": "share taxes",
+        "connection": "was",
+        "value": 0.1918701642707498
+    },
+    {
+        "source": "tax cuts",
+        "target": "two",
+        "connection": "factor",
+        "value": 0.286398371567408
+    },
+    {
+        "source": "Donald",
+        "target": "massive gift",
+        "connection": "takes",
+        "value": 0.19978322030175627
+    },
+    {
+        "source": "tax cuts",
+        "target": "class families",
+        "connection": "talks",
+        "value": 0.8237336216794313
+    },
+    {
+        "source": "money",
+        "target": "taxes",
+        "connection": "said",
+        "value": 0.44977700175875857
+    },
+    {
+        "source": "money people",
+        "target": "tax code",
+        "connection": "taken",
+        "value": 0.6850563550313409
+    },
+    {
+        "source": "dollar loss",
+        "target": "taxes",
+        "connection": "voted",
+        "value": 0.3595536067418004
+    },
+    {
+        "source": "tax people",
+        "target": "dollars",
+        "connection": "want",
+        "value": 0.4875626495138409
+    },
+    {
+        "source": "rate secretary",
+        "target": "somebody",
+        "connection": "said",
+        "value": 0.38487260977502114
+    },
+    {
+        "source": "lost times",
+        "target": "you",
+        "connection": "want",
+        "value": 0.04081409434301908
+    },
+    {
+        "source": "People",
+        "target": "taxes",
+        "connection": "paid",
+        "value": 0.6408373356036621
+    },
+    {
+        "source": "Mr. Trump",
+        "target": "chance respond",
+        "connection": "want",
+        "value": 0.21558029505271448
+    },
+    {
+        "source": "she",
+        "target": "time campaign",
+        "connection": "wanted",
+        "value": 0.0018274108200156355
+    },
+    {
+        "source": "York Times",
+        "target": "taxes years",
+        "connection": "published",
+        "value": 0.29851841495059916
+    },
+    {
+        "source": "You",
+        "target": "state taxes",
+        "connection": "said",
+        "value": 0.24655480855683323
+    },
+    {
+        "source": "donors",
+        "target": "donors",
+        "connection": "know",
+        "value": 1.0
+    },
+    {
+        "source": "donors",
+        "target": "offs",
+        "connection": "took",
+        "value": 0.7624074166160593
+    },
+    {
+        "source": "that",
+        "target": "president",
+        "connection": "understand",
+        "value": -0.009505785783104218
+    },
+    {
+        "source": "Clinton friends",
+        "target": "interest provision",
+        "connection": "want",
+        "value": 0.4263922787880282
+    },
+    {
+        "source": "Hillary",
+        "target": "interest provision",
+        "connection": "believe",
+        "value": 0.2593821922342377
+    },
+    {
+        "source": "she",
+        "target": "carried interest",
+        "connection": "leaving",
+        "value": -0.07597155738830134
+    },
+    {
+        "source": "Hillary",
+        "target": "money",
+        "connection": "people",
+        "value": 0.39729645631648
+    },
+    {
+        "source": "they",
+        "target": "names",
+        "connection": "\u2019re",
+        "value": 0.2732206194716476
+    },
+    {
+        "source": "years",
+        "target": "income taxes",
+        "connection": "avoided",
+        "value": 0.3778944641914085
+    },
+    {
+        "source": "ISIS",
+        "target": "place",
+        "connection": "formed",
+        "value": 0.6742485831996238
+    },
+    {
+        "source": "they",
+        "target": "little area",
+        "connection": "\u2019re",
+        "value": 0.027708245631437922
+    },
+    {
+        "source": "effective senator",
+        "target": "respond",
+        "connection": "allow",
+        "value": 0.2517644436786733
+    },
+    {
+        "source": "Democrats Republicans",
+        "target": "Insurance Program",
+        "connection": "create",
+        "value": 0.41143460936717674
+    },
+    {
+        "source": "dosing",
+        "target": "safer medicines",
+        "connection": "did",
+        "value": 0.30735283645445016
+    },
+    {
+        "source": "Russia",
+        "target": "rights",
+        "connection": "went",
+        "value": 0.3511980516954291
+    },
+    {
+        "source": "senator years",
+        "target": "bigger margin",
+        "connection": "worked",
+        "value": 0.29462379761315177
+    },
+    {
+        "source": "able people",
+        "target": "common ground",
+        "connection": "president",
+        "value": 0.3513929859923509
+    },
+    {
+        "source": "people",
+        "target": "worse images",
+        "connection": "pulled",
+        "value": 0.3079523049399831
+    },
+    {
+        "source": "State Department",
+        "target": "Assad ally",
+        "connection": "called",
+        "value": 0.5807150397718736
+    },
+    {
+        "source": ". question",
+        "target": "media Facebook",
+        "connection": "comes",
+        "value": 0.2363988473828639
+    },
+    {
+        "source": "Diane Pennsylvania",
+        "target": "president",
+        "connection": "asks",
+        "value": 0.4730900944465612
+    },
+    {
+        "source": "partnership Iranians",
+        "target": "places",
+        "connection": "ground",
+        "value": 0.45585277887780234
+    },
+    {
+        "source": "air force",
+        "target": "Assad regime",
+        "connection": "eliminate",
+        "value": 0.5005697564224312
+    },
+    {
+        "source": "Russia",
+        "target": "attention ISIS",
+        "connection": "paid",
+        "value": 0.5037470742308252
+    },
+    {
+        "source": "They",
+        "target": "Assad power",
+        "connection": "\u2019re",
+        "value": 0.2088243970708892
+    },
+    {
+        "source": "stake ambitions",
+        "target": "Russia",
+        "connection": "want",
+        "value": 0.3865165751112178
+    },
+    {
+        "source": "that",
+        "target": "Russia",
+        "connection": "think",
+        "value": 0.24514567542893617
+    },
+    {
+        "source": "That",
+        "target": "nuclear weapons",
+        "connection": "got",
+        "value": -0.03432917219091052
+    },
+    {
+        "source": "war crimes",
+        "target": "Syrians Russians",
+        "connection": "investigate",
+        "value": 0.2572618622000167
+    },
+    {
+        "source": "which",
+        "target": "you",
+        "connection": "hate",
+        "value": 0.21945560166591763
+    },
+    {
+        "source": "Obama",
+        "target": "you",
+        "connection": "listened",
+        "value": 0.5244772776507345
+    },
+    {
+        "source": "Obama",
+        "target": "line sand",
+        "connection": "draws",
+        "value": 0.35317446265050384
+    },
+    {
+        "source": "they",
+        "target": "nuclear program",
+        "connection": "gone",
+        "value": 0.14671879425396744
+    },
+    {
+        "source": "talks",
+        "target": "Putin Assad",
+        "connection": "talks",
+        "value": 0.16405631191088996
+    },
+    {
+        "source": "rebels",
+        "target": "rebels",
+        "connection": "know",
+        "value": 1.0
+    },
+    {
+        "source": "Russia",
+        "target": "she",
+        "connection": "consulted",
+        "value": 0.45893200893920416
+    },
+    {
+        "source": "Iran",
+        "target": "150 billion",
+        "connection": "deal",
+        "value": 0.10995625639952292
+    },
+    {
+        "source": "Russia",
+        "target": "fight rebels",
+        "connection": "wants",
+        "value": 0.4296290077550831
+    },
+    {
+        "source": "Assad",
+        "target": "ISIS",
+        "connection": "like",
+        "value": 0.6750975332971856
+    },
+    {
+        "source": "Russia",
+        "target": "ISIS",
+        "connection": "killing",
+        "value": 0.7357603607013562
+    },
+    {
+        "source": "Iran",
+        "target": "ISIS",
+        "connection": "killing",
+        "value": 0.675482807568649
+    },
+    {
+        "source": "Mr. Trump",
+        "target": "repeat question",
+        "connection": "let",
+        "value": 0.2774358504523367
+    },
+    {
+        "source": "Syrian government",
+        "target": "Assad regime",
+        "connection": "said",
+        "value": 0.6678103074906828
+    },
+    {
+        "source": "Syria",
+        "target": "ISIS",
+        "connection": "fighting",
+        "value": 0.7596002443440849
+    },
+    {
+        "source": "people",
+        "target": "fight time",
+        "connection": "want",
+        "value": 0.18403668178740049
+    },
+    {
+        "source": "they",
+        "target": "Mosul weeks",
+        "connection": "saying",
+        "value": -0.017161876426085968
+    },
+    {
+        "source": "Psychological warfare",
+        "target": "any",
+        "connection": "think",
+        "value": 0.16147936959809758
+    },
+    {
+        "source": "people",
+        "target": "leadership",
+        "connection": "stay",
+        "value": 0.42082988686467115
+    },
+    {
+        "source": "everybody",
+        "target": "Iraq",
+        "connection": "goes",
+        "value": 0.3201143141842298
+    },
+    {
+        "source": "American troops",
+        "target": "force",
+        "connection": "think",
+        "value": 0.30336407519477615
+    },
+    {
+        "source": "President Obama",
+        "target": "Iraq",
+        "connection": "use",
+        "value": 0.573357201040508
+    },
+    {
+        "source": "time president",
+        "target": "ISIS Iraq",
+        "connection": "pushed",
+        "value": 0.38961716154421683
+    },
+    {
+        "source": "Donald",
+        "target": "ISIS generals",
+        "connection": "says",
+        "value": 0.33686439008020697
+    },
+    {
+        "source": "important planning",
+        "target": "this",
+        "connection": "need",
+        "value": 0.18721001234633375
+    },
+    {
+        "source": "Arab fighters",
+        "target": "ISIS Iraq",
+        "connection": "think",
+        "value": 0.2883363604282468
+    },
+    {
+        "source": "question",
+        "target": "United States",
+        "connection": "is",
+        "value": 0.07492241388036683
+    },
+    {
+        "source": "question",
+        "target": "Mr. Trump",
+        "connection": "begins",
+        "value": 0.24776283600198667
+    },
+    {
+        "source": "economics people",
+        "target": "jobs",
+        "connection": "turn",
+        "value": 0.637545087505975
+    },
+    {
+        "source": "NAFTA",
+        "target": "husband",
+        "connection": "signed",
+        "value": 0.5632828136038853
+    },
+    {
+        "source": "country",
+        "target": "manufacturing jobs",
+        "connection": "stripped",
+        "value": 0.4371365769117435
+    },
+    {
+        "source": "lost jobs",
+        "target": "money",
+        "connection": "lost",
+        "value": 0.3284084907415021
+    },
+    {
+        "source": "she",
+        "target": "sign TPP",
+        "connection": "says",
+        "value": 0.15397174346834355
+    },
+    {
+        "source": "lot things",
+        "target": "she",
+        "connection": "lied",
+        "value": 0.26869107381303386
+    },
+    {
+        "source": "what",
+        "target": "inner cities",
+        "connection": "Devastating",
+        "value": -0.06267403657439857
+    },
+    {
+        "source": "she",
+        "target": "inner cities",
+        "connection": "talking",
+        "value": 0.0958646623129018
+    },
+    {
+        "source": "nothing",
+        "target": "you",
+        "connection": "going",
+        "value": 0.2856319740783542
+    },
+    {
+        "source": "Mr. Trump",
+        "target": "you",
+        "connection": "thank",
+        "value": 0.137720144337366
+    },
+    {
+        "source": "she",
+        "target": "you",
+        "connection": "tell",
+        "value": 0.8411171225476991
+    },
+    {
+        "source": "Secretary Clinton",
+        "target": "disaster",
+        "connection": "turned",
+        "value": 0.32713714879506295
+    },
+    {
+        "source": "proud",
+        "target": "that",
+        "connection": "humbled",
+        "value": -0.027849045995354395
+    },
+    {
+        "source": "Mr. Carter",
+        "target": "children families",
+        "connection": "tried",
+        "value": 0.1878364652302387
+    },
+    {
+        "source": "American",
+        "target": "place country",
+        "connection": "use",
+        "value": 0.15486444742945882
+    },
+    {
+        "source": "woman",
+        "target": "Ethiopia toddler",
+        "connection": "adopted",
+        "value": 0.5795684840193865
+    },
+    {
+        "source": "Democrats",
+        "target": "president",
+        "connection": "vote",
+        "value": 0.3291510331381419
+    },
+    {
+        "source": "Donald Trump",
+        "target": "you",
+        "connection": "want",
+        "value": 0.11784884087156906
+    },
+    {
+        "source": "you",
+        "target": "Americans",
+        "connection": "question",
+        "value": 0.2809741748517553
+    },
+    {
+        "source": "sorry way",
+        "target": "that",
+        "connection": "supporters",
+        "value": 0.07513676939727015
+    },
+    {
+        "source": "that",
+        "target": "murder cities",
+        "connection": "look",
+        "value": 0.038153810119312535
+    },
+    {
+        "source": "people",
+        "target": "hate heart",
+        "connection": "believe",
+        "value": 0.21838261833486147
+    },
+    {
+        "source": "they",
+        "target": "that",
+        "connection": "said",
+        "value": 0.13605958551361527
+    },
+    {
+        "source": "tremendous hatred",
+        "target": "she",
+        "connection": "got",
+        "value": 0.006508599238904354
+    },
+    {
+        "source": "you",
+        "target": "her",
+        "connection": "getting",
+        "value": 0.6172947389156538
+    },
+    {
+        "source": "Mr. Trump",
+        "target": "leader discipline",
+        "connection": "wrote",
+        "value": 0.4357386587837868
+    },
+    {
+        "source": "told people",
+        "target": "sex tape",
+        "connection": "tweets",
+        "value": 0.045803027470030414
+    },
+    {
+        "source": "person",
+        "target": "Girl Scout",
+        "connection": "built",
+        "value": 0.3748362821109455
+    },
+    {
+        "source": "question",
+        "target": "good leader",
+        "connection": "is",
+        "value": 0.46018146335954646
+    },
+    {
+        "source": "Ambassador Stevens",
+        "target": "requests help",
+        "connection": "sent",
+        "value": 0.17288493032209476
+    },
+    {
+        "source": "tweeting",
+        "target": "communication",
+        "connection": "happens",
+        "value": 0.21559201363290803
+    },
+    {
+        "source": "surplus",
+        "target": "incomes",
+        "connection": "went",
+        "value": 0.4270774035906724
+    },
+    {
+        "source": "people",
+        "target": "jobs",
+        "connection": "lost",
+        "value": 0.7932063848837944
+    },
+    {
+        "source": "Secretary Clinton",
+        "target": "audience question",
+        "connection": "moving",
+        "value": 0.3722892412575384
+    },
+    {
+        "source": "Mr. Trump",
+        "target": "audience",
+        "connection": "want",
+        "value": 0.26576443730829374
+    },
+    {
+        "source": "world",
+        "target": "way",
+        "connection": "firm",
+        "value": 0.4686992960551659
+    },
+    {
+        "source": "tried cases",
+        "target": "people",
+        "connection": "gotten",
+        "value": 0.4234947989281086
+    },
+    {
+        "source": "Supreme Court",
+        "target": "United dark",
+        "connection": "want",
+        "value": 0.5293417983506817
+    },
+    {
+        "source": "Donald",
+        "target": "that",
+        "connection": "agree",
+        "value": 0.09245399812302046
+    },
+    {
+        "source": "young people",
+        "target": "exercise franchise",
+        "connection": "color",
+        "value": 0.13058562103271643
+    },
+    {
+        "source": "Roe",
+        "target": "marriage equality",
+        "connection": "suggested",
+        "value": 0.2986713214903793
+    },
+    {
+        "source": "Supreme Court",
+        "target": "corporate interests",
+        "connection": "want",
+        "value": 0.2820397163693058
+    },
+    {
+        "source": "you",
+        "target": "anybody",
+        "connection": "want",
+        "value": 0.4480080053127127
+    },
+    {
+        "source": "they",
+        "target": "Court justices",
+        "connection": "given",
+        "value": 0.33494035231515185
+    },
+    {
+        "source": "justices",
+        "target": "behalf people",
+        "connection": "hope",
+        "value": 0.48095871281264285
+    },
+    {
+        "source": "people",
+        "target": "everybody",
+        "connection": "picked",
+        "value": 0.5416623206546447
+    },
+    {
+        "source": "people",
+        "target": "United States",
+        "connection": "respect",
+        "value": 0.28276421823858033
+    },
+    {
+        "source": "she",
+        "target": "different corporations",
+        "connection": "race",
+        "value": 0.09248734521769827
+    },
+    {
+        "source": "special interests",
+        "target": "money",
+        "connection": "\u2019s",
+        "value": 0.34054801772902665
+    },
+    {
+        "source": "you",
+        "target": "office",
+        "connection": "\u2019ve",
+        "value": 0.271939179911226
+    },
+    {
+        "source": "secretary state",
+        "target": "money campaign",
+        "connection": "putting",
+        "value": 0.7141824995309559
+    },
+    {
+        "source": "Supreme Court",
+        "target": "Second Amendment",
+        "connection": "respect",
+        "value": 0.7271720557005782
+    },
+    {
+        "source": "save",
+        "target": "lives",
+        "connection": "can",
+        "value": 0.4120055834158779
+    },
+    {
+        "source": "foreign companies",
+        "target": "care oil",
+        "connection": "re",
+        "value": 0.32609924937429857
+    },
+    {
+        "source": "Hillary Clinton",
+        "target": "miners business",
+        "connection": "wants",
+        "value": 0.33389304494697575
+    },
+    {
+        "source": "thing",
+        "target": "clean coal",
+        "connection": "called",
+        "value": 0.4235417026926352
+    },
+    {
+        "source": "debt",
+        "target": "energy companies",
+        "connection": "bring",
+        "value": 0.5220883358341634
+    },
+    {
+        "source": "They",
+        "target": "money",
+        "connection": "\u2019ll",
+        "value": 0.17647327274143534
+    },
+    {
+        "source": "They",
+        "target": "national debt",
+        "connection": "pay",
+        "value": 0.06379482794501082
+    },
+    {
+        "source": "They",
+        "target": "companies business",
+        "connection": "pay",
+        "value": 0.3319131304195056
+    },
+    {
+        "source": "steel China",
+        "target": "steel companies",
+        "connection": "look",
+        "value": 0.6247961949160145
+    },
+    {
+        "source": "they",
+        "target": "Pennsylvania",
+        "connection": "place",
+        "value": 0.4099119190040955
+    },
+    {
+        "source": "China",
+        "target": "plants business",
+        "connection": "dumping",
+        "value": 0.4141262610280449
+    },
+    {
+        "source": "China steel",
+        "target": "trade prosecutor",
+        "connection": "taken",
+        "value": 0.6017180440864968
+    },
+    {
+        "source": "Middle East",
+        "target": "lot prices",
+        "connection": "controls",
+        "value": 0.29705445928639207
+    },
+    {
+        "source": "energy policy",
+        "target": "problem",
+        "connection": "include",
+        "value": 0.5507870663325781
+    },
+    {
+        "source": "energy superpower",
+        "target": "jobs businesses",
+        "connection": "think",
+        "value": 0.3685278152800062
+    },
+    {
+        "source": "lights",
+        "target": "powered factories",
+        "connection": "turned",
+        "value": 0.40232376387335894
+    },
+    {
+        "source": "hope",
+        "target": "entire policy",
+        "connection": "look",
+        "value": 0.3940704813684757
+    },
+    {
+        "source": "more",
+        "target": "audience question",
+        "connection": "have",
+        "value": 0.08684337944149711
+    },
+    {
+        "source": "Karl Becker",
+        "target": "question",
+        "connection": "comes",
+        "value": 0.232776575292276
+    },
+    {
+        "source": "positive thing",
+        "target": "another",
+        "connection": "is",
+        "value": 0.0580652609145373
+    },
+    {
+        "source": "agree",
+        "target": "that",
+        "connection": "says",
+        "value": 0.0921733688129844
+    },
+    {
+        "source": "choosing president",
+        "target": "policy years",
+        "connection": "going",
+        "value": 0.4229082348277573
+    },
+    {
+        "source": "they",
+        "target": "wonderful kids",
+        "connection": "\u2019ve",
+        "value": 0.15542253939035863
+    },
+    {
+        "source": "Thanks",
+        "target": "thank candidates",
+        "connection": "want",
+        "value": 0.24124032809535345
+    },
+    {
+        "source": "Fox News",
+        "target": "J. Trump",
+        "connection": "'m",
+        "value": 0.6851980461988476
+    },
+    {
+        "source": "minute answers",
+        "target": "rest segment",
+        "connection": "question",
+        "value": 0.6320708100097414
+    },
+    {
+        "source": "campaigns",
+        "target": "rules",
+        "connection": "agreed",
+        "value": 0.8118787708443463
+    },
+    {
+        "source": "effect",
+        "target": "quarter century",
+        "connection": "talked",
+        "value": 0.5396599994638142
+    },
+    {
+        "source": "words",
+        "target": "changing circumstances",
+        "connection": "mean",
+        "value": 0.4899252952558518
+    },
+    {
+        "source": "Supreme Court",
+        "target": "issue election",
+        "connection": "raises",
+        "value": 0.32422112847946283
+    },
+    {
+        "source": "kind opportunities",
+        "target": "citizens",
+        "connection": "provide",
+        "value": 0.36072526229494645
+    },
+    {
+        "source": "Supreme Court",
+        "target": "American people",
+        "connection": "feel",
+        "value": 0.3273431653604003
+    },
+    {
+        "source": "unaccountable money",
+        "target": "electoral system",
+        "connection": "need",
+        "value": 0.7349669771030677
+    },
+    {
+        "source": "people",
+        "target": "rights Americans",
+        "connection": "standing",
+        "value": 0.658459973902972
+    },
+    {
+        "source": "President Obama",
+        "target": "them",
+        "connection": "hope",
+        "value": 0.2885642978372926
+    },
+    {
+        "source": "nominates",
+        "target": "consents",
+        "connection": "advises",
+        "value": 0.8599679157870559
+    },
+    {
+        "source": "people",
+        "target": "forced apologize",
+        "connection": "represent",
+        "value": 0.10560744989007133
+    },
+    {
+        "source": "Court opinion",
+        "target": "amendment amendments",
+        "connection": "need",
+        "value": 0.6455985360864164
+    },
+    {
+        "source": "justices",
+        "target": "life",
+        "connection": "going",
+        "value": 0.46114171676527876
+    },
+    {
+        "source": "justices",
+        "target": "decide",
+        "connection": "think",
+        "value": 0.028103536515972652
+    },
+    {
+        "source": "Mr. Trump",
+        "target": "you",
+        "connection": "thank",
+        "value": 0.137720144337366
+    },
+    {
+        "source": "justices",
+        "target": "law land",
+        "connection": "end",
+        "value": 0.21987278853488096
+    },
+    {
+        "source": "Secretary Clinton",
+        "target": "second amendment",
+        "connection": "said",
+        "value": 0.25234818024330347
+    },
+    {
+        "source": "case court",
+        "target": "bear arms",
+        "connection": "ruled",
+        "value": 0.5065191525609827
+    },
+    {
+        "source": "Antonin Scalia",
+        "target": "decision",
+        "connection": "wrote",
+        "value": 0.25371586553920755
+    },
+    {
+        "source": "gun ownership",
+        "target": "reasonable regulation",
+        "connection": "understand",
+        "value": 0.4822756443466541
+    },
+    {
+        "source": "people",
+        "target": "members family",
+        "connection": "mean",
+        "value": 0.5986598902631719
+    },
+    {
+        "source": "people year",
+        "target": "guns",
+        "connection": "die",
+        "value": 0.4157944558428114
+    },
+    {
+        "source": "court",
+        "target": "amendment case",
+        "connection": "mentioned",
+        "value": 0.5982535634202895
+    },
+    {
+        "source": "District Columbia",
+        "target": "toddlers guns",
+        "connection": "trying",
+        "value": 0.22107749564043006
+    },
+    {
+        "source": "people guns",
+        "target": "them",
+        "connection": "wanted",
+        "value": 0.23309420772071623
+    },
+    {
+        "source": "they",
+        "target": "others",
+        "connection": "accept",
+        "value": 0.46907372468960945
+    },
+    {
+        "source": "fact fact",
+        "target": "bear arms",
+        "connection": "supports",
+        "value": 0.30127570912296614
+    },
+    {
+        "source": "Justice Scalia",
+        "target": "crafted decision",
+        "connection": "involved",
+        "value": 0.21606450982065958
+    },
+    {
+        "source": "second amendment",
+        "target": "upset say",
+        "connection": "believe",
+        "value": 0.277937336279973
+    },
+    {
+        "source": "guns homes",
+        "target": "appropriate precautions",
+        "connection": "injure",
+        "value": 0.5121293016093779
+    },
+    {
+        "source": "Donald",
+        "target": "NRA",
+        "connection": "understand",
+        "value": 0.616575154583693
+    },
+    {
+        "source": "tries",
+        "target": "lives",
+        "connection": "going",
+        "value": 0.7879989789596338
+    },
+    {
+        "source": "they",
+        "target": "president",
+        "connection": "know",
+        "value": 0.3548128829074903
+    },
+    {
+        "source": "best way",
+        "target": "second amendment",
+        "connection": "help",
+        "value": 0.4843714996933041
+    },
+    {
+        "source": "that",
+        "target": "dramatic effect",
+        "connection": "let",
+        "value": 0.13614806591664044
+    },
+    {
+        "source": "court",
+        "target": "overturn- justices",
+        "connection": "want",
+        "value": 0.5217888117843654
+    },
+    {
+        "source": "states",
+        "target": "determination",
+        "connection": "states",
+        "value": 0.268065367410388
+    },
+    {
+        "source": "Wade",
+        "target": "difficult cases",
+        "connection": "support",
+        "value": 0.15598254589512395
+    },
+    {
+        "source": "cancer screenings",
+        "target": "women country",
+        "connection": "block",
+        "value": 0.6991125575862238
+    },
+    {
+        "source": "Donald",
+        "target": "planned parenthood",
+        "connection": "said",
+        "value": 0.15050752822651514
+    },
+    {
+        "source": "government",
+        "target": "planned parenthood",
+        "connection": "supported",
+        "value": 0.3539138008427742
+    },
+    {
+        "source": "women",
+        "target": "abortions",
+        "connection": "form",
+        "value": 0.7998511551394544
+    },
+    {
+        "source": "abortion",
+        "target": "explore",
+        "connection": "wanted",
+        "value": 0.4732228078914356
+    },
+    {
+        "source": "health mother",
+        "target": "account",
+        "connection": "sets",
+        "value": 0.3476819136477233
+    },
+    {
+        "source": "women",
+        "target": "pregnancy",
+        "connection": "get",
+        "value": 0.3620858326016648
+    },
+    {
+        "source": "health jeopardy",
+        "target": "term",
+        "connection": "continue",
+        "value": 0.5816291031182093
+    },
+    {
+        "source": "States government",
+        "target": "personal decisions",
+        "connection": "think",
+        "value": 0.2856785167928123
+    },
+    {
+        "source": "health mother",
+        "target": "account",
+        "connection": "regulate",
+        "value": 0.3476819136477233
+    },
+    {
+        "source": "issue",
+        "target": "birth abortions",
+        "connection": "think",
+        "value": 0.5044764214163834
+    },
+    {
+        "source": "rip baby",
+        "target": "mother",
+        "connection": "saying",
+        "value": 0.4285128225743492
+    },
+    {
+        "source": "baby womb",
+        "target": "she",
+        "connection": "going",
+        "value": 0.2567883737153711
+    },
+    {
+        "source": "forced women",
+        "target": "Romania",
+        "connection": "'ve",
+        "value": 0.1285621000377658
+    },
+    {
+        "source": "issue",
+        "target": "issue immigration",
+        "connection": "separates",
+        "value": 0.8062562674678112
+    },
+    {
+        "source": "issues",
+        "target": "you",
+        "connection": "separate",
+        "value": 0.32974589881807725
+    },
+    {
+        "source": "Mr. Trump",
+        "target": "build wall",
+        "connection": "want",
+        "value": 0.20222117062871223
+    },
+    {
+        "source": "Secretary Clinton",
+        "target": "southern border",
+        "connection": "offered",
+        "value": 0.32878232113097505
+    },
+    {
+        "source": "offer package",
+        "target": "pathway citizenship",
+        "connection": "going",
+        "value": 0.4360445930224649
+    },
+    {
+        "source": "people",
+        "target": "country",
+        "connection": "came",
+        "value": 0.500340105759644
+    },
+    {
+        "source": "mothers",
+        "target": "relatives country",
+        "connection": "fathers",
+        "value": 0.6665129927365289
+    },
+    {
+        "source": "Drugs",
+        "target": "border",
+        "connection": "pouring",
+        "value": 0.20036700731227602
+    },
+    {
+        "source": "Hillary",
+        "target": "amnesty",
+        "connection": "wants",
+        "value": 0.5346173731165873
+    },
+    {
+        "source": "they",
+        "target": "candidate",
+        "connection": "endorsed",
+        "value": 0.1671593913642052
+    },
+    {
+        "source": "problems",
+        "target": "Barack Obama",
+        "connection": "caused",
+        "value": 0.1824851136184472
+    },
+    {
+        "source": "problem heroin",
+        "target": "southern borders",
+        "connection": "pours",
+        "value": 0.23360195244648713
+    },
+    {
+        "source": "they",
+        "target": "cash",
+        "connection": "getting",
+        "value": 0.20542511300262248
+    },
+    {
+        "source": "border patrol",
+        "target": "wall",
+        "connection": "want",
+        "value": 0.6117024520432033
+    },
+    {
+        "source": "worried parents",
+        "target": "born country",
+        "connection": "deported",
+        "value": 0.3956074551254004
+    },
+    {
+        "source": "Donald",
+        "target": "action country",
+        "connection": "want",
+        "value": 0.2530628565157151
+    },
+    {
+        "source": "enforcement officers",
+        "target": "school school",
+        "connection": "means",
+        "value": 0.6843087399938427
+    },
+    {
+        "source": "idea",
+        "target": "nation",
+        "connection": "think",
+        "value": 0.7120026950540088
+    },
+    {
+        "source": "course",
+        "target": "border security",
+        "connection": "includes",
+        "value": 0.28453887113452503
+    },
+    {
+        "source": "anybody",
+        "target": "them",
+        "connection": "deported",
+        "value": 0.23747548651740666
+    },
+    {
+        "source": "deal",
+        "target": "anybody",
+        "connection": "signed",
+        "value": 0.5034337385247356
+    },
+    {
+        "source": "Hillary Clinton",
+        "target": "wall",
+        "connection": "wanted",
+        "value": 0.27213412571611006
+    },
+    {
+        "source": "Hillary Clinton",
+        "target": "abouts",
+        "connection": "fought",
+        "value": 0.2607075172200575
+    },
+    {
+        "source": "Hillary Clinton",
+        "target": "wall",
+        "connection": "wanted",
+        "value": 0.27213412571611006
+    },
+    {
+        "source": "going",
+        "target": "that",
+        "connection": "deploy",
+        "value": -0.014687307806441676
+    },
+    {
+        "source": "Donald proposing",
+        "target": "deal immigrants",
+        "connection": "started",
+        "value": 0.2415251097364911
+    },
+    {
+        "source": "employers",
+        "target": "wages",
+        "connection": "exploit",
+        "value": 0.6969249184323494
+    },
+    {
+        "source": "Donald",
+        "target": "this",
+        "connection": "knows",
+        "value": 0.20821617709733833
+    },
+    {
+        "source": "undocumented labor",
+        "target": "Trump tower",
+        "connection": "build",
+        "value": 0.3303360699960566
+    },
+    {
+        "source": "undocumented workers",
+        "target": "American workers",
+        "connection": "let",
+        "value": 0.8221233169660597
+    },
+    {
+        "source": "President Obama",
+        "target": "people",
+        "connection": "moved",
+        "value": 0.372356732557449
+    },
+    {
+        "source": "people",
+        "target": "country",
+        "connection": "moved",
+        "value": 0.500340105759644
+    },
+    {
+        "source": "big league",
+        "target": "that",
+        "connection": "want",
+        "value": 0.026981339913583497
+    },
+    {
+        "source": "they",
+        "target": "citizens",
+        "connection": "'re",
+        "value": 0.41403072872653235
+    },
+    {
+        "source": "unfair somebody",
+        "target": "citizen",
+        "connection": "runs",
+        "value": 0.481296844945044
+    },
+    {
+        "source": "President Obama",
+        "target": "people",
+        "connection": "deported",
+        "value": 0.372356732557449
+    },
+    {
+        "source": "energy neighbors",
+        "target": "rest world",
+        "connection": "trade",
+        "value": 0.5488082392284594
+    },
+    {
+        "source": "Russian government",
+        "target": "espionage Americans",
+        "connection": "engaged",
+        "value": 0.37086858256162136
+    },
+    {
+        "source": "American",
+        "target": "private people",
+        "connection": "accounts",
+        "value": 0.41712841096391884
+    },
+    {
+        "source": "Donald Trump",
+        "target": "Putin election",
+        "connection": "think",
+        "value": 0.5094233246905469
+    },
+    {
+        "source": "pivot fact",
+        "target": "open borders",
+        "connection": "wants",
+        "value": 0.44234137991289807
+    },
+    {
+        "source": "finish borders",
+        "target": "open borders",
+        "connection": "wants",
+        "value": 0.6584072179519128
+    },
+    {
+        "source": "People",
+        "target": "pour country",
+        "connection": "going",
+        "value": 0.08133571527910823
+    },
+    {
+        "source": "People",
+        "target": "% people",
+        "connection": "wants",
+        "value": 0.5935475092216578
+    },
+    {
+        "source": "nuclear warheads",
+        "target": "chicken",
+        "connection": "playing",
+        "value": 0.33124786599728956
+    },
+    {
+        "source": "Russians",
+        "target": "cyber attacks",
+        "connection": "admit",
+        "value": 0.37423201359411934
+    },
+    {
+        "source": "wish list",
+        "target": "NATO",
+        "connection": "wants",
+        "value": 0.1855629210068814
+    },
+    {
+        "source": "foreign government",
+        "target": "interfere election",
+        "connection": "'ve",
+        "value": 0.49574613572957416
+    },
+    {
+        "source": "civilian military",
+        "target": "highest levels",
+        "connection": "concluded",
+        "value": 0.37826794930163116
+    },
+    {
+        "source": "Secretary Clinton-",
+        "target": "myself",
+        "connection": "think",
+        "value": 0.33360786459313996
+    },
+    {
+        "source": "officials country",
+        "target": "Russia hacks",
+        "connection": "believe",
+        "value": 0.6418408550836274
+    },
+    {
+        "source": "that",
+        "target": "Putin",
+        "connection": "asking",
+        "value": 0.18303254920634865
+    },
+    {
+        "source": "United States",
+        "target": "Russia",
+        "connection": "got",
+        "value": 0.46163518815883153
+    },
+    {
+        "source": "Putin",
+        "target": "you",
+        "connection": "outsmarted",
+        "value": 0.4274885887737712
+    },
+    {
+        "source": "Russians",
+        "target": "this",
+        "connection": "said",
+        "value": 0.19705906903438936
+    },
+    {
+        "source": "They",
+        "target": "Middle East",
+        "connection": "taken",
+        "value": 0.004810473345484945
+    },
+    {
+        "source": "person",
+        "target": "nuclear weapons",
+        "connection": "use",
+        "value": 0.2995964930094722
+    },
+    {
+        "source": "weapons president",
+        "target": "order",
+        "connection": "gives",
+        "value": 0.4459841562657672
+    },
+    {
+        "source": "nuclear codes",
+        "target": "nuclear button",
+        "connection": "said",
+        "value": 0.7719942190549617
+    },
+    {
+        "source": "Japan countries",
+        "target": "everybody world",
+        "connection": "ripped",
+        "value": 0.4797318387988205
+    },
+    {
+        "source": "bargain century",
+        "target": "renegotiate agreements",
+        "connection": "said",
+        "value": 0.38449530074111465
+    },
+    {
+        "source": "United States",
+        "target": "peace alliances",
+        "connection": "kept",
+        "value": 0.3392059312423588
+    },
+    {
+        "source": "Donald",
+        "target": "tear alliances",
+        "connection": "wants",
+        "value": 0.34859764149650335
+    },
+    {
+        "source": "hope",
+        "target": "immigration",
+        "connection": "handle",
+        "value": 0.7279315440242288
+    },
+    {
+        "source": "government",
+        "target": "big role",
+        "connection": "plays",
+        "value": 0.41779326316743026
+    },
+    {
+        "source": "Mr. Trump",
+        "target": "taxes regulation",
+        "connection": "want",
+        "value": 0.14965892754960444
+    },
+    {
+        "source": "plan",
+        "target": "plan",
+        "connection": "explain",
+        "value": 1.0
+    },
+    {
+        "source": "problem",
+        "target": "new opportunities",
+        "connection": "create",
+        "value": 0.26970855057995574
+    },
+    {
+        "source": "new jobs",
+        "target": "small business",
+        "connection": "want",
+        "value": 0.7100811884653302
+    },
+    {
+        "source": "wage people",
+        "target": "time poverty",
+        "connection": "want",
+        "value": 0.6294660799825853
+    },
+    {
+        "source": "women",
+        "target": "pay work",
+        "connection": "want",
+        "value": 0.2395280943739763
+    },
+    {
+        "source": "education system",
+        "target": "preschool",
+        "connection": "feel",
+        "value": 0.3625915091533737
+    },
+    {
+        "source": "peel jobs",
+        "target": "future",
+        "connection": "prepare",
+        "value": 0.3544621393763015
+    },
+    {
+        "source": "Bernie Sanders",
+        "target": "125,000",
+        "connection": "worked",
+        "value": 0.23609887904989743
+    },
+    {
+        "source": "going",
+        "target": "money",
+        "connection": "is",
+        "value": 0.09740397336021693
+    },
+    {
+        "source": "great recession",
+        "target": "fair share",
+        "connection": "gone",
+        "value": 0.7365267360571524
+    },
+    {
+        "source": "corporations",
+        "target": "greater country",
+        "connection": "going",
+        "value": 0.25332963832733263
+    },
+    {
+        "source": "independent experts",
+        "target": "new jobs",
+        "connection": "said",
+        "value": 0.8745897461239367
+    },
+    {
+        "source": "conclude",
+        "target": "jobs",
+        "connection": "analyzed",
+        "value": 0.17908839248217434
+    },
+    {
+        "source": "plan",
+        "target": "greater opportunities",
+        "connection": "think",
+        "value": 0.15780778561575162
+    },
+    {
+        "source": "cost jobs",
+        "target": "great recession",
+        "connection": "lead",
+        "value": 0.387184085846331
+    },
+    {
+        "source": "plan",
+        "target": "secretary Clinton",
+        "connection": "thank",
+        "value": 0.43976560211512034
+    },
+    {
+        "source": "plan disaster",
+        "target": "college tuition",
+        "connection": "wants",
+        "value": 0.6909065868829842
+    },
+    {
+        "source": "money",
+        "target": "Saudi Arabia",
+        "connection": "protect",
+        "value": 0.1500464566091116
+    },
+    {
+        "source": "NATO",
+        "target": "NATO",
+        "connection": "heard",
+        "value": 1.0
+    },
+    {
+        "source": "jobs",
+        "target": "economy",
+        "connection": "sucked",
+        "value": 0.5057372758228623
+    },
+    {
+        "source": "jobs",
+        "target": "Mexico places",
+        "connection": "fled",
+        "value": 0.46931396300734646
+    },
+    {
+        "source": "that",
+        "target": "2.5 trillion",
+        "connection": "going",
+        "value": -0.03151047927082269
+    },
+    {
+        "source": "country",
+        "target": "engine rolling",
+        "connection": "dying",
+        "value": 0.4500893226803709
+    },
+    {
+        "source": "tax cuts",
+        "target": "debt",
+        "connection": "add",
+        "value": 0.5738201923372194
+    },
+    {
+        "source": "husband president",
+        "target": "national debt",
+        "connection": "went",
+        "value": 0.4605404748438843
+    },
+    {
+        "source": "President Obama",
+        "target": "great depression",
+        "connection": "came",
+        "value": 0.21735059660720693
+    },
+    {
+        "source": "ways",
+        "target": "people",
+        "connection": "create",
+        "value": 0.5942394146716743
+    },
+    {
+        "source": "Secretary Clinton",
+        "target": "GDP growth",
+        "connection": "want",
+        "value": 0.5363318389879939
+    },
+    {
+        "source": "President Obama",
+        "target": "stimulus",
+        "connection": "told",
+        "value": 0.21368278936705437
+    },
+    {
+        "source": "President Obama",
+        "target": "touch situation",
+        "connection": "Let",
+        "value": 0.3879575445971592
+    },
+    {
+        "source": "administration team",
+        "target": "economy",
+        "connection": "seen",
+        "value": 0.6208234008698026
+    },
+    {
+        "source": "credit",
+        "target": "hard positions",
+        "connection": "believe",
+        "value": 0.2928231690910875
+    },
+    {
+        "source": "kind approach",
+        "target": "new jobs",
+        "connection": "enable",
+        "value": 0.30279621599963
+    },
+    {
+        "source": "that",
+        "target": "able do",
+        "connection": "got",
+        "value": -0.033290667204812295
+    },
+    {
+        "source": "you",
+        "target": "jobs",
+        "connection": "talked",
+        "value": 0.28219259230666144
+    },
+    {
+        "source": "jobs",
+        "target": "election",
+        "connection": "said",
+        "value": 0.459270513257857
+    },
+    {
+        "source": "bill husband",
+        "target": "factories",
+        "connection": "pass",
+        "value": 0.3612307994090359
+    },
+    {
+        "source": "worst things",
+        "target": "country",
+        "connection": "signed",
+        "value": 0.2107533826465441
+    },
+    {
+        "source": "chance",
+        "target": "pivot",
+        "connection": "want",
+        "value": 0.4737567591449741
+    },
+    {
+        "source": "China",
+        "target": "aluminum markets",
+        "connection": "problems",
+        "value": 0.45195098580001963
+    },
+    {
+        "source": "fought senator",
+        "target": "Secretary State",
+        "connection": "stood",
+        "value": 0.3223844782531616
+    },
+    {
+        "source": "Donald",
+        "target": "steel aluminum",
+        "connection": "bought",
+        "value": 0.27168130073176444
+    },
+    {
+        "source": "kind approach",
+        "target": "work",
+        "connection": "going",
+        "value": 0.6369391590515926
+    },
+    {
+        "source": "businesses",
+        "target": "American products",
+        "connection": "going",
+        "value": 0.5422436827336735
+    },
+    {
+        "source": "you",
+        "target": "position help",
+        "connection": "'ve",
+        "value": 0.2039930826049238
+    },
+    {
+        "source": "president",
+        "target": "mess",
+        "connection": "going",
+        "value": 0.5943434578107459
+    },
+    {
+        "source": "sued",
+        "target": "businesses",
+        "connection": "start",
+        "value": -0.04430748655326003
+    },
+    {
+        "source": "Beijing",
+        "target": "rights",
+        "connection": "went",
+        "value": 0.23163678641232616
+    },
+    {
+        "source": "monitoring raid",
+        "target": "Celebrity Apprentice",
+        "connection": "brought",
+        "value": 0.3615374734419753
+    },
+    {
+        "source": "American people",
+        "target": "better job",
+        "connection": "\u2019ve",
+        "value": 0.21693420493146057
+    },
+    {
+        "source": "small group",
+        "target": "huge vacuum",
+        "connection": "came",
+        "value": 0.8518458941461259
+    },
+    {
+        "source": "She",
+        "target": "nobody",
+        "connection": "going",
+        "value": 0.5123499574620126
+    },
+    {
+        "source": "women",
+        "target": "kissed consent",
+        "connection": "said",
+        "value": 0.14095388191061053
+    },
+    {
+        "source": "different women",
+        "target": "this",
+        "connection": "deny",
+        "value": 0.08404536437401118
+    },
+    {
+        "source": "husband",
+        "target": "you",
+        "connection": "says",
+        "value": 0.39144845714927584
+    },
+    {
+        "source": "campaign",
+        "target": "rallies violence",
+        "connection": "believe",
+        "value": 0.6330962278152953
+    },
+    {
+        "source": "Obama",
+        "target": "violence",
+        "connection": "caused",
+        "value": 0.560146798850619
+    },
+    {
+        "source": "they",
+        "target": "stories",
+        "connection": "paid",
+        "value": 0.3343302092477768
+    },
+    {
+        "source": "people",
+        "target": "riot",
+        "connection": "tell",
+        "value": 0.5192472957715291
+    },
+    {
+        "source": "tape",
+        "target": "her",
+        "connection": "started",
+        "value": 0.2582410422146496
+    },
+    {
+        "source": "that",
+        "target": "women",
+        "connection": "come",
+        "value": 0.12448481992900151
+    },
+    {
+        "source": "that",
+        "target": "women campaign",
+        "connection": "said",
+        "value": 0.03608373072747334
+    },
+    {
+        "source": "Donald",
+        "target": "women",
+        "connection": "know",
+        "value": 0.4575518389832809
+    },
+    {
+        "source": "country",
+        "target": "people",
+        "connection": "think",
+        "value": 0.500340105759644
+    },
+    {
+        "source": "true future",
+        "target": "grandchildren",
+        "connection": "children",
+        "value": 0.11738079643582325
+    },
+    {
+        "source": "fiction",
+        "target": "sleazy campaign",
+        "connection": "mentions",
+        "value": 0.48598789208337284
+    },
+    {
+        "source": "mails",
+        "target": "FBI",
+        "connection": "know",
+        "value": 0.16017532929840073
+    },
+    {
+        "source": "star general",
+        "target": "United States",
+        "connection": "gets",
+        "value": 0.2023118133333764
+    },
+    {
+        "source": "fame",
+        "target": "crooked campaign",
+        "connection": "talking",
+        "value": 0.4857332721984885
+    },
+    {
+        "source": "young man",
+        "target": "serving country",
+        "connection": "died",
+        "value": 0.5679251900596123
+    },
+    {
+        "source": "federal judge",
+        "target": "University parents",
+        "connection": "went",
+        "value": 0.49630367596429475
+    },
+    {
+        "source": "people",
+        "target": "punching rallies",
+        "connection": "incites",
+        "value": 0.39633996982754716
+    },
+    {
+        "source": "violence rallies",
+        "target": "violence",
+        "connection": "caused",
+        "value": 0.6524317668749623
+    },
+    {
+        "source": "donors donors",
+        "target": "contracts",
+        "connection": "speciall",
+        "value": 0.6610219269548371
+    },
+    {
+        "source": "Clinton Foundation",
+        "target": "Senate committee",
+        "connection": "went",
+        "value": 0.6881105591197094
+    },
+    {
+        "source": "state department",
+        "target": "that",
+        "connection": "said",
+        "value": -0.0035988012323584723
+    },
+    {
+        "source": "world",
+        "target": "health association",
+        "connection": "time",
+        "value": 0.5435459083423559
+    },
+    {
+        "source": "Saudi Arabia",
+        "target": "25 million",
+        "connection": "given",
+        "value": 0.24749300165754778
+    },
+    {
+        "source": "people",
+        "target": "buildings",
+        "connection": "push",
+        "value": 0.8245830615575093
+    },
+    {
+        "source": "people",
+        "target": "money",
+        "connection": "kill",
+        "value": 0.45068620233441914
+    },
+    {
+        "source": "certain countries",
+        "target": "people",
+        "connection": "ask",
+        "value": 0.5585443180470031
+    },
+    {
+        "source": "great gesture",
+        "target": "tremendous money",
+        "connection": "think",
+        "value": 0.7623902651527271
+    },
+    {
+        "source": "Foundation disgrace",
+        "target": "what",
+        "connection": "want",
+        "value": -0.08831385714956519
+    },
+    {
+        "source": "money",
+        "target": "behalf programs",
+        "connection": "spend",
+        "value": 0.5499963551647198
+    },
+    {
+        "source": "rating watchdogs",
+        "target": "foundations",
+        "connection": "follow",
+        "value": 0.45880667986978496
+    },
+    {
+        "source": "money people",
+        "target": "foot portrait",
+        "connection": "took",
+        "value": 0.6382020989695589
+    },
+    {
+        "source": "earthquake hurricanes",
+        "target": "Haiti",
+        "connection": "devastated",
+        "value": 0.18618401149265257
+    },
+    {
+        "source": "Bill",
+        "target": "Haiti years",
+        "connection": "involved",
+        "value": 0.508336757622987
+    },
+    {
+        "source": "people",
+        "target": "terrible problems",
+        "connection": "raised",
+        "value": 0.5307951772825067
+    },
+    {
+        "source": "things",
+        "target": "small businesses",
+        "connection": "'ve",
+        "value": 0.5311655278806863
+    },
+    {
+        "source": "anything",
+        "target": "boats",
+        "connection": "buy",
+        "value": 0.3209688073732338
+    },
+    {
+        "source": "money",
+        "target": "lawsuit",
+        "connection": "settle",
+        "value": 0.695636243062872
+    },
+    {
+        "source": "American flag",
+        "target": "American flag",
+        "connection": "fought",
+        "value": 1.0
+    },
+    {
+        "source": "houses veterans",
+        "target": "disabled veterans",
+        "connection": "imposed",
+        "value": 0.49727841127592637
+    },
+    {
+        "source": "undocumented immigrants",
+        "target": "income tax",
+        "connection": "pay",
+        "value": 0.12847818231839236
+    },
+    {
+        "source": "America",
+        "target": "tax billionaire",
+        "connection": "find",
+        "value": 0.3658671483080609
+    },
+    {
+        "source": "Buffett",
+        "target": "dollars",
+        "connection": "know",
+        "value": 0.34638863727181257
+    },
+    {
+        "source": "George Soros",
+        "target": "dollars",
+        "connection": "took",
+        "value": 0.176406247031938
+    },
+    {
+        "source": "changed law",
+        "target": "law money",
+        "connection": "change",
+        "value": 0.5033247423311806
+    },
+    {
+        "source": "you",
+        "target": "them",
+        "connection": "watching",
+        "value": 0.7482221058241749
+    },
+    {
+        "source": "Mr. Trump",
+        "target": "question topic",
+        "connection": "want",
+        "value": 0.3100219168689999
+    },
+    {
+        "source": "election",
+        "target": "you",
+        "connection": "warning",
+        "value": 0.26255052834199727
+    },
+    {
+        "source": "Governor Pence",
+        "target": "result election",
+        "connection": "pledged",
+        "value": 0.2637997695860174
+    },
+    {
+        "source": "daughter Ivanka",
+        "target": "thing",
+        "connection": "said",
+        "value": 0.5654019806876881
+    },
+    {
+        "source": "you",
+        "target": "result election",
+        "connection": "want",
+        "value": 0.18229624843670142
+    },
+    {
+        "source": "York Times",
+        "target": "article it",
+        "connection": "care",
+        "value": 0.23857756458734725
+    },
+    {
+        "source": "people",
+        "target": "voter rolls",
+        "connection": "look",
+        "value": 0.43296133975458584
+    },
+    {
+        "source": "registered vote",
+        "target": "vote",
+        "connection": "registered",
+        "value": 0.5037733718559477
+    },
+    {
+        "source": "winner country",
+        "target": "good country",
+        "connection": "saying",
+        "value": 0.7129491679684047
+    },
+    {
+        "source": "you",
+        "target": "principle",
+        "connection": "saying",
+        "value": 0.25957106659090784
+    },
+    {
+        "source": "claims",
+        "target": "him",
+        "connection": "is",
+        "value": 0.06822297262244185
+    },
+    {
+        "source": "FBI",
+        "target": "mails",
+        "connection": "conducted",
+        "value": 0.16017532929840073
+    },
+    {
+        "source": "Republican primary",
+        "target": "him",
+        "connection": "said",
+        "value": -0.05649009277599733
+    },
+    {
+        "source": "fraud racketeering",
+        "target": "Trump University",
+        "connection": "sued",
+        "value": 0.4148570048719998
+    },
+    {
+        "source": "federal judge",
+        "target": "him",
+        "connection": "claims",
+        "value": -0.013008655293091254
+    },
+    {
+        "source": "Emmys",
+        "target": "him",
+        "connection": "started",
+        "value": 0.31034265599026767
+    },
+    {
+        "source": "outcomes",
+        "target": "general election",
+        "connection": "accepted",
+        "value": 0.25412253442329774
+    },
+    {
+        "source": "you",
+        "target": "finished-- Hold",
+        "connection": "said",
+        "value": 0.03664983688224787
+    },
+    {
+        "source": "major parties",
+        "target": "position",
+        "connection": "kind",
+        "value": 0.26373727033846606
+    },
+    {
+        "source": "confront",
+        "target": "president",
+        "connection": "happens",
+        "value": 0.4805818759209868
+    },
+    {
+        "source": "Iraq",
+        "target": "occupying force",
+        "connection": "led",
+        "value": 0.2573551454270342
+    },
+    {
+        "source": "waving ISIS",
+        "target": "itself",
+        "connection": "think",
+        "value": 0.16794222489270708
+    },
+    {
+        "source": "military advisers",
+        "target": "military operation",
+        "connection": "pay",
+        "value": 0.6679646203584542
+    },
+    {
+        "source": "Iranians Russians",
+        "target": "eye ISIS",
+        "connection": "remain",
+        "value": 0.26836971221461486
+    },
+    {
+        "source": "terrorists",
+        "target": "weapons",
+        "connection": "let",
+        "value": 0.6974169453866619
+    },
+    {
+        "source": "government Russians",
+        "target": "political track",
+        "connection": "going",
+        "value": 0.32406451995231406
+    },
+    {
+        "source": "U.S. troops",
+        "target": "return",
+        "connection": "prevent",
+        "value": 0.08303501619378588
+    },
+    {
+        "source": "Mosul",
+        "target": "Mosul",
+        "connection": "took",
+        "value": 1.0
+    },
+    {
+        "source": "they",
+        "target": "attack",
+        "connection": "started",
+        "value": 0.20150747243211525
+    },
+    {
+        "source": "she",
+        "target": "office president",
+        "connection": "know",
+        "value": 0.17218561160426035
+    },
+    {
+        "source": "That",
+        "target": "good election",
+        "connection": "wanted",
+        "value": 0.08180664826212862
+    },
+    {
+        "source": "Iran",
+        "target": "you",
+        "connection": "write",
+        "value": 0.5400485378119657
+    },
+    {
+        "source": "that",
+        "target": "nuclear weapons",
+        "connection": "deal",
+        "value": 0.038007619513929745
+    },
+    {
+        "source": "Iran",
+        "target": "Iraq",
+        "connection": "said",
+        "value": 0.8946087181373107
+    },
+    {
+        "source": "Iraq",
+        "target": "Iran",
+        "connection": "left",
+        "value": 0.8946087181373107
+    },
+    {
+        "source": "Donald implying",
+        "target": "invasion Iraq",
+        "connection": "support",
+        "value": 0.527442529172044
+    },
+    {
+        "source": "sources",
+        "target": "invasion Iraq",
+        "connection": "verify",
+        "value": 0.3438337253003642
+    },
+    {
+        "source": "Wrong",
+        "target": "that",
+        "connection": "hear",
+        "value": 0.18788123950406432
+    },
+    {
+        "source": "matters",
+        "target": "truth position",
+        "connection": "told",
+        "value": 0.06049363503027592
+    },
+    {
+        "source": "Celebrity apprentice",
+        "target": "justice",
+        "connection": "went",
+        "value": 0.5847199068050545
+    },
+    {
+        "source": "They",
+        "target": "defend",
+        "connection": "prepared",
+        "value": 0.07977283813257358
+    },
+    {
+        "source": "Syria Raqqa",
+        "target": "tough fighting",
+        "connection": "think",
+        "value": 0.12753867238937605
+    },
+    {
+        "source": "everybody",
+        "target": "attack",
+        "connection": "launched",
+        "value": 0.5384840980232644
+    },
+    {
+        "source": "looking conspiracy--",
+        "target": "anything",
+        "connection": "gain",
+        "value": 0.44728308041579146
+    },
+    {
+        "source": "Iran",
+        "target": "Iraq",
+        "connection": "taking",
+        "value": 0.8946087181373107
+    },
+    {
+        "source": "you",
+        "target": "horrible things",
+        "connection": "said",
+        "value": 0.07979385627997831
+    },
+    {
+        "source": "John Podesta",
+        "target": "terrible instincts",
+        "connection": "said",
+        "value": 0.04928515292882006
+    },
+    {
+        "source": "Bernie Sanders",
+        "target": "bad judgment",
+        "connection": "said",
+        "value": 0.07528170758374801
+    },
+    {
+        "source": "dangerous person",
+        "target": "president",
+        "connection": "said",
+        "value": 0.5184804502549644
+    },
+    {
+        "source": "things",
+        "target": "Syrian city",
+        "connection": "want",
+        "value": 0.33993878918570464
+    },
+    {
+        "source": "what",
+        "target": "Aleppo",
+        "connection": "seen",
+        "value": -0.09813297048220873
+    },
+    {
+        "source": "Syria Russia",
+        "target": "ISIS",
+        "connection": "said",
+        "value": 0.6745491523190472
+    },
+    {
+        "source": "ones bombing",
+        "target": "Aleppo",
+        "connection": "announced",
+        "value": 0.34091006103955673
+    },
+    {
+        "source": "Assad",
+        "target": "she",
+        "connection": "going",
+        "value": 0.31333530163427836
+    },
+    {
+        "source": "cash",
+        "target": "big stage",
+        "connection": "cash",
+        "value": 0.4786379643157892
+    },
+    {
+        "source": "Great Migration",
+        "target": "what",
+        "connection": "caused",
+        "value": 0.053802929892187275
+    },
+    {
+        "source": "she",
+        "target": "country",
+        "connection": "taking",
+        "value": 0.26413986798700834
+    },
+    {
+        "source": "Aleppo",
+        "target": "people",
+        "connection": "talked",
+        "value": 0.39782091541619397
+    },
+    {
+        "source": "chances",
+        "target": "war",
+        "connection": "says",
+        "value": 0.3561746968635507
+    },
+    {
+        "source": "question",
+        "target": "concerns",
+        "connection": "respond",
+        "value": 0.36572335204461787
+    },
+    {
+        "source": "President Clinton",
+        "target": "plane",
+        "connection": "impose",
+        "value": 0.44898844941837607
+    },
+    {
+        "source": "save",
+        "target": "end conflict",
+        "connection": "hasten",
+        "value": 0.49112203922575154
+    },
+    {
+        "source": "Syrians purpose",
+        "target": "zones ground",
+        "connection": "negotiation",
+        "value": 0.31186909498840054
+    },
+    {
+        "source": "who",
+        "target": "Syria",
+        "connection": "'ve",
+        "value": 0.14334131580521414
+    },
+    {
+        "source": "people",
+        "target": "Syria",
+        "connection": "think",
+        "value": 0.6533217397576786
+    },
+    {
+        "source": "Donald",
+        "target": "refugees",
+        "connection": "claims",
+        "value": 0.33951662425688467
+    },
+    {
+        "source": "country",
+        "target": "women children",
+        "connection": "going",
+        "value": 0.3679657968683286
+    },
+    {
+        "source": "coming face",
+        "target": "thorough vetting",
+        "connection": "sat",
+        "value": 0.6384324693569858
+    },
+    {
+        "source": "communities lines",
+        "target": "prevent attacks",
+        "connection": "solve",
+        "value": 0.7543542734112983
+    },
+    {
+        "source": "Donald",
+        "target": "born Queens",
+        "connection": "nightclub",
+        "value": 0.21509030977726867
+    },
+    {
+        "source": "Folks",
+        "target": "final segment",
+        "connection": "want",
+        "value": 0.18728860422040874
+    },
+    {
+        "source": "ISIS",
+        "target": "place",
+        "connection": "let",
+        "value": 0.6742485831996238
+    },
+    {
+        "source": "Russia",
+        "target": "fire",
+        "connection": "took",
+        "value": 0.5887428293882878
+    },
+    {
+        "source": "country",
+        "target": "Putin Assad",
+        "connection": "outplayed",
+        "value": 0.24905538507053065
+    },
+    {
+        "source": "Mr. Trump",
+        "target": "final segment",
+        "connection": "need",
+        "value": 0.15446469853660982
+    },
+    {
+        "source": "countries",
+        "target": "jobs",
+        "connection": "going",
+        "value": 0.8899781649160957
+    },
+    {
+        "source": "trade deals",
+        "target": "people",
+        "connection": "use",
+        "value": 0.42960067478813346
+    },
+    {
+        "source": "dealing",
+        "target": "great people",
+        "connection": "are",
+        "value": 0.13022002735441776
+    },
+    {
+        "source": "companies",
+        "target": "money",
+        "connection": "said",
+        "value": 0.44149150664714315
+    },
+    {
+        "source": "America",
+        "target": "know slogan",
+        "connection": "hear",
+        "value": 0.17763126159712306
+    },
+    {
+        "source": "Reagan president",
+        "target": "Times time",
+        "connection": "took",
+        "value": 0.4995593985590179
+    },
+    {
+        "source": "going",
+        "target": "fair share",
+        "connection": "pay",
+        "value": 0.17070773730768413
+    },
+    {
+        "source": "evidence",
+        "target": "diminish growth",
+        "connection": "slow",
+        "value": 0.535223819772231
+    },
+    {
+        "source": "That",
+        "target": "you",
+        "connection": "'s",
+        "value": 0.16505145597557286
+    },
+    {
+        "source": "economy",
+        "target": "economy",
+        "connection": "think",
+        "value": 1.0
+    },
+    {
+        "source": "world",
+        "target": "economy",
+        "connection": "think",
+        "value": 0.742440151183631
+    },
+    {
+        "source": "area",
+        "target": "debt entitlements",
+        "connection": "want",
+        "value": 0.5535509966953761
+    },
+    {
+        "source": "Social Security",
+        "target": "cuts benefits",
+        "connection": "looked",
+        "value": 0.1510174555054285
+    },
+    {
+        "source": "final question",
+        "target": "you",
+        "connection": "want",
+        "value": 0.02413240639258785
+    },
+    {
+        "source": "Trump deal",
+        "target": "bargain entitlements",
+        "connection": "save",
+        "value": 0.5463396540778264
+    },
+    {
+        "source": "That",
+        "target": "help entitlements",
+        "connection": "going",
+        "value": -0.0476980730502355
+    },
+    {
+        "source": "going",
+        "target": "you",
+        "connection": "help",
+        "value": -0.11679541455535421
+    },
+    {
+        "source": "thing repeal",
+        "target": "known Obamacare",
+        "connection": "replace",
+        "value": 0.17004985309747367
+    },
+    {
+        "source": "kind numbers",
+        "target": "year",
+        "connection": "look",
+        "value": 0.36611426711999756
+    },
+    {
+        "source": "disaster",
+        "target": "replace",
+        "connection": "repeal",
+        "value": 0.4367733827252194
+    },
+    {
+        "source": "trust funds",
+        "target": "money",
+        "connection": "run",
+        "value": 0.5267150835484444
+    },
+    {
+        "source": "benefit cuts",
+        "target": "programs",
+        "connection": "includes",
+        "value": 0.5717846425720531
+    },
+    {
+        "source": "record saying",
+        "target": "Trust fund",
+        "connection": "need",
+        "value": 0.44907514800741066
+    },
+    {
+        "source": "assuming",
+        "target": "nasty woman",
+        "connection": "figure",
+        "value": 0.20249436641968263
+    },
+    {
+        "source": "workers women",
+        "target": "Security system",
+        "connection": "want",
+        "value": 0.40504923880834276
+    },
+    {
+        "source": "Donald",
+        "target": "national debt",
+        "connection": "proposing",
+        "value": 0.1483944906310358
+    },
+    {
+        "source": "husband",
+        "target": "you",
+        "connection": "disagrees",
+        "value": 0.39144845714927584
+    },
+    {
+        "source": "that",
+        "target": "smart decisions",
+        "connection": "plan",
+        "value": 0.053354352120723925
+    },
+    {
+        "source": "you",
+        "target": "stage campaign",
+        "connection": "going",
+        "value": 0.06137016070211872
+    },
+    {
+        "source": "American people",
+        "target": "president",
+        "connection": "going",
+        "value": 0.2561196294290481
+    },
+    {
+        "source": "everybody",
+        "target": "everyone",
+        "connection": "need",
+        "value": 0.8328908693438092
+    },
+    {
+        "source": "opportunity working",
+        "target": "better you",
+        "connection": "'ve",
+        "value": 0.20780730485928667
+    },
+    {
+        "source": "children",
+        "target": "work",
+        "connection": "families",
+        "value": 0.22990627600268185
+    },
+    {
+        "source": "kids",
+        "target": "preschool college",
+        "connection": "educations",
+        "value": 0.13507751755351316
+    },
+    {
+        "source": "money people",
+        "target": "control",
+        "connection": "raising",
+        "value": 0.5738832409401072
+    },
+    {
+        "source": "people",
+        "target": "illegal immigrants",
+        "connection": "come",
+        "value": 0.5323623176865458
+    },
+    {
+        "source": "thank",
+        "target": "debates",
+        "connection": "want",
+        "value": 0.23876426497883338
+    },
+    {
+        "source": "debates",
+        "target": "Presidential Debates",
+        "connection": "brings",
+        "value": 0.38609210232055485
+    },
+    {
+        "source": "thing",
+        "target": "hope vote",
+        "connection": "agree",
+        "value": 0.6750482462335963
+    }
+]

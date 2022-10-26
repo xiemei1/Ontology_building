@@ -1,0 +1,44 @@
+app:
+  image: 
+    repository: "$IMAGE_NAME_BACKEND"
+    tag: "$VERSION"
+  
+  replicaCount: $REPLICA_COUNT
+    
+  regcred: regcred-stud-mei-xie
+  port: 80
+  
+  livenessProbe: |
+    httpGet:
+      path: "/health"
+      port: {{ .Values.app.port }}
+    initialDelaySeconds: 5
+    timeoutSeconds: 10
+    periodSeconds: 60
+    failureThreshold: 3
+    successThreshold: 1
+  readinessProbe: |
+    httpGet:
+      path: "/health"
+      port: {{ .Values.app.port }}
+    initialDelaySeconds: 6
+    timeoutSeconds: 5
+    periodSeconds: 60
+    failureThreshold: 4
+    successThreshold: 1
+  
+  extraEnv: |
+    - name: BACKEND_PORT
+      value: "{{ .Values.app.port }}"
+      
+  # use nginx reverse proxy via frontend
+  ingress:
+    enabled: false
+
+# for the volume
+#  pvc:
+#    enabled: true
+#    accessMode: ReadWriteOnce
+#    storage: 5Gi
+#    mountPath: /var/lib/mysql
+

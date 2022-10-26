@@ -1,0 +1,25 @@
+app:
+  image: 
+    repository: "$IMAGE_NAME_FRONTEND"
+    tag: "$VERSION"
+    
+  replicaCount: $REPLICA_COUNT
+    
+  regcred: regcred-stud-mei-xie
+  port: 80
+  
+  #health: "/health"
+  # health checks off
+  readinessProbe: "null"
+  livenessProbe: "null"
+  
+  extraEnv:
+    BACKEND_HOSTNAME: "$RELEASE_NAME_BACKEND"
+    BACKEND_PORT: "80"
+      
+  ingress:
+    enabled: true
+    url: "$URL_FRONTEND"
+    auth:
+        enabled: true
+        secret: basic-auth-stud-mei-xie

@@ -1,0 +1,29 @@
+<div class="wrapper">
+    <div class="wrapper-dropdown">
+            <div>
+                <nz-select ngModel="choose" nzPlaceHolder="choose">
+                    <nz-option *ngFor="let item of examples" [nzValue]='item.title' [nzLabel]='item.title'></nz-option>
+                  </nz-select>
+                </div> 
+            <div class="filterButtons-wrapper">
+                <nz-input-group [nzSuffix]="suffixIconSearch">
+                    <input type="text" nz-input placeholder="search concept or instance" [(ngModel)]="query"/>
+                  </nz-input-group>
+                  <ng-template #suffixIconSearch>
+                    <i nz-icon nzType="search"></i>
+                  </ng-template>
+            </div>
+        </div>  
+    </div>
+
+   
+    
+  
+ 
+    
+    
+
+
+    
+
+

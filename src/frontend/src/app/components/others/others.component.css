@@ -1,0 +1,19 @@
+.index_row>div{
+    padding: 10px;
+}
+
+.index_row>div{
+    padding: 10px;
+    .thumbnail{
+        border: 1px solid #eee;
+        padding: 5px;
+        h3{
+            text-align: center;
+        }
+        img{
+            height: 150px;
+            width: 100%;
+        }
+    }
+}
+  

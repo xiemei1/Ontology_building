@@ -1,0 +1,16 @@
+FROM node:14-alpine
+
+WORKDIR /app
+
+ENV PATH /app/node_modules/.bin:$PATH
+
+RUN yarn add global @angular/cli
+
+# install and cache app dependencies
+COPY package.json ./
+RUN yarn install
+
+# copy local content to docker for building
+COPY . .
+
+CMD ng serve --host 0.0.0.0 --proxy-config proxy-dev.conf.json --poll=1000 --hmr

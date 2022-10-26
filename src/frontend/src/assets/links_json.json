@@ -1,0 +1,6380 @@
+[
+    {
+        "source": " Good evening",
+        "connection": "from",
+        "target": " Hofstra University",
+        "value": 0.3482876367403002
+    },
+    {
+        "source": " anchor",
+        "connection": "of",
+        "target": " NBC Nightly News",
+        "value": 0.3973908656584069
+    },
+    {
+        "source": " start",
+        "connection": "of",
+        "target": " segment",
+        "value": 0.5104148086135782
+    },
+    {
+        "source": " same lead question",
+        "connection": "to",
+        "target": " candidates",
+        "value": 0.3196524929993779
+    },
+    {
+        "source": " end",
+        "connection": "of",
+        "target": " segment",
+        "value": 0.5897218117297484
+    },
+    {
+        "source": " Democratic nominee",
+        "connection": "for",
+        "target": " president",
+        "value": 0.4485852415927725
+    },
+    {
+        "source": " president",
+        "connection": "of",
+        "target": " United States",
+        "value": 0.36546816106155794
+    },
+    {
+        "source": " Republican nominee",
+        "connection": "for",
+        "target": " president",
+        "value": 0.4896388331217955
+    },
+    {
+        "source": " president",
+        "connection": "of",
+        "target": " United States",
+        "value": 0.36546816106155794
+    },
+    {
+        "source": " issues",
+        "connection": "of",
+        "target": " campaign",
+        "value": 0.5822905976664919
+    },
+    {
+        "source": " economic realities",
+        "connection": "in",
+        "target": " America",
+        "value": 0.17184713019319792
+    },
+    {
+        "source": " record straight years",
+        "connection": "of",
+        "target": " job growth",
+        "value": 0.4952546312181918
+    },
+    {
+        "source": " years",
+        "connection": "of",
+        "target": " stagnation",
+        "value": 0.35710671885376205
+    },
+    {
+        "source": " half",
+        "connection": "of",
+        "target": " Americans",
+        "value": 0.47074593962491806
+    },
+    {
+        "source": " kinds",
+        "connection": "of",
+        "target": " jobs",
+        "value": 0.8841691513144061
+    },
+    {
+        "source": " pockets",
+        "connection": "of",
+        "target": " American works",
+        "value": 0.5045619340470692
+    },
+    {
+        "source": " thanks",
+        "connection": "to",
+        "target": " Hofstra",
+        "value": 0.4669313373146444
+    },
+    {
+        "source": " central question",
+        "connection": "in",
+        "target": " election",
+        "value": 0.4616934419345342
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " country",
+        "value": 0.4512489178426674
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " future",
+        "value": 0.6727541684952115
+    },
+    {
+        "source": " new jobs",
+        "connection": "with",
+        "target": " rising incomes",
+        "value": 0.6464030809226108
+    },
+    {
+        "source": " jobs",
+        "connection": "in",
+        "target": " infrastructure",
+        "value": 0.6606252611211098
+    },
+    {
+        "source": " jobs",
+        "connection": "in",
+        "target": " advanced manufacturing",
+        "value": 0.3572513142559696
+    },
+    {
+        "source": " equal pay",
+        "connection": "for",
+        "target": " work",
+        "value": 0.5935024362115753
+    },
+    {
+        "source": " executives",
+        "connection": "at",
+        "target": " top",
+        "value": 0.516753369937711
+    },
+    {
+        "source": " awesome responsibilities",
+        "connection": "of",
+        "target": " presidency",
+        "value": 0.4750325473385223
+    },
+    {
+        "source": " more money",
+        "connection": "into",
+        "target": " pockets",
+        "value": 0.2153163756670905
+    },
+    {
+        "source": " pockets",
+        "connection": "of",
+        "target": " American workers",
+        "value": 0.3530391540836119
+    },
+    {
+        "source": " friend",
+        "connection": "of",
+        "target": " mine",
+        "value": 0.7367662720914441
+    },
+    {
+        "source": " eighth wonder",
+        "connection": "of",
+        "target": " world",
+        "value": 0.3859139147442281
+    },
+    {
+        "source": " Thousands",
+        "connection": "of",
+        "target": " jobs",
+        "value": 0.46723797037713705
+    },
+    {
+        "source": " look",
+        "connection": "at",
+        "target": " Carrier air conditioning",
+        "value": 0.3290606249737868
+    },
+    {
+        "source": " Carrier air conditioning",
+        "connection": "in",
+        "target": " Indianapolis",
+        "value": 0.4371148688670066
+    },
+    {
+        "source": " hundreds",
+        "connection": "of",
+        "target": " companies",
+        "value": 0.6628133190012494
+    },
+    {
+        "source": " percent",
+        "connection": "for",
+        "target": " companies",
+        "value": 0.6372099834529259
+    },
+    {
+        "source": " percent",
+        "connection": "of",
+        "target": " population",
+        "value": 0.6331833361593426
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " plan",
+        "value": 0.46112402095551247
+    },
+    {
+        "source": " biggest tax cuts",
+        "connection": "for",
+        "target": " top percent",
+        "value": 0.518712344528397
+    },
+    {
+        "source": " top percent",
+        "connection": "of",
+        "target": " people",
+        "value": 0.43259276099216815
+    },
+    {
+        "source": " people",
+        "connection": "in",
+        "target": " country",
+        "value": 0.630276067952936
+    },
+    {
+        "source": " drapery fabrics",
+        "connection": "on",
+        "target": " long tables",
+        "value": 0.6014771490014214
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " economy",
+        "value": 0.4738790902740315
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " jobs",
+        "value": 0.6533029808219467
+    },
+    {
+        "source": " many many billions",
+        "connection": "of",
+        "target": " dollars",
+        "value": 0.27187552517591146
+    },
+    {
+        "source": " greatest assets",
+        "connection": "in",
+        "target": " world",
+        "value": 0.3224310901755617
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " thinking",
+        "value": 0.44006978547669534
+    },
+    {
+        "source": " example",
+        "connection": "of",
+        "target": " Mexico",
+        "value": 0.2831998339268263
+    },
+    {
+        "source": " fairness",
+        "connection": "to",
+        "target": " Secretary Clinton",
+        "value": 0.4755391791862894
+    },
+    {
+        "source": " fairness",
+        "connection": "to",
+        "target": " Secretary Clinton",
+        "value": 0.4755391791862894
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " luck",
+        "value": 0.47333536114652813
+    },
+    {
+        "source": " clean- energy superpower",
+        "connection": "of",
+        "target": " 21st century",
+        "value": 0.6064958158288378
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " jobs",
+        "value": 0.6030222078248759
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " new economic activity",
+        "value": 0.2736128633193201
+    },
+    {
+        "source": " plenty",
+        "connection": "of",
+        "target": " money",
+        "value": 0.47156333213092516
+    },
+    {
+        "source": " great believer",
+        "connection": "in",
+        "target": " forms",
+        "value": 0.38485643215786586
+    },
+    {
+        "source": " forms",
+        "connection": "of",
+        "target": " energy",
+        "value": 0.6752498823229077
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " people",
+        "value": 0.6209607304237699
+    },
+    {
+        "source": " terms",
+        "connection": "of",
+        "target": " energy",
+        "value": 0.641822938831783
+    },
+    {
+        "source": " worth",
+        "connection": "of",
+        "target": " debt",
+        "value": 0.32435524018031675
+    },
+    {
+        "source": " course",
+        "connection": "of",
+        "target": " years",
+        "value": 0.4952126438886834
+    },
+    {
+        "source": " number",
+        "connection": "of",
+        "target": " trade deals",
+        "value": 0.702417882848635
+    },
+    {
+        "source": " jobs",
+        "connection": "in",
+        "target": " America",
+        "value": 0.31985038071535604
+    },
+    {
+        "source": " incomes",
+        "connection": "in",
+        "target": " America",
+        "value": 0.33875366733502565
+    },
+    {
+        "source": " secretary",
+        "connection": "of",
+        "target": " state",
+        "value": 0.744596365305147
+    },
+    {
+        "source": " secretary",
+        "connection": "of",
+        "target": " state",
+        "value": 0.744596365305147
+    },
+    {
+        "source": " gold standard",
+        "connection": "of",
+        "target": " trade deals",
+        "value": 0.6039936223201536
+    },
+    {
+        "source": " leadership",
+        "connection": "in",
+        "target": " world",
+        "value": 0.7844270491616512
+    },
+    {
+        "source": " new jobs",
+        "connection": "with",
+        "target": " rising incomes",
+        "value": 0.6464030809226108
+    },
+    {
+        "source": " new jobs",
+        "connection": "in",
+        "target": " more tax cuts",
+        "value": 0.6570979881460296
+    },
+    {
+        "source": " responsibilities",
+        "connection": "at",
+        "target": " business",
+        "value": 0.6552072458164804
+    },
+    {
+        "source": " robust set",
+        "connection": "of",
+        "target": " plans",
+        "value": 0.35742399614773457
+    },
+    {
+        "source": " biggest tax cuts",
+        "connection": "in",
+        "target": " history",
+        "value": 0.4069508111633033
+    },
+    {
+        "source": " biggest tax increases",
+        "connection": "in",
+        "target": " history",
+        "value": 0.40601007559522534
+    },
+    {
+        "source": " regulations",
+        "connection": "over",
+        "target": " place",
+        "value": 0.7010450623187164
+    },
+    {
+        "source": " tremendous numbers",
+        "connection": "of",
+        "target": " new jobs",
+        "value": 0.8624962519433366
+    },
+    {
+        "source": " regulations",
+        "connection": "on",
+        "target": " top",
+        "value": 0.518279926532053
+    },
+    {
+        "source": " top",
+        "connection": "of",
+        "target": " regulations",
+        "value": 0.518279926532053
+    },
+    {
+        "source": " end",
+        "connection": "of",
+        "target": " story",
+        "value": 0.5481260209141031
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " charges",
+        "value": 0.5566019095782513
+    },
+    {
+        "source": " home page",
+        "connection": "of",
+        "target": " website",
+        "value": 0.6152744431641266
+    },
+    {
+        "source": " look",
+        "connection": "at",
+        "target": " mine",
+        "value": 0.407281067304763
+    },
+    {
+        "source": " gains",
+        "connection": "in",
+        "target": " economy",
+        "value": 0.549745236618723
+    },
+    {
+        "source": " look",
+        "connection": "at",
+        "target": " website",
+        "value": 0.3794566455963978
+    },
+    {
+        "source": " tax increase",
+        "connection": "on",
+        "target": " wealthiest Americans",
+        "value": 0.2325704345705958
+    },
+    {
+        "source": " great thing",
+        "connection": "for",
+        "target": " middle class",
+        "value": 0.784305108275428
+    },
+    {
+        "source": " billions",
+        "connection": "of",
+        "target": " dollars",
+        "value": 0.7685242671969384
+    },
+    {
+        "source": " politicians",
+        "connection": "like",
+        "target": " Secretary Clinton",
+        "value": 0.45038365173379913
+    },
+    {
+        "source": " lots",
+        "connection": "of",
+        "target": " money",
+        "value": 0.5921020467249885
+    },
+    {
+        "source": " lots",
+        "connection": "of",
+        "target": " other things",
+        "value": 0.38759010671303423
+    },
+    {
+        "source": " minutes",
+        "connection": "of",
+        "target": " same question",
+        "value": 0.2966700437764259
+    },
+    {
+        "source": " end",
+        "connection": "of",
+        "target": " evening",
+        "value": 0.655114268449001
+    },
+    {
+        "source": " changes",
+        "connection": "in",
+        "target": " corporate tax rates",
+        "value": 0.4922398462952434
+    },
+    {
+        "source": " kinds",
+        "connection": "of",
+        "target": " proposals",
+        "value": 0.8101287111413705
+    },
+    {
+        "source": " tax benefit",
+        "connection": "for",
+        "target": " family",
+        "value": 0.6112030592210915
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " smart wealthy people",
+        "value": 0.18040900660266415
+    },
+    {
+        "source": " top works",
+        "connection": "in",
+        "target": " America",
+        "value": 0.41080988956539927
+    },
+    {
+        "source": " debt",
+        "connection": "from",
+        "target": " college",
+        "value": 0.7761805798695128
+    },
+    {
+        "source": " kinds",
+        "connection": "of",
+        "target": " things",
+        "value": 0.8763252279950983
+    },
+    {
+        "source": " more advantages",
+        "connection": "for",
+        "target": " people",
+        "value": 0.4534007152538338
+    },
+    {
+        "source": " people",
+        "connection": "at",
+        "target": " top",
+        "value": 0.5005849098286245
+    },
+    {
+        "source": " people",
+        "connection": "like",
+        "target": " Secretary Clinton",
+        "value": 0.42501264086457485
+    },
+    {
+        "source": " terms",
+        "connection": "of",
+        "target": " jobs",
+        "value": 0.7855075228687906
+    },
+    {
+        "source": " worst revival",
+        "connection": "of",
+        "target": " economy",
+        "value": 0.45717234991067474
+    },
+    {
+        "source": " rest",
+        "connection": "of",
+        "target": " life",
+        "value": 0.6153133834242807
+    },
+    {
+        "source": " returns",
+        "connection": "for",
+        "target": " decades",
+        "value": 0.49751190831012115
+    },
+    {
+        "source": " conflicts",
+        "connection": "of",
+        "target": " interest",
+        "value": 0.6748081677406867
+    },
+    {
+        "source": " financial statement",
+        "connection": "of",
+        "target": " sorts",
+        "value": 0.28485789764998515
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " thinking",
+        "value": 0.44006978547669534
+    },
+    {
+        "source": " single country",
+        "connection": "in",
+        "target": " world",
+        "value": 0.5814176438179407
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " thinking",
+        "value": 0.44006978547669534
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " wealthy people",
+        "value": 0.36904375957549224
+    },
+    {
+        "source": " way",
+        "connection": "of",
+        "target": " life",
+        "value": 0.5030165658736355
+    },
+    {
+        "source": " situation",
+        "connection": "in",
+        "target": " country",
+        "value": 0.7953364035179327
+    },
+    {
+        "source": " example",
+        "connection": "of",
+        "target": " and- switch",
+        "value": 0.35679586011680214
+    },
+    {
+        "source": " years",
+        "connection": "of",
+        "target": " tax returns",
+        "value": 0.40963370605882105
+    },
+    {
+        "source": " couple",
+        "connection": "of",
+        "target": " reasons",
+        "value": 0.4267424724958234
+    },
+    {
+        "source": " couple",
+        "connection": "of",
+        "target": " years",
+        "value": 0.60766043625364
+    },
+    {
+        "source": " rest",
+        "connection": "of",
+        "target": " country",
+        "value": 0.5951005154677601
+    },
+    {
+        "source": " issue",
+        "connection": "of",
+        "target": " e",
+        "value": " -"
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " friends",
+        "value": 0.48861664074102007
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " money",
+        "value": 0.4954777482949456
+    },
+    {
+        "source": " relative lot",
+        "connection": "of",
+        "target": " money",
+        "value": 0.528973416439114
+    },
+    {
+        "source": " list",
+        "connection": "of",
+        "target": " banks",
+        "value": 0.5188696769767442
+    },
+    {
+        "source": " list",
+        "connection": "of",
+        "target": " banks",
+        "value": 0.5188696769767442
+    },
+    {
+        "source": " idea",
+        "connection": "about",
+        "target": " money",
+        "value": 0.6258459544971184
+    },
+    {
+        "source": " politicians",
+        "connection": "like",
+        "target": " Secretary Clinton",
+        "value": 0.45038365173379913
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " years",
+        "value": 0.5965124589268284
+    },
+    {
+        "source": " president",
+        "connection": "of",
+        "target": " United States",
+        "value": 0.36546816106155794
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " businesses",
+        "value": 0.6426058887304416
+    },
+    {
+        "source": " backs",
+        "connection": "of",
+        "target": " little guys",
+        "value": 0.536156052332844
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " people",
+        "value": 0.6209607304237699
+    },
+    {
+        "source": " architect",
+        "connection": "in",
+        "target": " audience",
+        "value": 0.7735831387373924
+    },
+    {
+        "source": " thousands",
+        "connection": "of",
+        "target": " people",
+        "value": 0.7338060954456056
+    },
+    {
+        "source": " course",
+        "connection": "of",
+        "target": " business",
+        "value": 0.37937843337227833
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " apology",
+        "value": 0.5201777539792866
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " great businesspeople",
+        "value": 0.3630182085434104
+    },
+    {
+        "source": " national debt",
+        "connection": "of",
+        "target": " United States",
+        "value": 0.18915268230580035
+    },
+    {
+        "source": " direct transfer",
+        "connection": "of",
+        "target": " skills",
+        "value": 0.36008151418663487
+    },
+    {
+        "source": " skills",
+        "connection": "from",
+        "target": " business",
+        "value": 0.4746950741014257
+    },
+    {
+        "source": " direct transfer",
+        "connection": "to",
+        "target": " government",
+        "value": 0.4348764006110267
+    },
+    {
+        "source": " greatest assets",
+        "connection": "in",
+        "target": " world",
+        "value": 0.3224310901755617
+    },
+    {
+        "source": " lots",
+        "connection": "of",
+        "target": " different places",
+        "value": 0.37726025601185786
+    },
+    {
+        "source": " laws",
+        "connection": "of",
+        "target": " nation",
+        "value": 0.6191958279508257
+    },
+    {
+        "source": " laws",
+        "connection": "of",
+        "target": " nation",
+        "value": 0.6191958279508257
+    },
+    {
+        "source": " thousands",
+        "connection": "of",
+        "target": " people",
+        "value": 0.7338060954456056
+    },
+    {
+        "source": " share",
+        "connection": "of",
+        "target": " Americans",
+        "value": 0.33404504084809755
+    },
+    {
+        "source": " shootings",
+        "connection": "of",
+        "target": " African Americans",
+        "value": 0.3602517977528594
+    },
+    {
+        "source": " shootings",
+        "connection": "by",
+        "target": " police",
+        "value": 0.7585118850290831
+    },
+    {
+        "source": " big issue",
+        "connection": "in",
+        "target": " campaign",
+        "value": 0.5439795974731926
+    },
+    {
+        "source": " significant challenge",
+        "connection": "in",
+        "target": " country",
+        "value": 0.5404209425588681
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " education",
+        "value": 0.44085210142342285
+    },
+    {
+        "source": " kind",
+        "connection": "in",
+        "target": " public schools",
+        "value": 0.3449088087999762
+    },
+    {
+        "source": " tragic examples",
+        "connection": "in",
+        "target": " Tulsa",
+        "value": 0.22133127137607764
+    },
+    {
+        "source": " trust",
+        "connection": "between",
+        "target": " communities",
+        "value": 0.692846338661032
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " neighborhoods",
+        "value": 0.5498206218740932
+    },
+    {
+        "source": " first day",
+        "connection": "of",
+        "target": " campaign",
+        "value": 0.17330510783522046
+    },
+    {
+        "source": " addition",
+        "connection": "to",
+        "target": " challenges",
+        "value": 0.45599210401782775
+    },
+    {
+        "source": " hands",
+        "connection": "of",
+        "target": " people",
+        "value": 0.7243941142616737
+    },
+    {
+        "source": " leading more cause",
+        "connection": "of",
+        "target": " death",
+        "value": 0.4992666611392236
+    },
+    {
+        "source": " death",
+        "connection": "of",
+        "target": " young American men",
+        "value": 0.28993117361115145
+    },
+    {
+        "source": " plague",
+        "connection": "of",
+        "target": " gun violence",
+        "value": 0.7135228013752892
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " problems",
+        "value": 0.5531136721370321
+    },
+    {
+        "source": " couple",
+        "connection": "of",
+        "target": " words",
+        "value": 0.4240897334740846
+    },
+    {
+        "source": " various parts",
+        "connection": "of",
+        "target": " country",
+        "value": 0.4540469000441904
+    },
+    {
+        "source": " law",
+        "connection": "in",
+        "target": " country",
+        "value": 0.8279153910346374
+    },
+    {
+        "source": " endorsement",
+        "connection": "of",
+        "target": " Fraternal Order",
+        "value": 0.29448063641593325
+    },
+    {
+        "source": " Fraternal Order",
+        "connection": "of",
+        "target": " Police",
+        "value": 0.5122797794605816
+    },
+    {
+        "source": " endorsements",
+        "connection": "from",
+        "target": " police group",
+        "value": 0.6604542666944982
+    },
+    {
+        "source": " large percentage",
+        "connection": "in",
+        "target": " United States",
+        "value": 0.177043427599406
+    },
+    {
+        "source": " thousands",
+        "connection": "of",
+        "target": " shootings",
+        "value": 0.6072534842639155
+    },
+    {
+        "source": " Thousands",
+        "connection": "of",
+        "target": " shootings",
+        "value": 0.521977844520371
+    },
+    {
+        "source": " place",
+        "connection": "like",
+        "target": " Chicago",
+        "value": 0.3531785113434603
+    },
+    {
+        "source": " thousands",
+        "connection": "of",
+        "target": " people",
+        "value": 0.7338060954456056
+    },
+    {
+        "source": " thousands",
+        "connection": "over",
+        "target": " last number",
+        "value": 0.3346831258005832
+    },
+    {
+        "source": " last number",
+        "connection": "of",
+        "target": " years",
+        "value": 0.4471223853150083
+    },
+    {
+        "source": " people",
+        "connection": "in",
+        "target": " Chicago",
+        "value": 0.4450259345145624
+    },
+    {
+        "source": " place",
+        "connection": "like",
+        "target": " Chicago",
+        "value": 0.3531785113434603
+    },
+    {
+        "source": " very judge",
+        "connection": "against",
+        "target": " police",
+        "value": 0.36842628102156255
+    },
+    {
+        "source": " form",
+        "connection": "of",
+        "target": " racial profiling",
+        "value": 0.4563010135214627
+    },
+    {
+        "source": " shootings",
+        "connection": "in",
+        "target": " Chicago",
+        "value": 0.3544525087841485
+    },
+    {
+        "source": " beginning",
+        "connection": "of",
+        "target": " presidency",
+        "value": 0.4679796454734132
+    },
+    {
+        "source": " presidency",
+        "connection": "of",
+        "target": " Barack Obama",
+        "value": 0.3686269964406638
+    },
+    {
+        "source": " good community relations",
+        "connection": "in",
+        "target": " Chicago",
+        "value": 0.18059520287440806
+    },
+    {
+        "source": " better relationships",
+        "connection": "between",
+        "target": " communities",
+        "value": 0.5481928816698688
+    },
+    {
+        "source": " law",
+        "connection": "in",
+        "target": " inner cities",
+        "value": 0.5362740385563987
+    },
+    {
+        "source": " dire negative picture",
+        "connection": "of",
+        "target": " black communities",
+        "value": 0.5597214553362972
+    },
+    {
+        "source": " black communities",
+        "connection": "in",
+        "target": " country",
+        "value": 0.6023333142166933
+    },
+    {
+        "source": " vibrancy",
+        "connection": "of",
+        "target": " black church",
+        "value": 0.6650857703833499
+    },
+    {
+        "source": " years",
+        "connection": "of",
+        "target": " good cooperation",
+        "value": 0.21075460937149992
+    },
+    {
+        "source": " systemic racism",
+        "connection": "in",
+        "target": " justice system",
+        "value": 0.5659813354317513
+    },
+    {
+        "source": " private prisons",
+        "connection": "in",
+        "target": " federal system",
+        "value": 0.7946249843709726
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " places",
+        "value": 0.5690230033248735
+    },
+    {
+        "source": " jump",
+        "connection": "to",
+        "target": " conclusions",
+        "value": 0.3428304746695775
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " police officers",
+        "value": 0.5919502381819093
+    },
+    {
+        "source": " group",
+        "connection": "of",
+        "target": " experienced police chiefs",
+        "value": 0.3917052096955023
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " concerns",
+        "value": 0.45296826479087127
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " difficult mental health problems",
+        "value": 0.2859678976315465
+    },
+    {
+        "source": " difficult mental health problems",
+        "connection": "on",
+        "target": " street",
+        "value": 0.379605305670678
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " people",
+        "value": 0.6209607304237699
+    },
+    {
+        "source": " lot",
+        "connection": "within",
+        "target": " own party",
+        "value": 0.39139154977555474
+    },
+    {
+        "source": " people",
+        "connection": "on",
+        "target": " watch lists",
+        "value": 0.5235299159763622
+    },
+    {
+        "source": " endorsement",
+        "connection": "of",
+        "target": " NRA",
+        "value": 0.37912434079561297
+    },
+    {
+        "source": " predator",
+        "connection": "about",
+        "target": " young black youth",
+        "value": 0.3546347113021138
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " murders",
+        "value": 0.7279285447797873
+    },
+    {
+        "source": " tremendous impact",
+        "connection": "on",
+        "target": " safety",
+        "value": 0.414231049314821
+    },
+    {
+        "source": " safety",
+        "connection": "of",
+        "target": " York City",
+        "value": 0.3912483828342304
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " impact",
+        "value": 0.4457131776424158
+    },
+    {
+        "source": " rights",
+        "connection": "of",
+        "target": " young men",
+        "value": 0.5477442912020949
+    },
+    {
+        "source": " better job",
+        "connection": "of",
+        "target": " working",
+        "value": 0.36356212444158864
+    },
+    {
+        "source": " community",
+        "connection": "within",
+        "target": " inner cities",
+        "value": 0.37568495089631165
+    },
+    {
+        "source": " votes",
+        "connection": "by",
+        "target": " Democrat politicians",
+        "value": 0.5644388047997388
+    },
+    {
+        "source": " last couple",
+        "connection": "of",
+        "target": " weeks",
+        "value": 0.5464115045629471
+    },
+    {
+        "source": " close friend",
+        "connection": "of",
+        "target": " Secretary Clinton",
+        "value": 0.2877680845307055
+    },
+    {
+        "source": " campaign",
+        "connection": "against",
+        "target": " President Obama",
+        "value": 0.5070158190574708
+    },
+    {
+        "source": " respected reporter",
+        "connection": "at",
+        "target": " McClatchy",
+        "value": 0.4106042023550592
+    },
+    {
+        "source": " look",
+        "connection": "at",
+        "target": " CNN",
+        "value": 0.4257079842513597
+    },
+    {
+        "source": " interview",
+        "connection": "with",
+        "target": " former campaign manager",
+        "value": 0.5673341393468369
+    },
+    {
+        "source": " people",
+        "connection": "of",
+        "target": " color",
+        "value": 0.599590627779335
+    },
+    {
+        "source": " great service",
+        "connection": "for",
+        "target": " country",
+        "value": 0.5974075298252001
+    },
+    {
+        "source": " year",
+        "connection": "after",
+        "target": " year",
+        "value": 1.0
+    },
+    {
+        "source": " developments",
+        "connection": "to",
+        "target": " African Americans",
+        "value": 0.45787795168389994
+    },
+    {
+        "source": " man",
+        "connection": "of",
+        "target": " great dignity",
+        "value": 0.4340633016961492
+    },
+    {
+        "source": " amazing speech",
+        "connection": "at",
+        "target": " Democratic National Convention",
+        "value": 0.28801313580410454
+    },
+    {
+        "source": " debates",
+        "connection": "against",
+        "target": " Barack Obama",
+        "value": 0.47052405615789816
+    },
+    {
+        "source": " estate company",
+        "connection": "in",
+        "target": " Brooklyn",
+        "value": 0.34622024289598546
+    },
+    {
+        "source": " many many other companies",
+        "connection": "throughout",
+        "target": " country",
+        "value": 0.19719308540068506
+    },
+    {
+        "source": " admission",
+        "connection": "of",
+        "target": " guilt",
+        "value": 0.5285074099438577
+    },
+    {
+        "source": " admission",
+        "connection": "of",
+        "target": " guilt",
+        "value": 0.5285074099438577
+    },
+    {
+        "source": " discrimination",
+        "connection": "against",
+        "target": " African- Americans",
+        "value": 0.41110657374868903
+    },
+    {
+        "source": " discrimination",
+        "connection": "against",
+        "target": " Muslims",
+        "value": 0.5409658017902343
+    },
+    {
+        "source": " different kinds",
+        "connection": "of",
+        "target": " adversaries",
+        "value": 0.5434610798960744
+    },
+    {
+        "source": " organs",
+        "connection": "of",
+        "target": " states",
+        "value": 0.8142785284188863
+    },
+    {
+        "source": " cyber attacks",
+        "connection": "against",
+        "target": " kinds",
+        "value": 0.6876590183250083
+    },
+    {
+        "source": " kinds",
+        "connection": "of",
+        "target": " organizations",
+        "value": 0.8946414908687782
+    },
+    {
+        "source": " kinds",
+        "connection": "in",
+        "target": " country",
+        "value": 0.7104552372113215
+    },
+    {
+        "source": " praiseworthy",
+        "connection": "of",
+        "target": " Vladimir Putin",
+        "value": 0.3954487543480652
+    },
+    {
+        "source": " kinds",
+        "connection": "of",
+        "target": " tools",
+        "value": 0.888864551632716
+    },
+    {
+        "source": " different kind",
+        "connection": "of",
+        "target": " warfare",
+        "value": 0.4387485639494518
+    },
+    {
+        "source": " citizens",
+        "connection": "of",
+        "target": " country",
+        "value": 0.6374159655951314
+    },
+    {
+        "source": " security officials",
+        "connection": "in",
+        "target": " administrations",
+        "value": 0.657297287241268
+    },
+    {
+        "source": " commander-",
+        "connection": "in",
+        "target": " chief",
+        "value": 0.5334915474054391
+    },
+    {
+        "source": " lots",
+        "connection": "of",
+        "target": " other people",
+        "value": 0.4241616040186613
+    },
+    {
+        "source": " control",
+        "connection": "of",
+        "target": " things",
+        "value": 0.6154495137726304
+    },
+    {
+        "source": " security aspect",
+        "connection": "of",
+        "target": " cyber",
+        "value": 0.5631301754888622
+    },
+    {
+        "source": " number",
+        "connection": "of",
+        "target": " issues",
+        "value": 0.6278045483471248
+    },
+    {
+        "source": " direct people",
+        "connection": "in",
+        "target": " country",
+        "value": 0.4523351758193483
+    },
+    {
+        "source": " air strikes",
+        "connection": "against",
+        "target": " ISIS",
+        "value": 0.5455542015480113
+    },
+    {
+        "source": " number",
+        "connection": "of",
+        "target": " efforts",
+        "value": 0.6165152567889017
+    },
+    {
+        "source": " secretary",
+        "connection": "of",
+        "target": " state",
+        "value": 0.744596365305147
+    },
+    {
+        "source": " acts",
+        "connection": "of",
+        "target": " terror",
+        "value": 0.4361564706699462
+    },
+    {
+        "source": " latest incident",
+        "connection": "of",
+        "target": " course",
+        "value": 0.3740519771372433
+    },
+    {
+        "source": " knife attack",
+        "connection": "at",
+        "target": " mall",
+        "value": 0.7870799026747665
+    },
+    {
+        "source": " mall",
+        "connection": "in",
+        "target": " Minnesota",
+        "value": 0.4556875539372217
+    },
+    {
+        "source": " deadly attacks",
+        "connection": "in",
+        "target": " last year",
+        "value": 0.3521328672031872
+    },
+    {
+        "source": " deadly attacks",
+        "connection": "in",
+        "target": " San Bernardino",
+        "value": 0.30297829220343464
+    },
+    {
+        "source": " homegrown attacks",
+        "connection": "by",
+        "target": " American citizens",
+        "value": 0.624564931062907
+    },
+    {
+        "source": " primary source",
+        "connection": "of",
+        "target": " income",
+        "value": 0.5483279775109269
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " oil",
+        "value": 0.6754624270498696
+    },
+    {
+        "source": " oil",
+        "connection": "in",
+        "target": " Libya",
+        "value": 0.5245265409348638
+    },
+    {
+        "source": " invasion",
+        "connection": "of",
+        "target": " Iraq",
+        "value": 0.4126736720151607
+    },
+    {
+        "source": " agreement",
+        "connection": "from",
+        "target": " Iraqi government",
+        "value": 0.40681670365293887
+    },
+    {
+        "source": " scrap",
+        "connection": "of",
+        "target": " information",
+        "value": 0.7174561295896433
+    },
+    {
+        "source": " law enforcement",
+        "connection": "in",
+        "target": " New York",
+        "value": 0.40809672797083996
+    },
+    {
+        "source": " longest military alliance",
+        "connection": "in",
+        "target": " history",
+        "value": 0.43333743903235555
+    },
+    {
+        "source": " history",
+        "connection": "of",
+        "target": " world",
+        "value": 0.8025309481117846
+    },
+    {
+        "source": " friends",
+        "connection": "in",
+        "target": " Middle East",
+        "value": 0.19819679867336212
+    },
+    {
+        "source": " close working cooperation",
+        "connection": "with",
+        "target": " law enforcement",
+        "value": 0.6450171977611919
+    },
+    {
+        "source": " law enforcement",
+        "connection": "in",
+        "target": " communities",
+        "value": 0.5174744006683518
+    },
+    {
+        "source": " major power",
+        "connection": "at",
+        "target": " point",
+        "value": 0.394847328055971
+    },
+    {
+        "source": " lots",
+        "connection": "of",
+        "target": " thought",
+        "value": 0.2419582370461661
+    },
+    {
+        "source": " countries",
+        "connection": "of",
+        "target": " NATO",
+        "value": 0.32067849288034983
+    },
+    {
+        "source": " front page",
+        "connection": "of",
+        "target": " Street Journal",
+        "value": 0.48578231467938504
+    },
+    {
+        "source": " percent",
+        "connection": "of",
+        "target": " cost",
+        "value": 0.5559492719022076
+    },
+    {
+        "source": " cost",
+        "connection": "of",
+        "target": " NATO",
+        "value": 0.38335301282253087
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " money",
+        "value": 0.4954777482949456
+    },
+    {
+        "source": " criticism",
+        "connection": "of",
+        "target": " NATO",
+        "value": 0.33730120844385275
+    },
+    {
+        "source": " addition",
+        "connection": "to",
+        "target": " surrounding nations",
+        "value": 0.2806977824057993
+    },
+    {
+        "source": " secretary",
+        "connection": "of",
+        "target": " state",
+        "value": 0.744596365305147
+    },
+    {
+        "source": " war",
+        "connection": "in",
+        "target": " Iraq",
+        "value": 0.4352639364108481
+    },
+    {
+        "source": " war",
+        "connection": "in",
+        "target": " Iraq",
+        "value": 0.4352639364108481
+    },
+    {
+        "source": " best person",
+        "connection": "in",
+        "target": " campaign",
+        "value": 0.44782557045119237
+    },
+    {
+        "source": " war",
+        "connection": "in",
+        "target": " Iraq",
+        "value": 0.4352639364108481
+    },
+    {
+        "source": " interview",
+        "connection": "with",
+        "target": " Howard Stern",
+        "value": 0.3463532967096917
+    },
+    {
+        "source": " interview",
+        "connection": "with",
+        "target": " Neil Cavuto",
+        "value": 0.43540655027881053
+    },
+    {
+        "source": " numerous conversations",
+        "connection": "with",
+        "target": " Sean Hannity",
+        "value": 0.3011119741354277
+    },
+    {
+        "source": " favor",
+        "connection": "of",
+        "target": " war",
+        "value": 0.7873493767448998
+    },
+    {
+        "source": " war",
+        "connection": "in",
+        "target": " Iraq",
+        "value": 0.4352639364108481
+    },
+    {
+        "source": " arguments",
+        "connection": "about",
+        "target": " war",
+        "value": 0.5988295707805795
+    },
+    {
+        "source": " hundreds",
+        "connection": "of",
+        "target": " millions",
+        "value": 0.7996356939593858
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " dollars",
+        "value": 0.6734292062711519
+    },
+    {
+        "source": " person",
+        "connection": "with",
+        "target": " temperament",
+        "value": 0.6234472527715297
+    },
+    {
+        "source": " nations",
+        "connection": "of",
+        "target": " NATO",
+        "value": 0.4144457124974726
+    },
+    {
+        "source": " respect",
+        "connection": "to",
+        "target": " Iran",
+        "value": 0.4730060552016276
+    },
+    {
+        "source": " secretary",
+        "connection": "of",
+        "target": " state",
+        "value": 0.744596365305147
+    },
+    {
+        "source": " sanction",
+        "connection": "against",
+        "target": " Iran",
+        "value": 0.36532067978312194
+    },
+    {
+        "source": " toughest sanctions",
+        "connection": "on",
+        "target": " Iran",
+        "value": 0.2413804870382818
+    },
+    {
+        "source": " ship",
+        "connection": "in",
+        "target": " waters",
+        "value": 0.675584453691724
+    },
+    {
+        "source": " policy",
+        "connection": "of",
+        "target": " United States",
+        "value": 0.25963548955282134
+    },
+    {
+        "source": " proliferation",
+        "connection": "of",
+        "target": " nuclear weapons",
+        "value": 0.3952924228357939
+    },
+    {
+        "source": " nuclear war",
+        "connection": "in",
+        "target": " East Asia",
+        "value": 0.49443501853551164
+    },
+    {
+        "source": " cavalier attitude",
+        "connection": "about",
+        "target": " nuclear weapons",
+        "value": 0.7241659524968238
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " things",
+        "value": 0.5273124919153089
+    },
+    {
+        "source": " power",
+        "connection": "over",
+        "target": " North Korea",
+        "value": 0.4008818782616269
+    },
+    {
+        "source": " horrible deal",
+        "connection": "with",
+        "target": " Iran",
+        "value": 0.1813334947314208
+    },
+    {
+        "source": " respect",
+        "connection": "to",
+        "target": " North Korea",
+        "value": 0.3699127090815225
+    },
+    {
+        "source": " respect",
+        "connection": "to",
+        "target": " Yemen",
+        "value": 0.46940673995261617
+    },
+    {
+        "source": " great giveaways",
+        "connection": "of",
+        "target": " time",
+        "value": 0.2848742891242992
+    },
+    {
+        "source": " deal",
+        "connection": "with",
+        "target": " Iran",
+        "value": 0.4032289905016845
+    },
+    {
+        "source": " allies",
+        "connection": "in",
+        "target": " Japan",
+        "value": 0.4360556790949696
+    },
+    {
+        "source": " part",
+        "connection": "of",
+        "target": " many leaders",
+        "value": 0.2863220498270648
+    },
+    {
+        "source": " many leaders",
+        "connection": "across",
+        "target": " globe",
+        "value": 0.365187022935377
+    },
+    {
+        "source": " behalf",
+        "connection": "of",
+        "target": " majority",
+        "value": 0.7505452728212167
+    },
+    {
+        "source": " majority",
+        "connection": "of",
+        "target": " American people",
+        "value": 0.5027513847203313
+    },
+    {
+        "source": " other problems",
+        "connection": "with",
+        "target": " Iran",
+        "value": 0.3511031391196987
+    },
+    {
+        "source": " access",
+        "connection": "to",
+        "target": " Iranian facilities",
+        "value": 0.3407153833623023
+    },
+    {
+        "source": " People",
+        "connection": "around",
+        "target": " word",
+        "value": 0.23698596119319137
+    },
+    {
+        "source": " accordance",
+        "connection": "with",
+        "target": " values",
+        "value": 0.5767451997590861
+    },
+    {
+        "source": " leader",
+        "connection": "of",
+        "target": " country",
+        "value": 0.8825283175183098
+    },
+    {
+        "source": " billions",
+        "connection": "of",
+        "target": " dollars",
+        "value": 0.7685242671969384
+    },
+    {
+        "source": " policemen",
+        "connection": "of",
+        "target": " world",
+        "value": 0.6233945834253416
+    },
+    {
+        "source": " countries",
+        "connection": "over",
+        "target": " world",
+        "value": 0.7101281014170608
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " things",
+        "value": 0.5273124919153089
+    },
+    {
+        "source": " president",
+        "connection": "of",
+        "target": " country",
+        "value": 0.7645334691611372
+    },
+    {
+        "source": " release",
+        "connection": "of",
+        "target": " dissidents",
+        "value": 0.6662500720591911
+    },
+    {
+        "source": " opening",
+        "connection": "of",
+        "target": " new opportunities",
+        "value": 0.4350448176128564
+    },
+    {
+        "source": " new opportunities",
+        "connection": "in",
+        "target": " nations",
+        "value": 0.44005454701555624
+    },
+    {
+        "source": " nations",
+        "connection": "around",
+        "target": " world",
+        "value": 0.6670869379248977
+    },
+    {
+        "source": " front",
+        "connection": "of",
+        "target": " congressional committee",
+        "value": 0.5028442207926734
+    },
+    {
+        "source": " years",
+        "connection": "of",
+        "target": " kind",
+        "value": 0.3855971192068258
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " experience",
+        "value": 0.3367999328378237
+    },
+    {
+        "source": " inconvenience",
+        "connection": "to",
+        "target": " employers",
+        "value": 0.6042982681386809
+    },
+    {
+        "source": " good job",
+        "connection": "as",
+        "target": " men",
+        "value": 0.30827952920688295
+    },
+    {
+        "source": " woman",
+        "connection": "in",
+        "target": " beauty contest",
+        "value": 0.598638998437407
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " dollars",
+        "value": 0.6734292062711519
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " ads",
+        "value": 0.6869420079174642
+    },
+    {
+        "source": " will",
+        "connection": "of",
+        "target": " voters",
+        "value": 0.28678168259667725
+    },
+    {
+        "source": " outcome",
+        "connection": "of",
+        "target": " election",
+        "value": 0.590386615746021
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " country",
+        "value": 0.4512489178426674
+    },
+    {
+        "source": " will",
+        "connection": "of",
+        "target": " voters",
+        "value": 0.28678168259667725
+    },
+    {
+        "source": " outcome",
+        "connection": "of",
+        "target": " election",
+        "value": 0.590386615746021
+    },
+    {
+        "source": " debate",
+        "connection": "for",
+        "target": " evening",
+        "value": 0.5628120210339957
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " ground",
+        "value": 0.49889607352591137
+    },
+    {
+        "source": " thanks",
+        "connection": "to",
+        "target": " Hillary Clinton",
+        "value": 0.23550222623774805
+    },
+    {
+        "source": " Republican nominee",
+        "connection": "for",
+        "target": " president",
+        "value": 0.4896388331217955
+    },
+    {
+        "source": " Democratic nominee",
+        "connection": "for",
+        "target": " president",
+        "value": 0.4485852415927725
+    },
+    {
+        "source": " members",
+        "connection": "in",
+        "target": " town hall",
+        "value": 0.5934219248363203
+    },
+    {
+        "source": " mature audiences",
+        "connection": "per",
+        "target": " parental guidelines",
+        "value": 0.678917177832317
+    },
+    {
+        "source": " lots",
+        "connection": "of",
+        "target": " teachers",
+        "value": 0.8254869518941773
+    },
+    {
+        "source": " behalf",
+        "connection": "of",
+        "target": " country",
+        "value": 0.6101450816094925
+    },
+    {
+        "source": " slogan",
+        "connection": "of",
+        "target": " campaign",
+        "value": 0.6775144908297808
+    },
+    {
+        "source": " president",
+        "connection": "for",
+        "target": " Americans",
+        "value": 0.3669100618557208
+    },
+    {
+        "source": " people",
+        "connection": "of",
+        "target": " country",
+        "value": 0.630276067952936
+    },
+    {
+        "source": " horrible things",
+        "connection": "like",
+        "target": " Obamacare",
+        "value": 0.019666270580745337
+    },
+    {
+        "source": " strong country",
+        "connection": "from",
+        "target": " weak country",
+        "value": 0.9012910401980601
+    },
+    {
+        "source": " respect",
+        "connection": "to",
+        "target": " law enforcement",
+        "value": 0.5727974062270614
+    },
+    {
+        "source": " people",
+        "connection": "on",
+        "target": " sides",
+        "value": 0.8602691397166902
+    },
+    {
+        "source": " question",
+        "connection": "from",
+        "target": " Patrice",
+        "value": 0.5215554172338366
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " questions",
+        "value": 0.5999251737388361
+    },
+    {
+        "source": " people",
+        "connection": "in",
+        "target": " steel cages",
+        "value": 0.6220392409500712
+    },
+    {
+        "source": " carnage",
+        "connection": "over",
+        "target": " world",
+        "value": 0.6741733353118845
+    },
+    {
+        "source": " number",
+        "connection": "of",
+        "target": " years",
+        "value": 0.4311859336607154
+    },
+    {
+        "source": " great respect",
+        "connection": "for",
+        "target": " women",
+        "value": 0.3569155288452037
+    },
+    {
+        "source": " more respect",
+        "connection": "for",
+        "target": " women",
+        "value": 0.4004175947210982
+    },
+    {
+        "source": " tremendous respect",
+        "connection": "for",
+        "target": " women",
+        "value": 0.36100417026142656
+    },
+    {
+        "source": " borders",
+        "connection": "in",
+        "target": " country",
+        "value": 0.6395889824739307
+    },
+    {
+        "source": " wealth",
+        "connection": "of",
+        "target": " nation",
+        "value": 0.7367196169115626
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " time",
+        "value": 0.602149300173395
+    },
+    {
+        "source": " prior Republican nominees",
+        "connection": "for",
+        "target": " president",
+        "value": 0.35499228808474825
+    },
+    {
+        "source": " commander",
+        "connection": "in",
+        "target": " chief",
+        "value": 0.6823544447901153
+    },
+    {
+        "source": " rate",
+        "connection": "on",
+        "target": " appearance",
+        "value": 0.8101077120571262
+    },
+    {
+        "source": " questions",
+        "connection": "about",
+        "target": " fitness",
+        "value": 0.6659058932763641
+    },
+    {
+        "source": " people",
+        "connection": "with",
+        "target": " disabilities",
+        "value": 0.6630499479175304
+    },
+    {
+        "source": " inner cities",
+        "connection": "of",
+        "target": " country",
+        "value": 0.4784158404002435
+    },
+    {
+        "source": " terrible job",
+        "connection": "for",
+        "target": " African Americans",
+        "value": 0.2770343434114392
+    },
+    {
+        "source": " primary part",
+        "connection": "of",
+        "target": " campaign",
+        "value": 0.4159434631109005
+    },
+    {
+        "source": " story",
+        "connection": "of",
+        "target": " entire election",
+        "value": 0.4481916179567072
+    },
+    {
+        "source": " entire election",
+        "connection": "on",
+        "target": " Facebook",
+        "value": 0.20955766732817216
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " people",
+        "value": 0.7678621237683835
+    },
+    {
+        "source": " questions",
+        "connection": "from",
+        "target": " voters",
+        "value": 0.8026045950074232
+    },
+    {
+        "source": " voters",
+        "connection": "around",
+        "target": " country",
+        "value": 0.6454726852687761
+    },
+    {
+        "source": " first stays",
+        "connection": "on",
+        "target": " topic",
+        "value": 0.23494945719165702
+    },
+    {
+        "source": " great respect",
+        "connection": "for",
+        "target": " people",
+        "value": 0.2962742567892151
+    },
+    {
+        "source": " people",
+        "connection": "of",
+        "target": " country",
+        "value": 0.630276067952936
+    },
+    {
+        "source": " man",
+        "connection": "in",
+        "target": " video",
+        "value": 0.78267951761512
+    },
+    {
+        "source": " man",
+        "connection": "on",
+        "target": " stage",
+        "value": 0.6452812248665589
+    },
+    {
+        "source": " line",
+        "connection": "of",
+        "target": " duty",
+        "value": 0.704371524439079
+    },
+    {
+        "source": " line",
+        "connection": "in",
+        "target": " Iraq",
+        "value": 0.3654064169965416
+    },
+    {
+        "source": " weeks",
+        "connection": "over",
+        "target": " religion",
+        "value": 0.429872631382309
+    },
+    {
+        "source": " responsibility",
+        "connection": "for",
+        "target": " actions",
+        "value": 0.7530292832153102
+    },
+    {
+        "source": " pictures",
+        "connection": "around",
+        "target": " campaign",
+        "value": 0.6222690891029695
+    },
+    {
+        "source": " look",
+        "connection": "at",
+        "target": " commercials",
+        "value": 0.20768241009655294
+    },
+    {
+        "source": " look",
+        "connection": "at",
+        "target": " WikiLeaks",
+        "value": 0.18147274659882487
+    },
+    {
+        "source": " boxes",
+        "connection": "of",
+        "target": " e",
+        "value": " -"
+    },
+    {
+        "source": " people",
+        "connection": "of",
+        "target": " country",
+        "value": 0.630276067952936
+    },
+    {
+        "source": " term workers",
+        "connection": "at",
+        "target": " FBI",
+        "value": 0.2984494592750409
+    },
+    {
+        "source": " Last time",
+        "connection": "at",
+        "target": " first debate",
+        "value": 0.5759179118352747
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " people",
+        "value": 0.7678621237683835
+    },
+    {
+        "source": " temperament",
+        "connection": "of",
+        "target": " Donald Trump",
+        "value": 0.3178506460203167
+    },
+    {
+        "source": " charge",
+        "connection": "of",
+        "target": " law",
+        "value": 0.6508065006293628
+    },
+    {
+        "source": " law",
+        "connection": "in",
+        "target": " country",
+        "value": 0.8279153910346374
+    },
+    {
+        "source": " handing",
+        "connection": "of",
+        "target": " e",
+        "value": " -"
+    },
+    {
+        "source": " handling",
+        "connection": "of",
+        "target": " classified information",
+        "value": 0.32400889467332594
+    },
+    {
+        "source": " access",
+        "connection": "to",
+        "target": " e",
+        "value": " -"
+    },
+    {
+        "source": " misleading accusations",
+        "connection": "from",
+        "target": " critics",
+        "value": 0.43282727589754594
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " classified material",
+        "value": 0.13528070118600397
+    },
+    {
+        "source": " secretary",
+        "connection": "of",
+        "target": " state",
+        "value": 0.744596365305147
+    },
+    {
+        "source": " letter C",
+        "connection": "on",
+        "target": " document",
+        "value": 0.629803409060207
+    },
+    {
+        "source": " back",
+        "connection": "of",
+        "target": " airplane",
+        "value": 0.33590192544496755
+    },
+    {
+        "source": " talks",
+        "connection": "to",
+        "target": " attorney",
+        "value": 0.511785541098981
+    },
+    {
+        "source": " subpoena",
+        "connection": "from",
+        "target": " States Congress",
+        "value": 0.5561037254931372
+    },
+    {
+        "source": " subpoena",
+        "connection": "from",
+        "target": " States Congress",
+        "value": 0.5561037254931372
+    },
+    {
+        "source": " question",
+        "connection": "from",
+        "target": " Ken Karpowicz",
+        "value": 0.3719966379488312
+    },
+    {
+        "source": " question",
+        "connection": "about",
+        "target": " health care",
+        "value": 0.5757052774191123
+    },
+    {
+        "source": " series",
+        "connection": "of",
+        "target": " actions",
+        "value": 0.8463439463452012
+    },
+    {
+        "source": " highest priority",
+        "connection": "of",
+        "target": " next president",
+        "value": 0.5566029209865847
+    },
+    {
+        "source": " men",
+        "connection": "for",
+        "target": " health insurance",
+        "value": 0.45930792609353477
+    },
+    {
+        "source": " numbers",
+        "connection": "for",
+        "target": " health care",
+        "value": 0.5235459937701264
+    },
+    {
+        "source": " lines",
+        "connection": "around",
+        "target": " state",
+        "value": " artificial lines"
+    },
+    {
+        "source": " craziest thing",
+        "connection": "in",
+        "target": " world",
+        "value": 0.4611383043550436
+    },
+    {
+        "source": " situation",
+        "connection": "in",
+        "target": " country",
+        "value": 0.7953364035179327
+    },
+    {
+        "source": " vast majority",
+        "connection": "of",
+        "target": " people",
+        "value": 0.4559062838397866
+    },
+    {
+        "source": " gap",
+        "connection": "between",
+        "target": " people",
+        "value": 0.5986937581823176
+    },
+    {
+        "source": " people",
+        "connection": "on",
+        "target": " Medicaid",
+        "value": 0.4265345926844425
+    },
+    {
+        "source": " people",
+        "connection": "with",
+        "target": " pre - existing conditions",
+        "value": 0.22542447659408166
+    },
+    {
+        "source": " much competition",
+        "connection": "in",
+        "target": " insurance industry",
+        "value": 0.46634807213152896
+    },
+    {
+        "source": " boundary lines",
+        "connection": "around",
+        "target": " state",
+        "value": 0.5504743942355738
+    },
+    {
+        "source": " end",
+        "connection": "of",
+        "target": " passage",
+        "value": 0.6124677099029644
+    },
+    {
+        "source": " passage",
+        "connection": "of",
+        "target": " Obamacare",
+        "value": 0.32676546021982494
+    },
+    {
+        "source": " architect",
+        "connection": "of",
+        "target": " Obamacare",
+        "value": 0.2338956309561536
+    },
+    {
+        "source": " grant",
+        "connection": "into",
+        "target": " Medicaid",
+        "value": 0.4754303994545275
+    },
+    {
+        "source": " question",
+        "connection": "for",
+        "target": " candidates",
+        "value": 0.4457631863009845
+    },
+    {
+        "source": " threat",
+        "connection": "to",
+        "target": " country",
+        "value": 0.7446996502709576
+    },
+    {
+        "source": " apartment",
+        "connection": "of",
+        "target": " people",
+        "value": 0.4717226951971627
+    },
+    {
+        "source": " difficult situation",
+        "connection": "for",
+        "target": " country",
+        "value": 0.5276489597654271
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " Muslim Americans",
+        "value": 0.25255926759850245
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " divisive dark things",
+        "value": 0.3273087900897727
+    },
+    {
+        "source": " attack",
+        "connection": "by",
+        "target": " Donald",
+        "value": 0.39271888192221477
+    },
+    {
+        "source": " couple",
+        "connection": "of",
+        "target": " things",
+        "value": 0.43318352512015335
+    },
+    {
+        "source": " particular known one",
+        "connection": "with",
+        "target": " Muhammad Ali",
+        "value": 0.15267532924711763
+    },
+    {
+        "source": " vision",
+        "connection": "of",
+        "target": " America",
+        "value": 0.42926001461304375
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " demagogic rhetoric",
+        "value": 0.408610659610325
+    },
+    {
+        "source": " part",
+        "connection": "of",
+        "target": " eyes",
+        "value": 0.598346268358032
+    },
+    {
+        "source": " part",
+        "connection": "on",
+        "target": " front lines",
+        "value": 0.46359539846478254
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " different Muslim groups",
+        "value": 0.25916146493058667
+    },
+    {
+        "source": " different Muslim groups",
+        "connection": "around",
+        "target": " America",
+        "value": 0.28699226916081894
+    },
+    {
+        "source": " part",
+        "connection": "of",
+        "target": " country",
+        "value": 0.6476752462267515
+    },
+    {
+        "source": " part",
+        "connection": "of",
+        "target": " homeland security",
+        "value": 0.5804426874016154
+    },
+    {
+        "source": " coalition",
+        "connection": "with",
+        "target": " majority Muslim nations",
+        "value": 0.5810840752163451
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " nations",
+        "value": 0.6179267736782073
+    },
+    {
+        "source": " gift",
+        "connection": "to",
+        "target": " ISIS",
+        "value": 0.6066882055375548
+    },
+    {
+        "source": " war",
+        "connection": "with",
+        "target": " Islam",
+        "value": 0.36179648240658246
+    },
+    {
+        "source": " hands",
+        "connection": "of",
+        "target": " terrorists",
+        "value": 0.8136423844002778
+    },
+    {
+        "source": " total shutdown",
+        "connection": "of",
+        "target": " Muslims",
+        "value": 0.3606263914712102
+    },
+    {
+        "source": " people",
+        "connection": "in",
+        "target": " Iraq",
+        "value": 0.5270027946615501
+    },
+    {
+        "source": " extreme vetting",
+        "connection": "from",
+        "target": " certain areas",
+        "value": 0.5473826711019496
+    },
+    {
+        "source": " certain areas",
+        "connection": "of",
+        "target": " world",
+        "value": 0.36171995748430985
+    },
+    {
+        "source": " areas",
+        "connection": "like",
+        "target": " Syria",
+        "value": 0.47063226063324776
+    },
+    {
+        "source": " percent increase",
+        "connection": "over",
+        "target": " Obama",
+        "value": 0.37926149359118905
+    },
+    {
+        "source": " feelings",
+        "connection": "about",
+        "target": " country",
+        "value": 0.6518795571440816
+    },
+    {
+        "source": " great Trojan horse",
+        "connection": "of",
+        "target": " time",
+        "value": 0.29190788411152896
+    },
+    {
+        "source": " enough problems",
+        "connection": "in",
+        "target": " country",
+        "value": 0.42320618318557146
+    },
+    {
+        "source": " thousands",
+        "connection": "of",
+        "target": " people",
+        "value": 0.7338060954456056
+    },
+    {
+        "source": " love",
+        "connection": "for",
+        "target": " country",
+        "value": 0.7425041851727046
+    },
+    {
+        "source": " increase",
+        "connection": "from",
+        "target": " Syrian refugees",
+        "value": 0.2707703831915673
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " refugees",
+        "value": 0.5058609312008743
+    },
+    {
+        "source": " blood",
+        "connection": "on",
+        "target": " forehead",
+        "value": 0.6438863072078604
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " terrorists sites",
+        "value": 0.45337558200850636
+    },
+    {
+        "source": " war",
+        "connection": "in",
+        "target": " Iraq",
+        "value": 0.4352639364108481
+    },
+    {
+        "source": " war",
+        "connection": "in",
+        "target": " Iraq",
+        "value": 0.4352639364108481
+    },
+    {
+        "source": " lots",
+        "connection": "of",
+        "target": " fact checking",
+        "value": 0.3645914711049239
+    },
+    {
+        "source": " secretary",
+        "connection": "of",
+        "target": " state",
+        "value": 0.744596365305147
+    },
+    {
+        "source": " president",
+        "connection": "of",
+        "target": " United States",
+        "value": 0.36546816106155794
+    },
+    {
+        "source": " next question",
+        "connection": "from",
+        "target": " public",
+        "value": 0.4279649242752367
+    },
+    {
+        "source": " next question",
+        "connection": "through",
+        "target": " online forum",
+        "value": 0.7103637088510995
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " votes",
+        "value": 0.6519938039470051
+    },
+    {
+        "source": " WikiLeaks release",
+        "connection": "of",
+        "target": " purported excerpts",
+        "value": 0.434570018008566
+    },
+    {
+        "source": " purported excerpts",
+        "connection": "of",
+        "target": " Secretary Clinton",
+        "value": 0.2510595364359076
+    },
+    {
+        "source": " public position",
+        "connection": "on",
+        "target": " certain issues",
+        "value": 0.7126832651507086
+    },
+    {
+        "source": " private stance",
+        "connection": "on",
+        "target": " issues",
+        "value": 0.4562649687435252
+    },
+    {
+        "source": " great display",
+        "connection": "of",
+        "target": " presidential leadership",
+        "value": 0.8330182873427344
+    },
+    {
+        "source": " hacking",
+        "connection": "on",
+        "target": " American accounts",
+        "value": 0.40555051968349565
+    },
+    {
+        "source": " history",
+        "connection": "of",
+        "target": " country",
+        "value": 0.7910256978397857
+    },
+    {
+        "source": " outcome",
+        "connection": "of",
+        "target": " election",
+        "value": 0.590386615746021
+    },
+    {
+        "source": " election",
+        "connection": "for",
+        "target": " Donald Trump",
+        "value": 0.30682364597195805
+    },
+    {
+        "source": " big difference",
+        "connection": "between",
+        "target": " Abraham Lincoln",
+        "value": 0.20348028705683704
+    },
+    {
+        "source": " inner workings",
+        "connection": "of",
+        "target": " Russia",
+        "value": 0.33368020242790686
+    },
+    {
+        "source": " loans",
+        "connection": "from",
+        "target": " Russia",
+        "value": 0.508057034701392
+    },
+    {
+        "source": " loans",
+        "connection": "with",
+        "target": " Russia",
+        "value": 0.508057034701392
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " dollars",
+        "value": 0.6734292062711519
+    },
+    {
+        "source": " millions",
+        "connection": "in",
+        "target": " taxes",
+        "value": 0.7020213610871502
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " dollars",
+        "value": 0.6734292062711519
+    },
+    {
+        "source": " millions",
+        "connection": "in",
+        "target": " taxes",
+        "value": 0.7020213610871502
+    },
+    {
+        "source": " topic",
+        "connection": "of",
+        "target": " taxes",
+        "value": 0.6648383127099106
+    },
+    {
+        "source": " question",
+        "connection": "from",
+        "target": " Spencer Maass",
+        "value": 0.3646185814208642
+    },
+    {
+        "source": " greatest provisions",
+        "connection": "for",
+        "target": " people",
+        "value": 0.44054076264752895
+    },
+    {
+        "source": " provisions",
+        "connection": "in",
+        "target": " tax code",
+        "value": 0.4973543237872555
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " things",
+        "value": 0.5273124919153089
+    },
+    {
+        "source": " lowering",
+        "connection": "of",
+        "target": " taxes",
+        "value": 0.2699363958227495
+    },
+    {
+        "source": " big league",
+        "connection": "for",
+        "target": " middle class",
+        "value": 0.8760365121241088
+    },
+    {
+        "source": " disaster",
+        "connection": "for",
+        "target": " country",
+        "value": 0.8788194046252886
+    },
+    {
+        "source": " growth",
+        "connection": "in",
+        "target": " country",
+        "value": 0.8089283997194373
+    },
+    {
+        "source": " GDP",
+        "connection": "of",
+        "target": " percent",
+        "value": 0.49583361706599594
+    },
+    {
+        "source": " fair share",
+        "connection": "of",
+        "target": " taxes",
+        "value": 0.4033528494544279
+    },
+    {
+        "source": " biggest tax cuts",
+        "connection": "by",
+        "target": " factor",
+        "value": 0.47144334389891823
+    },
+    {
+        "source": " people",
+        "connection": "like",
+        "target": " Donald",
+        "value": 0.4673336538467809
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " class families",
+        "value": 0.4566827244518055
+    },
+    {
+        "source": " vast majority",
+        "connection": "of",
+        "target": " Americans",
+        "value": 0.3800550245864556
+    },
+    {
+        "source": " single break",
+        "connection": "in",
+        "target": " tax code",
+        "value": 0.43412848016764016
+    },
+    {
+        "source": " tax",
+        "connection": "on",
+        "target": " people",
+        "value": 0.5482280591960949
+    },
+    {
+        "source": " surcharge",
+        "connection": "on",
+        "target": " incomes",
+        "value": 0.37189170819989303
+    },
+    {
+        "source": " People",
+        "connection": "like",
+        "target": " Donald",
+        "value": 0.6567429845069735
+    },
+    {
+        "source": " issue",
+        "connection": "on",
+        "target": " Facebook",
+        "value": 0.5412718432744278
+    },
+    {
+        "source": " issue",
+        "connection": "for",
+        "target": " first time",
+        "value": 0.2880845033835032
+    },
+    {
+        "source": " first time",
+        "connection": "in",
+        "target": " campaign",
+        "value": 0.20521570696078203
+    },
+    {
+        "source": " pages",
+        "connection": "of",
+        "target": " tax returns",
+        "value": 0.5533427679151794
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " write-",
+        "value": 0.5795837740835345
+    },
+    {
+        "source": " depreciation",
+        "connection": "as",
+        "target": " senator",
+        "value": 0.4587198786673092
+    },
+    {
+        "source": " tremendous numbers",
+        "connection": "of",
+        "target": " taxes",
+        "value": 0.46843716355748555
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " depreciation",
+        "value": 0.5590214099092194
+    },
+    {
+        "source": " bad judgments",
+        "connection": "on",
+        "target": " Libya",
+        "value": 0.20952110501775634
+    },
+    {
+        "source": " carried interest",
+        "connection": "for",
+        "target": " years",
+        "value": 0.1661737868483896
+    },
+    {
+        "source": " senator",
+        "connection": "from",
+        "target": " New York",
+        "value": 0.38932829502976557
+    },
+    {
+        "source": " senator",
+        "connection": "with",
+        "target": " Republican president",
+        "value": 0.5770646991287506
+    },
+    {
+        "source": " years",
+        "connection": "in",
+        "target": " public service",
+        "value": 0.18394269805068594
+    },
+    {
+        "source": " thousands",
+        "connection": "of",
+        "target": " kids",
+        "value": 0.6061045733094821
+    },
+    {
+        "source": " thousands",
+        "connection": "of",
+        "target": " members",
+        "value": 0.6645231907587552
+    },
+    {
+        "source": " secretary",
+        "connection": "of",
+        "target": " state",
+        "value": 0.744596365305147
+    },
+    {
+        "source": " treaty",
+        "connection": "with",
+        "target": " Russia",
+        "value": 0.3787459015199949
+    },
+    {
+        "source": " pieces",
+        "connection": "of",
+        "target": " legislation",
+        "value": 0.6665436892595745
+    },
+    {
+        "source": " senator",
+        "connection": "for",
+        "target": " years",
+        "value": 0.4455392416817869
+    },
+    {
+        "source": " results",
+        "connection": "for",
+        "target": " people",
+        "value": 0.6851363773854533
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " things",
+        "value": 0.5273124919153089
+    },
+    {
+        "source": " disaster",
+        "connection": "as",
+        "target": " senator",
+        "value": 0.5635728219913737
+    },
+    {
+        "source": " breaking video",
+        "connection": "of",
+        "target": " old Syrian boy",
+        "value": 0.4316317017323118
+    },
+    {
+        "source": " air strike",
+        "connection": "in",
+        "target": " Aleppo",
+        "value": 0.3003384010268008
+    },
+    {
+        "source": " horrors",
+        "connection": "of",
+        "target": " war",
+        "value": 0.47085456332550263
+    },
+    {
+        "source": " war",
+        "connection": "in",
+        "target": " Syria",
+        "value": 0.432833418372185
+    },
+    {
+        "source": " views",
+        "connection": "on",
+        "target": " Facebook",
+        "value": 0.35016804149980674
+    },
+    {
+        "source": " crimes investigation",
+        "connection": "of",
+        "target": " Syrian regime",
+        "value": 0.5092860537869531
+    },
+    {
+        "source": " Syrian regime",
+        "connection": "of",
+        "target": " Bashar al Assad",
+        "value": 0.4599940071182629
+    },
+    {
+        "source": " bombardment",
+        "connection": "of",
+        "target": " Aleppo",
+        "value": 0.3823382730191295
+    },
+    {
+        "source": " Diane",
+        "connection": "from",
+        "target": " Pennsylvania",
+        "value": 0.6883511258148793
+    },
+    {
+        "source": " humanitarian crisis",
+        "connection": "in",
+        "target": " Aleppo",
+        "value": 0.3343056629008753
+    },
+    {
+        "source": " situation",
+        "connection": "in",
+        "target": " Syria",
+        "value": 0.42557584366535206
+    },
+    {
+        "source": " results",
+        "connection": "of",
+        "target": " regime",
+        "value": 0.6075064777366485
+    },
+    {
+        "source": " results",
+        "connection": "by",
+        "target": " Assad",
+        "value": 0.38554660249849865
+    },
+    {
+        "source": " results",
+        "connection": "in",
+        "target": " partnership",
+        "value": 0.5748127719214314
+    },
+    {
+        "source": " partnership",
+        "connection": "with",
+        "target": " Iranians",
+        "value": 0.5099653659699548
+    },
+    {
+        "source": " results",
+        "connection": "on",
+        "target": " ground",
+        "value": 0.6314124854126968
+    },
+    {
+        "source": " thousands",
+        "connection": "of",
+        "target": " people",
+        "value": 0.7338060954456056
+    },
+    {
+        "source": " determined effort",
+        "connection": "by",
+        "target": " Russian air force",
+        "value": 0.4338818982489334
+    },
+    {
+        "source": " secretary",
+        "connection": "of",
+        "target": " state",
+        "value": 0.744596365305147
+    },
+    {
+        "source": " leverage",
+        "connection": "with",
+        "target": " Russians",
+        "value": 0.3614736347330627
+    },
+    {
+        "source": " partners",
+        "connection": "on",
+        "target": " ground",
+        "value": 0.5971824186774334
+    },
+    {
+        "source": " aggressiveness",
+        "connection": "of",
+        "target": " Russia",
+        "value": 0.4724472565093178
+    },
+    {
+        "source": " president",
+        "connection": "of",
+        "target": " United States",
+        "value": 0.36546816106155794
+    },
+    {
+        "source": " secretary",
+        "connection": "of",
+        "target": " state",
+        "value": 0.744596365305147
+    },
+    {
+        "source": " sanctions",
+        "connection": "on",
+        "target": " Iran",
+        "value": 0.42886481376380786
+    },
+    {
+        "source": " secretary",
+        "connection": "of",
+        "target": " state",
+        "value": 0.744596365305147
+    },
+    {
+        "source": " secretary",
+        "connection": "with",
+        "target": " called line",
+        "value": 0.27818393263480967
+    },
+    {
+        "source": " called line",
+        "connection": "in",
+        "target": " sand",
+        "value": 0.34742418335973635
+    },
+    {
+        "source": " total contact",
+        "connection": "with",
+        "target": " White House",
+        "value": 0.39396122508821
+    },
+    {
+        "source": " line",
+        "connection": "in",
+        "target": " sand",
+        "value": 0.7764112190562543
+    },
+    {
+        "source": " terms",
+        "connection": "of",
+        "target": " nuclear",
+        "value": 0.3716527594408243
+    },
+    {
+        "source": " terms",
+        "connection": "of",
+        "target": " nuclear",
+        "value": 0.3716527594408243
+    },
+    {
+        "source": " favor",
+        "connection": "of",
+        "target": " rebels",
+        "value": 0.6369117741860297
+    },
+    {
+        "source": " good chunk",
+        "connection": "of",
+        "target": " oil",
+        "value": 0.5610963563010604
+    },
+    {
+        "source": " look",
+        "connection": "at",
+        "target": " Russia",
+        "value": 0.37383540196741843
+    },
+    {
+        "source": " history",
+        "connection": "of",
+        "target": " deal making",
+        "value": 0.5775832374602297
+    },
+    {
+        "source": " humanitarian crisis",
+        "connection": "in",
+        "target": " Aleppo",
+        "value": 0.3343056629008753
+    },
+    {
+        "source": " provocations",
+        "connection": "by",
+        "target": " Russia",
+        "value": 0.4068378559300104
+    },
+    {
+        "source": " Syrian government forces",
+        "connection": "of",
+        "target": " Assad",
+        "value": 0.44537101825456615
+    },
+    {
+        "source": " military targets",
+        "connection": "of",
+        "target": " Assad regime",
+        "value": 0.6099500013792849
+    },
+    {
+        "source": " look",
+        "connection": "at",
+        "target": " Mosul",
+        "value": 0.3339405677697632
+    },
+    {
+        "source": " stupidity",
+        "connection": "of",
+        "target": " foreign policy",
+        "value": 0.5640896686877599
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " ISIS leaders",
+        "value": 0.4776467787145071
+    },
+    {
+        "source": " bad leaders",
+        "connection": "from",
+        "target": " ISIS",
+        "value": 0.35380963509584873
+    },
+    {
+        "source": " weeks",
+        "connection": "about",
+        "target": " Mosul",
+        "value": 0.3451450607931109
+    },
+    {
+        "source": " harbor",
+        "connection": "between",
+        "target": " Raqqa",
+        "value": 0.430529862177359
+    },
+    {
+        "source": " threat",
+        "connection": "of",
+        "target": " military force",
+        "value": 0.6420634185386167
+    },
+    {
+        "source": " threat",
+        "connection": "beyond",
+        "target": " fly zone",
+        "value": 0.6033889285067319
+    },
+    {
+        "source": " fly zone",
+        "connection": "against",
+        "target": " Assad regime",
+        "value": 0.4639711954782455
+    },
+    {
+        "source": " American ground forces",
+        "connection": "in",
+        "target": " Syria",
+        "value": 0.4797279892779067
+    },
+    {
+        "source": " use",
+        "connection": "of",
+        "target": " special forces",
+        "value": 0.35611851979239173
+    },
+    {
+        "source": " use",
+        "connection": "of",
+        "target": " enablers",
+        "value": 0.6230824276953439
+    },
+    {
+        "source": " enablers",
+        "connection": "in",
+        "target": " Iraq",
+        "value": 0.4369541241530093
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " important planning",
+        "value": 0.26634303470026927
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " planning",
+        "value": 0.39602187265295413
+    },
+    {
+        "source": " targeting",
+        "connection": "of",
+        "target": " Qaida leaders",
+        "value": 0.37677787734764034
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " operations",
+        "value": 0.5083258852823921
+    },
+    {
+        "source": " best partners",
+        "connection": "in",
+        "target": " Syria",
+        "value": 0.25225080825641705
+    },
+    {
+        "source": " best partners",
+        "connection": "as",
+        "target": " Iraq",
+        "value": 0.24051836135993337
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " concern",
+        "value": 0.5678650958044558
+    },
+    {
+        "source": " lot",
+        "connection": "in",
+        "target": " circles",
+        "value": 0.6861182830369171
+    },
+    {
+        "source": " Kurdish fighters",
+        "connection": "on",
+        "target": " ground",
+        "value": 0.3641370256580576
+    },
+    {
+        "source": " devoted president",
+        "connection": "to",
+        "target": " people",
+        "value": 0.3947420366224286
+    },
+    {
+        "source": " people",
+        "connection": "in",
+        "target": " United States",
+        "value": 0.2998951856647826
+    },
+    {
+        "source": " greatest trade deal",
+        "connection": "in",
+        "target": " history",
+        "value": 0.41508127416080226
+    },
+    {
+        "source": " history",
+        "connection": "of",
+        "target": " world",
+        "value": 0.8025309481117846
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " things",
+        "value": 0.5273124919153089
+    },
+    {
+        "source": " percent poverty",
+        "connection": "in",
+        "target": " inner cities",
+        "value": 0.4128015830813902
+    },
+    {
+        "source": " president",
+        "connection": "of",
+        "target": " United States",
+        "value": 0.36546816106155794
+    },
+    {
+        "source": " look",
+        "connection": "at",
+        "target": " Senate run",
+        "value": 0.48106665602820736
+    },
+    {
+        "source": " look",
+        "connection": "at",
+        "target": " upstate New York",
+        "value": 0.25334718621757124
+    },
+    {
+        "source": " percent",
+        "connection": "of",
+        "target": " people",
+        "value": 0.6235827035649895
+    },
+    {
+        "source": " discrimination",
+        "connection": "against",
+        "target": " American children",
+        "value": 0.3751996642769053
+    },
+    {
+        "source": " discrimination",
+        "connection": "in",
+        "target": " schools",
+        "value": 0.664615175480934
+    },
+    {
+        "source": " kids",
+        "connection": "with",
+        "target": " disabilities",
+        "value": 0.7291854919350295
+    },
+    {
+        "source": " first jobs",
+        "connection": "in",
+        "target": " politics",
+        "value": 0.4632608837399097
+    },
+    {
+        "source": " place",
+        "connection": "in",
+        "target": " country",
+        "value": 0.7570207997488917
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " people",
+        "value": 0.6209607304237699
+    },
+    {
+        "source": " place",
+        "connection": "in",
+        "target": " Donald Trump",
+        "value": " America"
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " fear",
+        "value": 0.49449261772073533
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " people",
+        "value": 0.6209607304237699
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " kids",
+        "value": 0.6204893977777052
+    },
+    {
+        "source": " people",
+        "connection": "across",
+        "target": " country",
+        "value": 0.630276067952936
+    },
+    {
+        "source": " half",
+        "connection": "of",
+        "target": " supporters",
+        "value": 0.44327610169453574
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " Americans",
+        "value": 0.6329605849789889
+    },
+    {
+        "source": " inciting",
+        "connection": "of",
+        "target": " violence",
+        "value": 0.41130098087281763
+    },
+    {
+        "source": " violence",
+        "connection": "at",
+        "target": " rallies",
+        "value": 0.6269267840348943
+    },
+    {
+        "source": " brutal kinds",
+        "connection": "of",
+        "target": " comments",
+        "value": 0.593856019116101
+    },
+    {
+        "source": " comments",
+        "connection": "about",
+        "target": " women",
+        "value": 0.7077482281001753
+    },
+    {
+        "source": " kinds",
+        "connection": "of",
+        "target": " Americans",
+        "value": 0.6000401524499166
+    },
+    {
+        "source": " people",
+        "connection": "with",
+        "target": " disabilities",
+        "value": 0.6630499479175304
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " tone",
+        "value": 0.6260657460345875
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " debates",
+        "value": 0.4744642086659155
+    },
+    {
+        "source": " look",
+        "connection": "at",
+        "target": " Washington",
+        "value": 0.2913674652274853
+    },
+    {
+        "source": " increase",
+        "connection": "in",
+        "target": " murder",
+        "value": 0.6403388627486452
+    },
+    {
+        "source": " murder",
+        "connection": "within",
+        "target": " cities",
+        "value": 0.6394035697807285
+    },
+    {
+        "source": " tremendous hate",
+        "connection": "in",
+        "target": " heart",
+        "value": 0.4473779567667314
+    },
+    {
+        "source": " years",
+        "connection": "of",
+        "target": " Barack Obama",
+        "value": 0.2746188044336259
+    },
+    {
+        "source": " important characteristic",
+        "connection": "of",
+        "target": " good leader",
+        "value": 0.6868541684004468
+    },
+    {
+        "source": " days",
+        "connection": "after",
+        "target": " first debate",
+        "value": 0.45729827911493987
+    },
+    {
+        "source": " series",
+        "connection": "of",
+        "target": " tweets",
+        "value": 0.7124997863539605
+    },
+    {
+        "source": " discipline",
+        "connection": "of",
+        "target": " good leader",
+        "value": 0.5612064861677728
+    },
+    {
+        "source": " look",
+        "connection": "at",
+        "target": " person",
+        "value": 0.42338962742607417
+    },
+    {
+        "source": " o\u2019clock",
+        "connection": "in",
+        "target": " morning",
+        "value": 0.44930097083975123
+    },
+    {
+        "source": " look",
+        "connection": "at",
+        "target": " Benghazi",
+        "value": 0.3932056294196618
+    },
+    {
+        "source": " discipline",
+        "connection": "of",
+        "target": " good leader",
+        "value": 0.5612064861677728
+    },
+    {
+        "source": " o\u2019clock",
+        "connection": "in",
+        "target": " morning",
+        "value": 0.44930097083975123
+    },
+    {
+        "source": " modern day form",
+        "connection": "of",
+        "target": " communication",
+        "value": 0.42038874888145417
+    },
+    {
+        "source": " effective way",
+        "connection": "of",
+        "target": " communication",
+        "value": 0.5281043319280369
+    },
+    {
+        "source": " effective form",
+        "connection": "of",
+        "target": " communication",
+        "value": 0.60715215099059
+    },
+    {
+        "source": " opinion",
+        "connection": "of",
+        "target": " many others",
+        "value": 0.3622643618150347
+    },
+    {
+        "source": " former Republican members",
+        "connection": "of",
+        "target": " Congress",
+        "value": 0.27223953017062164
+    },
+    {
+        "source": " terrible time",
+        "connection": "for",
+        "target": " country",
+        "value": 0.4511275389938104
+    },
+    {
+        "source": " recession",
+        "connection": "with",
+        "target": " tax plans",
+        "value": 0.6667175132953549
+    },
+    {
+        "source": " question",
+        "connection": "for",
+        "target": " candidates",
+        "value": 0.4457631863009845
+    },
+    {
+        "source": " important aspect",
+        "connection": "of",
+        "target": " election",
+        "value": 0.363417381821178
+    },
+    {
+        "source": " important issues",
+        "connection": "in",
+        "target": " election",
+        "value": 0.27983371787141137
+    },
+    {
+        "source": " big problem",
+        "connection": "in",
+        "target": " many parts",
+        "value": 0.5032013582895465
+    },
+    {
+        "source": " many parts",
+        "connection": "of",
+        "target": " country",
+        "value": 0.3455153651470957
+    },
+    {
+        "source": " people",
+        "connection": "of",
+        "target": " color",
+        "value": 0.599590627779335
+    },
+    {
+        "source": " names",
+        "connection": "of",
+        "target": " people",
+        "value": 0.7975135308686657
+    },
+    {
+        "source": " balance",
+        "connection": "on",
+        "target": " Supreme Court",
+        "value": 0.2906687535907216
+    },
+    {
+        "source": " vote",
+        "connection": "on",
+        "target": " person",
+        "value": 0.6527679998442989
+    },
+    {
+        "source": " full complement",
+        "connection": "of",
+        "target": " Court justices",
+        "value": 0.2524982531426074
+    },
+    {
+        "source": " dereliction",
+        "connection": "of",
+        "target": " duty",
+        "value": 0.7571851516253517
+    },
+    {
+        "source": " behalf",
+        "connection": "of",
+        "target": " people",
+        "value": 0.5945436437413545
+    },
+    {
+        "source": " mold",
+        "connection": "of",
+        "target": " Justice Scalia",
+        "value": 0.46925418800608554
+    },
+    {
+        "source": " people",
+        "connection": "like",
+        "target": " Hillary Clinton",
+        "value": 0.44831134308214915
+    },
+    {
+        "source": " power",
+        "connection": "of",
+        "target": " office",
+        "value": 0.8380404457236886
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " money",
+        "value": 0.4954777482949456
+    },
+    {
+        "source": " nice sign",
+        "connection": "to",
+        "target": " American public",
+        "value": 0.6319552388586066
+    },
+    {
+        "source": " secretary",
+        "connection": "of",
+        "target": " state",
+        "value": 0.744596365305147
+    },
+    {
+        "source": " more question",
+        "connection": "from",
+        "target": " Ken Bone",
+        "value": 0.12604068417058223
+    },
+    {
+        "source": " more question",
+        "connection": "about",
+        "target": " energy policy",
+        "value": 0.4685488461821805
+    },
+    {
+        "source": " job loss",
+        "connection": "for",
+        "target": " plant workers",
+        "value": 0.7616098032004948
+    },
+    {
+        "source": " siege",
+        "connection": "by",
+        "target": " Obama administration",
+        "value": 0.6222950253506055
+    },
+    {
+        "source": " alternative forms",
+        "connection": "of",
+        "target": " energy",
+        "value": 0.5725933135402143
+    },
+    {
+        "source": " years",
+        "connection": "in",
+        "target": " country",
+        "value": 0.38915444870210925
+    },
+    {
+        "source": " cost",
+        "connection": "of",
+        "target": " steel",
+        "value": 0.646824826737572
+    },
+    {
+        "source": " vast amounts",
+        "connection": "of",
+        "target": " steel",
+        "value": 0.5057779808341482
+    },
+    {
+        "source": " vast amounts",
+        "connection": "over",
+        "target": " United States",
+        "value": 0.32750069180325875
+    },
+    {
+        "source": " great place",
+        "connection": "like",
+        "target": " West Virginia",
+        "value": 0.21756438124700456
+    },
+    {
+        "source": " places",
+        "connection": "like",
+        "target": " Ohio",
+        "value": 0.45150542485220135
+    },
+    {
+        "source": " places",
+        "connection": "like",
+        "target": " Pennsylvania",
+        "value": 0.39202567466096555
+    },
+    {
+        "source": " steel",
+        "connection": "in",
+        "target": " United States",
+        "value": 0.39885617616880054
+    },
+    {
+        "source": " people",
+        "connection": "in",
+        "target": " business",
+        "value": 0.5786486269600041
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " prices",
+        "value": 0.6629761918503546
+    },
+    {
+        "source": " price",
+        "connection": "of",
+        "target": " oil",
+        "value": 0.7971667871725999
+    },
+    {
+        "source": " damaging effect",
+        "connection": "on",
+        "target": " lot",
+        "value": 0.3837864369253441
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " oil companies",
+        "value": 0.6516056944541758
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " natural gas",
+        "value": 0.3074439734601738
+    },
+    {
+        "source": " bridge",
+        "connection": "to",
+        "target": " renewable fuels",
+        "value": 0.48188783683402525
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " new jobs",
+        "value": 0.4380389305933519
+    },
+    {
+        "source": " only candidate",
+        "connection": "from",
+        "target": " very beginning",
+        "value": 0.5481701405666153
+    },
+    {
+        "source": " very beginning",
+        "connection": "of",
+        "target": " campaign",
+        "value": 0.2332442762769098
+    },
+    {
+        "source": " price",
+        "connection": "of",
+        "target": " coal",
+        "value": 0.8426745508309953
+    },
+    {
+        "source": " lot",
+        "connection": "about",
+        "target": " Donald",
+        "value": 0.2930877691392746
+    },
+    {
+        "source": " lot",
+        "connection": "at",
+        "target": " stake",
+        "value": 0.5296214311011181
+    },
+    {
+        "source": " lot",
+        "connection": "at",
+        "target": " stake",
+        "value": 0.5296214311011181
+    },
+    {
+        "source": " statement",
+        "connection": "about",
+        "target": " children",
+        "value": 0.5906998590471134
+    },
+    {
+        "source": " judgment",
+        "connection": "in",
+        "target": " many cases",
+        "value": 0.3353451534584239
+    },
+    {
+        "source": " thanks",
+        "connection": "to",
+        "target": " candidates",
+        "value": 0.4696329276846755
+    },
+    {
+        "source": " Good evening",
+        "connection": "from",
+        "target": " Thomas",
+        "value": 0.34250128510792704
+    },
+    {
+        "source": " presidential debates",
+        "connection": "between",
+        "target": " secretary",
+        "value": 0.37526028283038787
+    },
+    {
+        "source": " secretary",
+        "connection": "of",
+        "target": " state",
+        "value": 0.744596365305147
+    },
+    {
+        "source": " minute segments",
+        "connection": "with",
+        "target": " minute answers",
+        "value": 0.8933232544975284
+    },
+    {
+        "source": " minute answers",
+        "connection": "to",
+        "target": " first question",
+        "value": 0.42151245755734057
+    },
+    {
+        "source": " discussion",
+        "connection": "for",
+        "target": " rest",
+        "value": 0.6299661703589978
+    },
+    {
+        "source": " rest",
+        "connection": "of",
+        "target": " segment",
+        "value": 0.7151832611082551
+    },
+    {
+        "source": " questions",
+        "connection": "in",
+        "target": " topic",
+        "value": 0.7570093944566263
+    },
+    {
+        "source": " None",
+        "connection": "of",
+        "target": " questions",
+        "value": 0.29796241101543436
+    },
+    {
+        "source": " Democratic nominee",
+        "connection": "for",
+        "target": " president",
+        "value": 0.4485852415927725
+    },
+    {
+        "source": " Republican nominee",
+        "connection": "for",
+        "target": " president",
+        "value": 0.4896388331217955
+    },
+    {
+        "source": " balance",
+        "connection": "of",
+        "target": " court",
+        "value": 0.5164736068600514
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " country",
+        "value": 0.4512489178426674
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " opportunities",
+        "value": 0.39869628704172755
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " rights",
+        "value": 0.38480064989394125
+    },
+    {
+        "source": " side",
+        "connection": "of",
+        "target": " American people",
+        "value": 0.34727636127079226
+    },
+    {
+        "source": " side",
+        "connection": "of",
+        "target": " powerful corporations",
+        "value": 0.42307294026135184
+    },
+    {
+        "source": " behalf",
+        "connection": "of",
+        "target": " rights",
+        "value": 0.5095751627800135
+    },
+    {
+        "source": " behalf",
+        "connection": "of",
+        "target": " rights",
+        "value": 0.5095751627800135
+    },
+    {
+        "source": " rights",
+        "connection": "of",
+        "target": " LGBT community",
+        "value": 0.5224560262160337
+    },
+    {
+        "source": " major disagreements",
+        "connection": "with",
+        "target": " opponent",
+        "value": 0.4887013750125385
+    },
+    {
+        "source": " opponent",
+        "connection": "about",
+        "target": " issues",
+        "value": 0.5896304546200927
+    },
+    {
+        "source": " point",
+        "connection": "in",
+        "target": " history",
+        "value": 0.6419425183221716
+    },
+    {
+        "source": " rights",
+        "connection": "of",
+        "target": " people",
+        "value": 0.7404971529683062
+    },
+    {
+        "source": " rights",
+        "connection": "in",
+        "target": " workplace",
+        "value": 0.6362814927706537
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " people",
+        "value": 0.4084308672340969
+    },
+    {
+        "source": " behalf",
+        "connection": "of",
+        "target": " rights",
+        "value": 0.5095751627800135
+    },
+    {
+        "source": " rights",
+        "connection": "as",
+        "target": " Americans",
+        "value": 0.6068229352023934
+    },
+    {
+        "source": " tremendous number",
+        "connection": "of",
+        "target": " people",
+        "value": 0.3920108260441167
+    },
+    {
+        "source": " Many many millions",
+        "connection": "of",
+        "target": " people",
+        "value": 0.3963105090635873
+    },
+    {
+        "source": " great scholars",
+        "connection": "in",
+        "target": " cases",
+        "value": 0.45798800692246744
+    },
+    {
+        "source": " people",
+        "connection": "of",
+        "target": " tremendous respect",
+        "value": 0.33687038493546534
+    },
+    {
+        "source": " minutes",
+        "connection": "for",
+        "target": " open discussion",
+        "value": 0.1951686289644386
+    },
+    {
+        "source": " existing law",
+        "connection": "of",
+        "target": " land",
+        "value": 0.4945873971444268
+    },
+    {
+        "source": " words",
+        "connection": "of",
+        "target": " judge",
+        "value": 0.5778444389871854
+    },
+    {
+        "source": " tradition",
+        "connection": "of",
+        "target": " gun ownership",
+        "value": 0.729457835226479
+    },
+    {
+        "source": " founding",
+        "connection": "of",
+        "target": " country",
+        "value": 0.42464551915663046
+    },
+    {
+        "source": " members",
+        "connection": "of",
+        "target": " family",
+        "value": 0.6831855030256402
+    },
+    {
+        "source": " kinds",
+        "connection": "of",
+        "target": " reforms",
+        "value": 0.8691389424888415
+    },
+    {
+        "source": " second amendment",
+        "connection": "in",
+        "target": " case",
+        "value": 0.5407272339287594
+    },
+    {
+        "source": " people",
+        "connection": "with",
+        "target": " guns",
+        "value": 0.7345928917379165
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " votes",
+        "value": 0.6519938039470051
+    },
+    {
+        "source": " dozens",
+        "connection": "of",
+        "target": " toddlers",
+        "value": 0.5695022845042429
+    },
+    {
+        "source": " conflict",
+        "connection": "with",
+        "target": " sensible sense regulation",
+        "value": 0.6656944702152027
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " dollars",
+        "value": 0.6734292062711519
+    },
+    {
+        "source": " dollars",
+        "connection": "of",
+        "target": " ads",
+        "value": 0.7614644339057632
+    },
+    {
+        "source": " limits",
+        "connection": "on",
+        "target": " assault weapons",
+        "value": 0.6026432504384845
+    },
+    {
+        "source": " limits",
+        "connection": "on",
+        "target": " capacity magazines",
+        "value": 0.6323921241104604
+    },
+    {
+        "source": " right",
+        "connection": "to",
+        "target": " carry",
+        "value": 0.35646376277828773
+    },
+    {
+        "source": " toughest gun laws",
+        "connection": "in",
+        "target": " United States",
+        "value": 0.28481223364511643
+    },
+    {
+        "source": " strong supporter",
+        "connection": "of",
+        "target": " second amendment",
+        "value": 0.6819363137598836
+    },
+    {
+        "source": " endorsement",
+        "connection": "of",
+        "target": " NRA",
+        "value": 0.37912434079561297
+    },
+    {
+        "source": " damage",
+        "connection": "to",
+        "target": " second amendment",
+        "value": 0.5634537506838688
+    },
+    {
+        "source": " issue",
+        "connection": "of",
+        "target": " abortion",
+        "value": 0.6856122499615969
+    },
+    {
+        "source": " right",
+        "connection": "to",
+        "target": " abortion",
+        "value": 0.32815255606576105
+    },
+    {
+        "source": " constitutional right",
+        "connection": "to",
+        "target": " woman",
+        "value": 0.47996719316459524
+    },
+    {
+        "source": " decisions",
+        "connection": "about",
+        "target": " health care",
+        "value": 0.49518874640514843
+    },
+    {
+        "source": " stringent regulations",
+        "connection": "on",
+        "target": " women",
+        "value": 0.45739196987872077
+    },
+    {
+        "source": " kinds",
+        "connection": "of",
+        "target": " cancer screenings",
+        "value": 0.6882057558102274
+    },
+    {
+        "source": " other benefits",
+        "connection": "for",
+        "target": " women",
+        "value": 0.6292069121887178
+    },
+    {
+        "source": " women",
+        "connection": "in",
+        "target": " country",
+        "value": 0.6209243753726487
+    },
+    {
+        "source": " form",
+        "connection": "of",
+        "target": " punishment",
+        "value": 0.6856072856391147
+    },
+    {
+        "source": " punishment",
+        "connection": "for",
+        "target": " women",
+        "value": 0.5180956142333987
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " thinking",
+        "value": 0.44006978547669534
+    },
+    {
+        "source": " right",
+        "connection": "to",
+        "target": " abortion",
+        "value": 0.32815255606576105
+    },
+    {
+        "source": " ban",
+        "connection": "on",
+        "target": " partial birth abortions",
+        "value": 0.4246698467727806
+    },
+    {
+        "source": " regulations",
+        "connection": "on",
+        "target": " abortion",
+        "value": 0.6473849117367247
+    },
+    {
+        "source": " health",
+        "connection": "of",
+        "target": " mother",
+        "value": 0.6548878666064247
+    },
+    {
+        "source": " kinds",
+        "connection": "of",
+        "target": " cases",
+        "value": 0.8864562096678006
+    },
+    {
+        "source": " end",
+        "connection": "of",
+        "target": " pregnancy",
+        "value": 0.6267350384515896
+    },
+    {
+        "source": " end",
+        "connection": "of",
+        "target": " pregnancy",
+        "value": 0.6267350384515896
+    },
+    {
+        "source": " health",
+        "connection": "of",
+        "target": " mother",
+        "value": 0.6548878666064247
+    },
+    {
+        "source": " issue",
+        "connection": "of",
+        "target": " partial birth abortions",
+        "value": 0.4998741871448955
+    },
+    {
+        "source": " womb",
+        "connection": "of",
+        "target": " mother",
+        "value": 0.46447870511129186
+    },
+    {
+        "source": " birth",
+        "connection": "of",
+        "target": " baby",
+        "value": 0.6399095489995708
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " scare rhetoric",
+        "value": 0.30573843495792535
+    },
+    {
+        "source": " course",
+        "connection": "of",
+        "target": " life",
+        "value": 0.42465531372087484
+    },
+    {
+        "source": " behalf",
+        "connection": "of",
+        "target": " country",
+        "value": 0.6101450816094925
+    },
+    {
+        "source": " business",
+        "connection": "in",
+        "target": " decisions",
+        "value": 0.6721157372667118
+    },
+    {
+        "source": " accordance",
+        "connection": "with",
+        "target": " faith",
+        "value": 0.6351773593897887
+    },
+    {
+        "source": " subject",
+        "connection": "of",
+        "target": " immigration",
+        "value": 0.5575680897867342
+    },
+    {
+        "source": " issue",
+        "connection": "of",
+        "target": " immigration",
+        "value": 0.8352084279698596
+    },
+    {
+        "source": " first days",
+        "connection": "as",
+        "target": " president",
+        "value": 0.1833450970315365
+    },
+    {
+        "source": " pathway",
+        "connection": "to",
+        "target": " citizenship",
+        "value": 0.4847487410043345
+    },
+    {
+        "source": " period",
+        "connection": "of",
+        "target": " years",
+        "value": 0.4710845135165582
+    },
+    {
+        "source": " thousands",
+        "connection": "of",
+        "target": " mothers",
+        "value": 0.7546962701243712
+    },
+    {
+        "source": " thousands",
+        "connection": "over",
+        "target": " country",
+        "value": 0.36544355830915914
+    },
+    {
+        "source": " blood",
+        "connection": "of",
+        "target": " youth",
+        "value": 0.7915926245755774
+    },
+    {
+        "source": " plenty",
+        "connection": "of",
+        "target": " other people",
+        "value": 0.2384257588089382
+    },
+    {
+        "source": " action",
+        "connection": "in",
+        "target": " country",
+        "value": 0.8030878793035368
+    },
+    {
+        "source": " school",
+        "connection": "to",
+        "target": " school",
+        "value": 1.0
+    },
+    {
+        "source": " home",
+        "connection": "to",
+        "target": " home",
+        "value": 1.0
+    },
+    {
+        "source": " business",
+        "connection": "to",
+        "target": " business",
+        "value": 1.0
+    },
+    {
+        "source": " meeting",
+        "connection": "with",
+        "target": " Mexican president",
+        "value": 0.357143140384874
+    },
+    {
+        "source": " nation",
+        "connection": "of",
+        "target": " immigrants",
+        "value": 0.640895595157979
+    },
+    {
+        "source": " nation",
+        "connection": "of",
+        "target": " laws",
+        "value": 0.6191958279508257
+    },
+    {
+        "source": " path",
+        "connection": "to",
+        "target": " citizenship",
+        "value": 0.6453557258642862
+    },
+    {
+        "source": " good meeting",
+        "connection": "with",
+        "target": " President",
+        "value": 0.3404060946140263
+    },
+    {
+        "source": " country",
+        "connection": "of",
+        "target": " laws",
+        "value": 0.5919021975322252
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " employers",
+        "value": 0.5835552882357172
+    },
+    {
+        "source": " employers",
+        "connection": "like",
+        "target": " Donald",
+        "value": 0.42110888244823735
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " people",
+        "value": 0.7678621237683835
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " people",
+        "value": 0.7678621237683835
+    },
+    {
+        "source": " country",
+        "connection": "of",
+        "target": " laws",
+        "value": 0.5919021975322252
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " people",
+        "value": 0.7678621237683835
+    },
+    {
+        "source": " disaster",
+        "connection": "on",
+        "target": " trade",
+        "value": 0.7888428304214871
+    },
+    {
+        "source": " disaster",
+        "connection": "with",
+        "target": " open borders",
+        "value": 0.4770457859089968
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " people",
+        "value": 0.7678621237683835
+    },
+    {
+        "source": " position",
+        "connection": "on",
+        "target": " issue",
+        "value": 0.8448170182909108
+    },
+    {
+        "source": " hemispheric common market",
+        "connection": "with",
+        "target": " borders",
+        "value": 0.14608228243922286
+    },
+    {
+        "source": " rest",
+        "connection": "of",
+        "target": " sentence",
+        "value": 0.573025304271655
+    },
+    {
+        "source": " rest",
+        "connection": "of",
+        "target": " world",
+        "value": 0.6950126195429357
+    },
+    {
+        "source": " American accounts",
+        "connection": "of",
+        "target": " private people",
+        "value": 0.7482937014495189
+    },
+    {
+        "source": " American accounts",
+        "connection": "of",
+        "target": " institutions",
+        "value": 0.5770320987735984
+    },
+    {
+        "source": " highest levels",
+        "connection": "of",
+        "target": " Russian government",
+        "value": 0.4851032185191278
+    },
+    {
+        "source": " important question",
+        "connection": "of",
+        "target": " evening",
+        "value": 0.2529870828599094
+    },
+    {
+        "source": " help",
+        "connection": "of",
+        "target": " Putin",
+        "value": 0.32381015222014853
+    },
+    {
+        "source": " Russian espionage",
+        "connection": "against",
+        "target": " Americans",
+        "value": 0.4001026365387375
+    },
+    {
+        "source": " thousands",
+        "connection": "of",
+        "target": " people",
+        "value": 0.7338060954456056
+    },
+    {
+        "source": " respect",
+        "connection": "for",
+        "target": " president",
+        "value": 0.6123591206574804
+    },
+    {
+        "source": " country",
+        "connection": "with",
+        "target": " tremendous numbers",
+        "value": 0.5157886346094097
+    },
+    {
+        "source": " tremendous numbers",
+        "connection": "of",
+        "target": " nuclear warheads",
+        "value": 0.7750730070943197
+    },
+    {
+        "source": " respect",
+        "connection": "for",
+        "target": " person",
+        "value": 0.620148723766968
+    },
+    {
+        "source": " puppet",
+        "connection": "as",
+        "target": " president",
+        "value": 0.6852079182821107
+    },
+    {
+        "source": " president",
+        "connection": "of",
+        "target": " United States",
+        "value": 0.36546816106155794
+    },
+    {
+        "source": " cyber attacks",
+        "connection": "against",
+        "target": " United States",
+        "value": 0.40158008522911093
+    },
+    {
+        "source": " highest levels",
+        "connection": "of",
+        "target": " Kremlin",
+        "value": 0.17015012165966434
+    },
+    {
+        "source": " step",
+        "connection": "of",
+        "target": " way",
+        "value": 0.5124261831490091
+    },
+    {
+        "source": " step",
+        "connection": "of",
+        "target": " way",
+        "value": 0.5124261831490091
+    },
+    {
+        "source": " top national security officials",
+        "connection": "of",
+        "target": " country",
+        "value": 0.46571528828502107
+    },
+    {
+        "source": " interference",
+        "connection": "by",
+        "target": " Russia",
+        "value": 0.36733620631825636
+    },
+    {
+        "source": " interference",
+        "connection": "in",
+        "target": " American election",
+        "value": 0.4099647784609306
+    },
+    {
+        "source": " single step",
+        "connection": "of",
+        "target": " way",
+        "value": 0.3528779654299985
+    },
+    {
+        "source": " look",
+        "connection": "at",
+        "target": " start up",
+        "value": 0.4451676491676149
+    },
+    {
+        "source": " use",
+        "connection": "of",
+        "target": " nuclear weapons",
+        "value": 0.2715204678729294
+    },
+    {
+        "source": " bottom line",
+        "connection": "on",
+        "target": " nuclear weapons",
+        "value": 0.7020458806136651
+    },
+    {
+        "source": " minutes",
+        "connection": "between",
+        "target": " order",
+        "value": 0.4689327641803614
+    },
+    {
+        "source": " finger",
+        "connection": "on",
+        "target": " nuclear button",
+        "value": 0.6405870412370739
+    },
+    {
+        "source": " congressional medal",
+        "connection": "of",
+        "target": " honor recipients",
+        "value": 0.5249302734858919
+    },
+    {
+        "source": " bargain",
+        "connection": "of",
+        "target": " century",
+        "value": 0.6135243462353998
+    },
+    {
+        "source": " liar",
+        "connection": "on",
+        "target": " many different ways",
+        "value": 0.21244048332118529
+    },
+    {
+        "source": "  \t\t  \t\t\t  Nuclear competition",
+        "connection": "in",
+        "target": " Asia",
+        "value": 0.22438201160457608
+    },
+    {
+        "source": " allies",
+        "connection": "in",
+        "target": " Asia",
+        "value": 0.2996139219340522
+    },
+    {
+        "source": " more jobs",
+        "connection": "for",
+        "target": " country",
+        "value": 0.3663703076560363
+    },
+    {
+        "source": " Jobs",
+        "connection": "in",
+        "target": " infrastructure",
+        "value": 0.3770873480848706
+    },
+    {
+        "source": " New jobs",
+        "connection": "in",
+        "target": " clean energy",
+        "value": 0.49387051425055883
+    },
+    {
+        "source": " thirds",
+        "connection": "of",
+        "target": " new jobs",
+        "value": 0.42773918339381567
+    },
+    {
+        "source": " equal pay",
+        "connection": "for",
+        "target": " work",
+        "value": 0.5935024362115753
+    },
+    {
+        "source": " young peel",
+        "connection": "for",
+        "target": " jobs",
+        "value": 0.41410955307716757
+    },
+    {
+        "source": " jobs",
+        "connection": "of",
+        "target": " future",
+        "value": 0.5456890441979872
+    },
+    {
+        "source": " gains",
+        "connection": "in",
+        "target": " last years",
+        "value": 0.3790056349367003
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " dislocation",
+        "value": 0.4705205320312336
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " things",
+        "value": 0.5273124919153089
+    },
+    {
+        "source": " things",
+        "connection": "for",
+        "target": " college tuition",
+        "value": 0.437786592944319
+    },
+    {
+        "source": " massive massive tax increase",
+        "connection": "under",
+        "target": " plan",
+        "value": 0.29125658632942614
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " credit",
+        "value": 0.6049212999825204
+    },
+    {
+        "source": " big fan",
+        "connection": "of",
+        "target": " NATO",
+        "value": 0.31356475337034895
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " free trade",
+        "value": 0.3722551147402056
+    },
+    {
+        "source": " tax cuts",
+        "connection": "under",
+        "target": " Bush administration",
+        "value": 0.5935899143106751
+    },
+    {
+        "source": " control",
+        "connection": "of",
+        "target": " debt",
+        "value": 0.784339102215425
+    },
+    {
+        "source": " Investments",
+        "connection": "in",
+        "target": " new jobs",
+        "value": 0.4206548178203474
+    },
+    {
+        "source": " investments",
+        "connection": "in",
+        "target": " education",
+        "value": 0.6847280662700019
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": "  \t\t  \t\t\t  Secretary",
+        "value": 0.233889436768395
+    },
+    {
+        "source": " level",
+        "connection": "of",
+        "target": " economic catastrophe",
+        "value": 0.2849807967056284
+    },
+    {
+        "source": " secretary",
+        "connection": "of",
+        "target": " state",
+        "value": 0.744596365305147
+    },
+    {
+        "source": " distraught",
+        "connection": "as",
+        "target": " administration team",
+        "value": 0.5336129442189367
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " approach",
+        "value": 0.3199196957712264
+    },
+    {
+        "source": " increase",
+        "connection": "in",
+        "target": " incomes",
+        "value": 0.5492291102153707
+    },
+    {
+        "source": " long string",
+        "connection": "of",
+        "target": " increasing jobs",
+        "value": 0.5156857762126362
+    },
+    {
+        "source": " high representatives",
+        "connection": "of",
+        "target": " India",
+        "value": 0.2787041728993487
+    },
+    {
+        "source": " end",
+        "connection": "of",
+        "target": " last week",
+        "value": 0.6196966212570159
+    },
+    {
+        "source": " final agreement",
+        "connection": "for",
+        "target": " TPP",
+        "value": 0.45783308425318575
+    },
+    {
+        "source": " illegal dumping",
+        "connection": "of",
+        "target": " steel",
+        "value": 0.4504726539282224
+    },
+    {
+        "source": " illegal dumping",
+        "connection": "into",
+        "target": " markets",
+        "value": 0.2921683788572774
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " approach",
+        "value": 0.3199196957712264
+    },
+    {
+        "source": " trade prosecutor",
+        "connection": "for",
+        "target": " first time",
+        "value": 0.27110039932581764
+    },
+    {
+        "source": " first time",
+        "connection": "in",
+        "target": " history",
+        "value": 0.3680180732745413
+    },
+    {
+        "source": " aspect",
+        "connection": "of",
+        "target": " country",
+        "value": 0.6558349439344103
+    },
+    {
+        "source": " years",
+        "connection": "of",
+        "target": " experience",
+        "value": 0.43999641349094826
+    },
+    {
+        "source": " discrimination",
+        "connection": "against",
+        "target": " American kids",
+        "value": 0.37748761891984306
+    },
+    {
+        "source": " racial discrimination",
+        "connection": "in",
+        "target": " apartment buildings",
+        "value": 0.5068355577516235
+    },
+    {
+        "source": " schools",
+        "connection": "in",
+        "target": " Arkansas",
+        "value": 0.5436606624974558
+    },
+    {
+        "source": " years",
+        "connection": "of",
+        "target": " experience",
+        "value": 0.43999641349094826
+    },
+    {
+        "source": " greatest assets",
+        "connection": "in",
+        "target": " world",
+        "value": 0.3224310901755617
+    },
+    {
+        "source": " many many billions",
+        "connection": "of",
+        "target": " dollars",
+        "value": 0.27187552517591146
+    },
+    {
+        "source": " look",
+        "connection": "at",
+        "target": " Syria",
+        "value": 0.4166730400540945
+    },
+    {
+        "source": " look",
+        "connection": "at",
+        "target": " migration",
+        "value": 0.4192296948602725
+    },
+    {
+        "source": " look",
+        "connection": "at",
+        "target": " Libya",
+        "value": 0.38004794956437266
+    },
+    {
+        "source": " look",
+        "connection": "at",
+        "target": " Iraq",
+        "value": 0.33755035963885827
+    },
+    {
+        "source": " president",
+        "connection": "of",
+        "target": " United States",
+        "value": 0.36546816106155794
+    },
+    {
+        "source": " many different women",
+        "connection": "from",
+        "target": " many different circumstances",
+        "value": 0.934684587978902
+    },
+    {
+        "source": " many different circumstances",
+        "connection": "over",
+        "target": " many different years",
+        "value": 0.9552358380683335
+    },
+    {
+        "source": " last couple",
+        "connection": "of",
+        "target": " weeks",
+        "value": 0.5464115045629471
+    },
+    {
+        "source": " rally",
+        "connection": "in",
+        "target": " Chicago",
+        "value": 0.46504422921717514
+    },
+    {
+        "source": " woman",
+        "connection": "on",
+        "target": " plane",
+        "value": 0.8637857286634599
+    },
+    {
+        "source": " minutes",
+        "connection": "of",
+        "target": " fame",
+        "value": 0.5153942543561972
+    },
+    {
+        "source": " number",
+        "connection": "of",
+        "target": " women",
+        "value": 0.6356281033814004
+    },
+    {
+        "source": " number",
+        "connection": "of",
+        "target": " big rallies",
+        "value": 0.47586923882468396
+    },
+    {
+        "source": " number",
+        "connection": "of",
+        "target": " women",
+        "value": 0.6356281033814004
+    },
+    {
+        "source": " more respect",
+        "connection": "for",
+        "target": " women",
+        "value": 0.4004175947210982
+    },
+    {
+        "source": " subpoena",
+        "connection": "from",
+        "target": " States Congress",
+        "value": 0.5561037254931372
+    },
+    {
+        "source": " hundreds",
+        "connection": "of",
+        "target": " times",
+        "value": 0.594410677653292
+    },
+    {
+        "source": " presidency",
+        "connection": "of",
+        "target": " United States",
+        "value": 0.30040780206972045
+    },
+    {
+        "source": " parents",
+        "connection": "of",
+        "target": " young man",
+        "value": 0.4571941981569506
+    },
+    {
+        "source": " prisoner",
+        "connection": "of",
+        "target": " war",
+        "value": 0.6146729259450461
+    },
+    {
+        "source": " case",
+        "connection": "against",
+        "target": " Trump University",
+        "value": 0.45313239464950666
+    },
+    {
+        "source": " pattern",
+        "connection": "of",
+        "target": " divisiveness",
+        "value": 0.8172298843684679
+    },
+    {
+        "source": " dangerous vision",
+        "connection": "of",
+        "target": " country",
+        "value": 0.5553129863350289
+    },
+    {
+        "source": " last weeks",
+        "connection": "of",
+        "target": " campaign",
+        "value": 0.2033832889202954
+    },
+    {
+        "source": " stake",
+        "connection": "in",
+        "target": " election",
+        "value": 0.797421343084041
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " country",
+        "value": 0.4512489178426674
+    },
+    {
+        "source": " violence",
+        "connection": "at",
+        "target": " rallies",
+        "value": 0.6269267840348943
+    },
+    {
+        "source": " bucket",
+        "connection": "about",
+        "target": " fitness",
+        "value": 0.7256431015155086
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " developments",
+        "value": 0.5005013340749275
+    },
+    {
+        "source": " appearance",
+        "connection": "of",
+        "target": " conflict",
+        "value": 0.721749240738799
+    },
+    {
+        "source": " conflict",
+        "connection": "of",
+        "target": " interest",
+        "value": 0.8339825791598141
+    },
+    {
+        "source": " conflict",
+        "connection": "with",
+        "target": " dealing",
+        "value": 0.3972646281149262
+    },
+    {
+        "source": " dealing",
+        "connection": "with",
+        "target": " Clinton Foundation",
+        "value": 0.13646346088367176
+    },
+    {
+        "source": " secretary",
+        "connection": "of",
+        "target": " state",
+        "value": 0.744596365305147
+    },
+    {
+        "source": " grants",
+        "connection": "for",
+        "target": " Haiti relief",
+        "value": 0.4281137802102484
+    },
+    {
+        "source": " grants",
+        "connection": "from",
+        "target": " non",
+        "value": " -"
+    },
+    {
+        "source": " secretary",
+        "connection": "of",
+        "target": " state",
+        "value": 0.744596365305147
+    },
+    {
+        "source": " furtherance",
+        "connection": "of",
+        "target": " interests",
+        "value": 0.6588378380195561
+    },
+    {
+        "source": " rest",
+        "connection": "of",
+        "target": " debate",
+        "value": 0.7839925607856666
+    },
+    {
+        "source": " people",
+        "connection": "around",
+        "target": " world",
+        "value": 0.677497909621935
+    },
+    {
+        "source": " people",
+        "connection": "with",
+        "target": " HIV AIDS",
+        "value": 0.3733893812670346
+    },
+    {
+        "source": " half",
+        "connection": "of",
+        "target": " people",
+        "value": 0.5543808751071626
+    },
+    {
+        "source": " people",
+        "connection": "in",
+        "target": " world",
+        "value": 0.677497909621935
+    },
+    {
+        "source": " treatment",
+        "connection": "in",
+        "target": " partnership",
+        "value": 0.7784546681450597
+    },
+    {
+        "source": " partnership",
+        "connection": "with",
+        "target": " American health association",
+        "value": 0.6427143049497178
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " evidence",
+        "value": 0.6706542626010062
+    },
+    {
+        "source": " evidence",
+        "connection": "about",
+        "target": " good work",
+        "value": 0.571376400514289
+    },
+    {
+        "source": " certain groups",
+        "connection": "of",
+        "target": " people",
+        "value": 0.5186783198912222
+    },
+    {
+        "source": " tremendous amount",
+        "connection": "of",
+        "target": " money",
+        "value": 0.495181388309225
+    },
+    {
+        "source": " look",
+        "connection": "at",
+        "target": " people",
+        "value": 0.3129423191771311
+    },
+    {
+        "source": " people",
+        "connection": "of",
+        "target": " Haiti",
+        "value": 0.549932540246162
+    },
+    {
+        "source": " other day",
+        "connection": "in",
+        "target": " Florida",
+        "value": 0.3227368597196665
+    },
+    {
+        "source": " %",
+        "connection": "of",
+        "target": " money",
+        "value": 0.4189055004969292
+    },
+    {
+        "source": " behalf",
+        "connection": "of",
+        "target": " programs",
+        "value": 0.5564035173337774
+    },
+    {
+        "source": " programs",
+        "connection": "for",
+        "target": " people",
+        "value": 0.7608115875866898
+    },
+    {
+        "source": " people",
+        "connection": "around",
+        "target": " world",
+        "value": 0.677497909621935
+    },
+    {
+        "source": " highest rating",
+        "connection": "from",
+        "target": " watchdogs",
+        "value": 0.5064855831851638
+    },
+    {
+        "source": " foot portrait",
+        "connection": "of",
+        "target": " Donald",
+        "value": 0.39946533181191857
+    },
+    {
+        "source": " poorest country",
+        "connection": "in",
+        "target": " hemisphere",
+        "value": 0.29494210136252363
+    },
+    {
+        "source": " important part",
+        "connection": "of",
+        "target": " American experience",
+        "value": 0.6540614261291084
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " military",
+        "value": 0.4224523517045822
+    },
+    {
+        "source": " right",
+        "connection": "in",
+        "target": " Palm Beach",
+        "value": 0.21265096406865172
+    },
+    {
+        "source": " penny",
+        "connection": "in",
+        "target": " federal income tax",
+        "value": 0.3575109800709901
+    },
+    {
+        "source": " Half",
+        "connection": "of",
+        "target": " undocumented immigrants",
+        "value": 0.13425637995945963
+    },
+    {
+        "source": " undocumented immigrants",
+        "connection": "in",
+        "target": " America",
+        "value": 0.13223012297135106
+    },
+    {
+        "source": " people",
+        "connection": "like",
+        "target": " pass",
+        "value": 0.3864781413765077
+    },
+    {
+        "source": " massive amounts",
+        "connection": "of",
+        "target": " depreciation",
+        "value": 0.5001391447985342
+    },
+    {
+        "source": " hundreds",
+        "connection": "of",
+        "target": " millions",
+        "value": 0.7996356939593858
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " dollars",
+        "value": 0.6734292062711519
+    },
+    {
+        "source": " hundreds",
+        "connection": "of",
+        "target": " millions",
+        "value": 0.7996356939593858
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " dollars",
+        "value": 0.6734292062711519
+    },
+    {
+        "source": " beautiful hotel",
+        "connection": "down",
+        "target": " street",
+        "value": 0.5298915893716643
+    },
+    {
+        "source": " friends",
+        "connection": "on",
+        "target": " Wall Street",
+        "value": 0.2897084083070314
+    },
+    {
+        "source": " last question",
+        "connection": "in",
+        "target": " topic",
+        "value": 0.5887860224735634
+    },
+    {
+        "source": " result",
+        "connection": "of",
+        "target": " election",
+        "value": 0.5924521556795157
+    },
+    {
+        "source": " result",
+        "connection": "of",
+        "target": " election",
+        "value": 0.5924521556795157
+    },
+    {
+        "source": " minds",
+        "connection": "of",
+        "target": " voters",
+        "value": 0.785802002524168
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " people",
+        "value": 0.7678621237683835
+    },
+    {
+        "source": " Millions",
+        "connection": "of",
+        "target": " people",
+        "value": 0.5608297334871554
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " people",
+        "value": 0.7678621237683835
+    },
+    {
+        "source": " tradition",
+        "connection": "in",
+        "target": " country",
+        "value": 0.7508609588097614
+    },
+    {
+        "source": " prides",
+        "connection": "of",
+        "target": " country",
+        "value": 0.5951285479245523
+    },
+    {
+        "source": " peaceful transition",
+        "connection": "of",
+        "target": " power",
+        "value": 0.5959711421202548
+    },
+    {
+        "source": " end",
+        "connection": "of",
+        "target": " campaign",
+        "value": 0.5008136152056134
+    },
+    {
+        "source": " part",
+        "connection": "for",
+        "target": " good",
+        "value": 0.34625444021255997
+    },
+    {
+        "source": " good",
+        "connection": "of",
+        "target": " country",
+        "value": 0.44077191766992296
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " position",
+        "value": 0.373157822386883
+    },
+    {
+        "source": " back",
+        "connection": "of",
+        "target": " airplane",
+        "value": 0.33590192544496755
+    },
+    {
+        "source": " airplane",
+        "connection": "on",
+        "target": " tarmac",
+        "value": 0.6163375543318148
+    },
+    {
+        "source": " airplane",
+        "connection": "in",
+        "target": " Arizona",
+        "value": 0.5380059327915266
+    },
+    {
+        "source": " subject",
+        "connection": "of",
+        "target": " foreign hotspots",
+        "value": 0.5295325673144822
+    },
+    {
+        "source": " help",
+        "connection": "from",
+        "target": " number",
+        "value": 0.5845234717621435
+    },
+    {
+        "source": " number",
+        "connection": "of",
+        "target": " special forces",
+        "value": 0.5024379372021489
+    },
+    {
+        "source": " number",
+        "connection": "on",
+        "target": " ground",
+        "value": 0.6583490017133822
+    },
+    {
+        "source": " lots",
+        "connection": "of",
+        "target": " work",
+        "value": 0.5207074047463832
+    },
+    {
+        "source": " hotbed",
+        "connection": "of",
+        "target": " terrorism",
+        "value": 0.48715196571879704
+    },
+    {
+        "source": " safe havens",
+        "connection": "within",
+        "target": " Syria",
+        "value": 0.13885528404912903
+    },
+    {
+        "source": " constant outflow",
+        "connection": "of",
+        "target": " refugees",
+        "value": 0.24014267956104374
+    },
+    {
+        "source": " leverage",
+        "connection": "on",
+        "target": " Syrian government",
+        "value": 0.4455008004861069
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " serious necessary negotiation",
+        "value": 0.1587141209306859
+    },
+    {
+        "source": " problem",
+        "connection": "with",
+        "target": " Mosul",
+        "value": 0.30706163475276366
+    },
+    {
+        "source": " leaders",
+        "connection": "of",
+        "target": " ISIS",
+        "value": 0.5729448344052828
+    },
+    {
+        "source": " element",
+        "connection": "of",
+        "target": " surprise",
+        "value": 0.685981586262167
+    },
+    {
+        "source": " element",
+        "connection": "of",
+        "target": " surprise",
+        "value": 0.685981586262167
+    },
+    {
+        "source": " spinning",
+        "connection": "in",
+        "target": " graves",
+        "value": 0.3209230555077149
+    },
+    {
+        "source": " spinning",
+        "connection": "at",
+        "target": " stupidity",
+        "value": 0.5257784297856911
+    },
+    {
+        "source": " stupidity",
+        "connection": "of",
+        "target": " country",
+        "value": 0.8071041871761037
+    },
+    {
+        "source": " big winner",
+        "connection": "in",
+        "target": " Mosul",
+        "value": 0.24730694435375536
+    },
+    {
+        "source": " office",
+        "connection": "of",
+        "target": " president",
+        "value": 0.6960960647735578
+    },
+    {
+        "source": " stupidest deal",
+        "connection": "of",
+        "target": " time",
+        "value": 0.3702262282487764
+    },
+    {
+        "source": " invasion",
+        "connection": "of",
+        "target": " Iraq",
+        "value": 0.4126736720151607
+    },
+    {
+        "source": " dozens",
+        "connection": "of",
+        "target": " sources",
+        "value": 0.6679336017187109
+    },
+    {
+        "source": " invasion",
+        "connection": "of",
+        "target": " Iraq",
+        "value": 0.4126736720151607
+    },
+    {
+        "source": " truth",
+        "connection": "about",
+        "target": " position",
+        "value": 0.8559212922404296
+    },
+    {
+        "source": " border",
+        "connection": "of",
+        "target": " Syria",
+        "value": 0.5250789701439899
+    },
+    {
+        "source": " attack",
+        "connection": "on",
+        "target": " Mosul",
+        "value": 0.2950572787812428
+    },
+    {
+        "source": " modern history",
+        "connection": "of",
+        "target": " America",
+        "value": 0.23772631310741746
+    },
+    {
+        "source": " situation",
+        "connection": "in",
+        "target": " Syrian city",
+        "value": 0.4068152617668491
+    },
+    {
+        "source": " Syrian city",
+        "connection": "of",
+        "target": " Aleppo",
+        "value": 0.4650322467981549
+    },
+    {
+        "source": " several things",
+        "connection": "in",
+        "target": " debate",
+        "value": 0.33013248393005146
+    },
+    {
+        "source": " shelling",
+        "connection": "in",
+        "target": " Aleppo",
+        "value": 0.334238845044424
+    },
+    {
+        "source": " look",
+        "connection": "at",
+        "target": " Aleppo",
+        "value": 0.2691646358017677
+    },
+    {
+        "source": " bundles",
+        "connection": "of",
+        "target": " big cash",
+        "value": 0.4111100209022685
+    },
+    {
+        "source": " lots",
+        "connection": "of",
+        "target": " money",
+        "value": 0.5921020467249885
+    },
+    {
+        "source": " thousands",
+        "connection": "of",
+        "target": " Syrian refugees",
+        "value": 0.40233074509555916
+    },
+    {
+        "source": " Lots",
+        "connection": "of",
+        "target": " luck",
+        "value": 0.32572150893087226
+    },
+    {
+        "source": " people",
+        "connection": "of",
+        "target": " Aleppo",
+        "value": 0.4000030025734631
+    },
+    {
+        "source": " words",
+        "connection": "with",
+        "target": " Syria",
+        "value": 0.36273441063888445
+    },
+    {
+        "source": " end",
+        "connection": "of",
+        "target": " conflict",
+        "value": 0.4855041888234881
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " negotiation",
+        "value": 0.595306540311465
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " people",
+        "value": 0.7678621237683835
+    },
+    {
+        "source": " millions",
+        "connection": "of",
+        "target": " people",
+        "value": 0.7678621237683835
+    },
+    {
+        "source": " people",
+        "connection": "inside",
+        "target": " Syria",
+        "value": 0.5648353683390561
+    },
+    {
+        "source": " best interests",
+        "connection": "of",
+        "target": " people",
+        "value": 0.41138059455218784
+    },
+    {
+        "source": " people",
+        "connection": "on",
+        "target": " ground",
+        "value": 0.5157815614346359
+    },
+    {
+        "source": " ground",
+        "connection": "in",
+        "target": " Syria",
+        "value": 0.4633313254169623
+    },
+    {
+        "source": " fight",
+        "connection": "against",
+        "target": " ISIS",
+        "value": 0.5823535501619791
+    },
+    {
+        "source": " picture",
+        "connection": "of",
+        "target": " little old boy",
+        "value": 0.3476349839133917
+    },
+    {
+        "source": " little old boy",
+        "connection": "in",
+        "target": " Aleppo",
+        "value": 0.2183233845301029
+    },
+    {
+        "source": " internal challenges",
+        "connection": "with",
+        "target": " ISIS",
+        "value": 0.45093285475907763
+    },
+    {
+        "source": " killer",
+        "connection": "of",
+        "target": " dozens",
+        "value": 0.4037131635126205
+    },
+    {
+        "source": " dozens",
+        "connection": "of",
+        "target": " people",
+        "value": 0.6765406292798789
+    },
+    {
+        "source": " dozens",
+        "connection": "at",
+        "target": " nightclub",
+        "value": 0.5074091418266604
+    },
+    {
+        "source": " nightclub",
+        "connection": "in",
+        "target": " Orlando",
+        "value": 0.529781614900158
+    },
+    {
+        "source": " vast swathes",
+        "connection": "of",
+        "target": " land",
+        "value": 0.5406441081275363
+    },
+    {
+        "source": " national debt",
+        "connection": "as",
+        "target": " share",
+        "value": 0.36335671650445783
+    },
+    {
+        "source": " share",
+        "connection": "of",
+        "target": " economy",
+        "value": 0.7430601108763258
+    },
+    {
+        "source": " %",
+        "connection": "of",
+        "target": " GDP",
+        "value": 0.37934981643642324
+    },
+    {
+        "source": " %",
+        "connection": "of",
+        "target": " GDP",
+        "value": 0.37934981643642324
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " country",
+        "value": 0.4512489178426674
+    },
+    {
+        "source": " standpoint",
+        "connection": "of",
+        "target": " industry",
+        "value": 0.7420482520304876
+    },
+    {
+        "source": " biggest deals",
+        "connection": "in",
+        "target": " world",
+        "value": 0.27153320565160133
+    },
+    {
+        "source": " greatest negotiators",
+        "connection": "in",
+        "target": " world",
+        "value": 0.31692069135095535
+    },
+    {
+        "source": " greatest business people",
+        "connection": "in",
+        "target": " world",
+        "value": 0.4426920732461147
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " money",
+        "value": 0.4954777482949456
+    },
+    {
+        "source": " ad",
+        "connection": "in",
+        "target": " York Times",
+        "value": 0.34179006888020214
+    },
+    {
+        "source": " laughing stock",
+        "connection": "of",
+        "target": " world",
+        "value": 0.5137393222577845
+    },
+    {
+        "source": " cost",
+        "connection": "of",
+        "target": " prescription drugs",
+        "value": 0.4211975612893652
+    },
+    {
+        "source": " lot",
+        "connection": "of",
+        "target": " other issues",
+        "value": 0.3268925949363575
+    },
+    {
+        "source": " families",
+        "connection": "of",
+        "target": " America",
+        "value": 0.41979356667244583
+    },
+    {
+        "source": " biggest driver",
+        "connection": "of",
+        "target": " debt",
+        "value": 0.48939712948651454
+    },
+    {
+        "source": " %",
+        "connection": "of",
+        "target": " federal spending",
+        "value": 0.3582264253895381
+    },
+    {
+        "source": " committee",
+        "connection": "for",
+        "target": " Responsible Federal Budget",
+        "value": 0.4148983484402227
+    },
+    {
+        "source": " grand bargain",
+        "connection": "in",
+        "target": " effect",
+        "value": 0.5276185606558986
+    },
+    {
+        "source": " grand bargain",
+        "connection": "on",
+        "target": " entitlements",
+        "value": 0.406860073374635
+    },
+    {
+        "source": " look",
+        "connection": "at",
+        "target": " kind",
+        "value": 0.3287117071254685
+    },
+    {
+        "source": " kind",
+        "connection": "of",
+        "target": " numbers",
+        "value": 0.42737688701815973
+    },
+    {
+        "source": " Bad health care",
+        "connection": "at",
+        "target": " expensive price",
+        "value": 0.5185316653259517
+    },
+    {
+        "source": " part",
+        "connection": "of",
+        "target": " commitment",
+        "value": 0.6335629960023897
+    },
+    {
+        "source": " benefits",
+        "connection": "for",
+        "target": " income workers",
+        "value": 0.6275124749820055
+    },
+    {
+        "source": " dire consequences",
+        "connection": "for",
+        "target": " Social Security",
+        "value": 0.25046750568532195
+    },
+    {
+        "source": " solvency",
+        "connection": "of",
+        "target": " medicare trust fund",
+        "value": 0.6690748442698702
+    },
+    {
+        "source": " entitlement spending",
+        "connection": "under",
+        "target": " control",
+        "value": 0.7431243711446983
+    },
+    {
+        "source": " minute",
+        "connection": "as",
+        "target": " final question",
+        "value": 0.34646795087281834
+    },
+    {
+        "source": " cause",
+        "connection": "of",
+        "target": " children",
+        "value": 0.3229459412479205
+    },
+    {
+        "source": " families",
+        "connection": "against",
+        "target": " powerful interests",
+        "value": 0.5063203988647316
+    },
+    {
+        "source": " good jobs",
+        "connection": "with",
+        "target": " rising incomes",
+        "value": 0.6593403325875956
+    },
+    {
+        "source": " greatest people",
+        "connection": "on",
+        "target": " Earth",
+        "value": 0.25142444846935375
+    },
+    {
+        "source": " greatest people",
+        "connection": "in",
+        "target": " military",
+        "value": 0.386969890270198
+    },
+    {
+        "source": " talk",
+        "connection": "to",
+        "target": " African Americans",
+        "value": 0.22148400372748
+    },
+    {
+        "source": " more years",
+        "connection": "of",
+        "target": " Barack Obama",
+        "value": 0.21776029285038007
+    },
+    {
+        "source": " end",
+        "connection": "of",
+        "target": " debates",
+        "value": 0.40571300363188495
+    },
+    {
+        "source": " university",
+        "connection": "of",
+        "target": " Nevada Las Vegas",
+        "value": 0.4217901502609472
+    }
+]
